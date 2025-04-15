@@ -1,0 +1,36 @@
+name: Generar EPG
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 3 * * *" # Ejecutar todos los días a las 03:00 UTC
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout del repositorio
+        uses: actions/checkout@v3
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Ejecutar script de EPG
+        run: python EPG_script.py
+
+      - name: Verificar archivos generados
+        run: |
+          ls -lh
+          cat EPG.log
+
+      - name: Commit y push (opcional)
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add EPG.xml EPG.log
+          git commit -m "🔄 EPG actualizado automáticamente [$(date)]"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
