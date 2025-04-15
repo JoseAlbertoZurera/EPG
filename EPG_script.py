@@ -15,13 +15,13 @@ def log(message):
         log_file.write(f"[{timestamp}] {message}\n")
 
 def download_file(url, dest_filename):
-    log(f"Descargando: {url}")
+    print(f"Descargando: {url}")
     with urllib.request.urlopen(url) as response:
         with open(dest_filename, 'wb') as out_file:
             shutil.copyfileobj(response, out_file)
 
 def decompress_gz(src, dest):
-    log(f"Descomprimiendo archivo: {src}")
+    print(f"Descomprimiendo archivo: {src}")
     with gzip.open(src, 'rb') as f_in:
         with open(dest, 'wb') as f_out:
             shutil.copyfileobj(f_in, f_out)
@@ -69,7 +69,7 @@ def main():
             all_channels.extend(ch)
             all_programs.extend(pr)
 
-            log(f"✅ Procesado correctamente: {url} (Canales: {len(ch)}, Programas: {len(pr)})")
+            print(f"✅ EPG procesado correctamente: {url} (Canales: {len(ch)}, Programas: {len(pr)})")
 
         except Exception as e:
             log(f"[ERROR] Error procesando {url}: {e}")
@@ -85,10 +85,6 @@ def main():
         f.writelines(all_channels)
         f.writelines(all_programs)
         f.write('</tv>\n')
-
-    log(f"[OK] EPG generado: {FINAL_XML}")
-    log(f"[OK] Total canales: {len(all_channels)}")
-    log(f"[OK] Total programas: {len(all_programs)}")
 
     print(f"\n✅ EPG generado en {FINAL_XML}")
     print(f"📺 Canales: {len(all_channels)}")
