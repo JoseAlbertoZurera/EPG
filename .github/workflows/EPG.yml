@@ -32,8 +32,9 @@ jobs:
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
-          git add EPG.xml EPG.log
-          git commit -m "🔄 EPG actualizado [$(date)]"
+          git add EPG.xml
+          if [ -f EPG.log ]; then git add EPG.log; fi
+          git commit -m "🔄 EPG actualizado [$(date)]" || echo "Sin cambios para commitear"
           git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
