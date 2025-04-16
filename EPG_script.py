@@ -4,6 +4,7 @@ import shutil
 import urllib.request
 import xml.etree.ElementTree as ET
 from datetime import datetime
+import time
 
 INPUT_FILE = 'urls.txt'
 FINAL_XML = 'EPG.xml'
@@ -29,6 +30,12 @@ def decompress_gz(src, dest):
 def extract_elements(xml_file):
     channels = []
     programs = []
+
+    # Detectar si es horario de verano (DST)
+    is_dst = time.localtime().tm_isdst > 0
+    offset = '-0200' if is_dst else '+0000'
+    print(f"Usando offset horario: {offset}")
+
     tree = ET.parse(xml_file)
     root = tree.getroot()
     for elem in root:
@@ -38,7 +45,7 @@ def extract_elements(xml_file):
             for attr in ['start', 'stop']:
                 if attr in elem.attrib:
                     ts = elem.attrib[attr]
-                    elem.attrib[attr] = ts[:14] + ' -0200'
+                    elem.attrib[attr] = ts[:14] + f' {offset}'
             programs.append(ET.tostring(elem, encoding='unicode'))
     return channels, programs
 
