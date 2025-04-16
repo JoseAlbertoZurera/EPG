@@ -26,7 +26,7 @@ jobs:
       - name: Verificar archivos generados
         run: |
           ls -lh
-          cat EPG.log
+          if [ -f EPG.log ]; then cat EPG.log; else echo "📝 No se generó EPG.log"; fi
 
       - name: Commit y push (opcional)
         run: |
@@ -40,12 +40,12 @@ jobs:
 
       # Notificación de fallos
       - name: Notify on failure
-        if: failure()
+        if: failure() && github.event_name == 'pull_request'
         uses: actions/github-script@v6
         with:
           script: |
             github.rest.issues.createComment({
-              issue_number: context.issue.number,
+              issue_number: context.payload.pull_request.number,
               owner: context.repo.owner,
               repo: context.repo.repo,
               body: "⚠️ Fallo al generar EPG"
