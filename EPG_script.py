@@ -5,6 +5,15 @@ import urllib.request
 import xml.etree.ElementTree as ET
 from datetime import datetime
 import time
+import sys
+
+# Forzar zona horaria a España (funciona en Linux/GitHub Actions)
+if sys.platform != 'win32':
+    os.environ['TZ'] = 'Europe/Madrid'
+    time.tzset()  # Solo en Unix
+else:
+    print("tzset no disponible en Windows. Usa pytz/zoneinfo.")
+
 
 INPUT_FILE = 'urls.txt'
 FINAL_XML = 'EPG.xml'
