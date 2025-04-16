@@ -3,7 +3,10 @@ name: Generar EPG
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 12 * * *" # 12:00 UTC = 14:00 hora española (CET/CEST)
+    - cron: "0 8 * * *" # 10:00 hora española (CET/CEST)
+    - cron: "0 12 * * *" # 14:00 hora española (CET/CEST)
+    - cron: "0 16 * * *" # 18:00 hora española (CET/CEST)
+    - cron: "0 20 * * *" # 22:00 hora española (CET/CEST)
 
 jobs:
   build:
