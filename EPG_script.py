@@ -39,11 +39,11 @@ def decompress_gz(src, dest):
 def extract_elements(xml_file):
     channels, programs = [], []
 
-    # DST? → +2 h en verano, +1 h en invierno
+    # Zona España: +02 en verano, +01 en invierno
     spain_off = timedelta(hours=2 if time.localtime().tm_isdst else 1)
     spain_tz  = timezone(spain_off)
-    # restar 4 h en verano, 2 h en invierno
-    fix = timedelta(hours=4 if time.localtime().tm_isdst else 2)
+    # FIX = siempre restar 4 h
+    fix = timedelta(hours=4)
 
     tree = ET.parse(xml_file)
     for elem in tree.getroot():
@@ -52,9 +52,13 @@ def extract_elements(xml_file):
         elif elem.tag == 'programme':
             for attr in ('start','stop'):
                 if attr in elem.attrib:
+                    # parsea cualquier offset original
                     dt = datetime.strptime(elem.attrib[attr], '%Y%m%d%H%M%S %z')
-                    dt -= fix                       # corrige 4 h o 2 h según estación
+                    # 1) corrige los 4 h de desfase
+                    dt -= fix
+                    # 2) ajústalo al huso español (+01/+02)
                     dt_spain = dt.astimezone(spain_tz)
+                    # 3) formatea con el offset correcto
                     elem.attrib[attr] = dt_spain.strftime('%Y%m%d%H%M%S %z')
             programs.append(ET.tostring(elem, encoding='unicode'))
     return channels, programs
