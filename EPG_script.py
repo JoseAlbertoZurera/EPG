@@ -3,7 +3,7 @@ import gzip
 import shutil
 import urllib.request
 import xml.etree.ElementTree as ET
-from datetime import datetime
+from datetime import datetime, timedelta
 import time
 import sys
 
@@ -37,24 +37,25 @@ def decompress_gz(src, dest):
             shutil.copyfileobj(f_in, f_out)
 
 def extract_elements(xml_file):
-    channels = []
-    programs = []
-
-    # Detectar si es horario de verano (DST)
-    is_dst = time.localtime().tm_isdst > 0
-    offset = '-0200' if is_dst else '+0000'
-    print(f"Usando offset horario: {offset}")
+    channels, programs = [], []
 
     tree = ET.parse(xml_file)
     root = tree.getroot()
+    # ¿Verano? → restamos 4h; ¿Invierno? → restamos 2h
+    delta = timedelta(hours=4 if time.localtime().tm_isdst else 2)
+
     for elem in root:
         if elem.tag == 'channel':
             channels.append(ET.tostring(elem, encoding='unicode'))
         elif elem.tag == 'programme':
-            for attr in ['start', 'stop']:
+            for attr in ('start', 'stop'):
                 if attr in elem.attrib:
-                    ts = elem.attrib[attr]
-                    elem.attrib[attr] = ts[:14] + f' {offset}'
+                    # parseamos con %z para reconocer offsets +0000, -0200, etc.
+                    dt = datetime.strptime(elem.attrib[attr], '%Y%m%d%H%M%S %z')
+                    # restamos delta (4h o 2h)
+                    dt -= delta
+                    # volvemos a formatear con su nuevo offset
+                    elem.attrib[attr] = dt.strftime('%Y%m%d%H%M%S %z')
             programs.append(ET.tostring(elem, encoding='unicode'))
     return channels, programs
 
