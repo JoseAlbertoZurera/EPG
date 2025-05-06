@@ -3,7 +3,7 @@ import gzip
 import shutil
 import urllib.request
 import xml.etree.ElementTree as ET
-from datetime import datetime, timedelta
+from datetime import datetime, timezone, timedelta
 import time
 import sys
 
@@ -39,23 +39,23 @@ def decompress_gz(src, dest):
 def extract_elements(xml_file):
     channels, programs = [], []
 
-    tree = ET.parse(xml_file)
-    root = tree.getroot()
-    # ¿Verano? → restamos 4h; ¿Invierno? → restamos 2h
-    delta = timedelta(hours=4 if time.localtime().tm_isdst else 2)
+    # Detectar DST: +2h en verano, +1h en invierno
+    spain_off = timedelta(hours=2 if time.localtime().tm_isdst else 1)
+    spain_tz  = timezone(spain_off)
 
-    for elem in root:
+    tree = ET.parse(xml_file)
+    for elem in tree.getroot():
         if elem.tag == 'channel':
             channels.append(ET.tostring(elem, encoding='unicode'))
         elif elem.tag == 'programme':
-            for attr in ('start', 'stop'):
+            for attr in ('start','stop'):
                 if attr in elem.attrib:
-                    # parseamos con %z para reconocer offsets +0000, -0200, etc.
+                    # parsea cualquier offset original (+0000, -0200, etc.)
                     dt = datetime.strptime(elem.attrib[attr], '%Y%m%d%H%M%S %z')
-                    # restamos delta (4h o 2h)
-                    dt -= delta
-                    # volvemos a formatear con su nuevo offset
-                    elem.attrib[attr] = dt.strftime('%Y%m%d%H%M%S %z')
+                    # conviértelo primero a UTC, luego a la hora española fija
+                    dt_spain = dt.astimezone(spain_tz)
+                    # y formatea con el offset +0100 o +0200
+                    elem.attrib[attr] = dt_spain.strftime('%Y%m%d%H%M%S %z')
             programs.append(ET.tostring(elem, encoding='unicode'))
     return channels, programs
 
