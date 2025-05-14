@@ -43,16 +43,33 @@ def extract_elements(xml_file):
     for elem in tree.getroot():
         if elem.tag == 'channel':
             channels.append(ET.tostring(elem, encoding='unicode'))
+
         elif elem.tag == 'programme':
             for attr in ('start', 'stop'):
                 if attr in elem.attrib:
-                    # 1. Parsear la hora original con su offset
-                    dt = datetime.strptime(elem.attrib[attr], '%Y%m%d%H%M%S %z')
-                    # 2. Convertir a UTC
-                    dt_utc = dt.astimezone(timezone.utc)
-                    # 3. Guardar como UTC con offset +0000
-                    elem.attrib[attr] = dt_utc.strftime('%Y%m%d%H%M%S +0000')
+                    ts = elem.attrib[attr]
+
+                    try:
+                        # ⚠️ Detectar si la hora es '24:00:00' (no válida en datetime)
+                        if ts[8:14] == '240000':
+                            # Convertir a '00:00:00' del día siguiente
+                            base = datetime.strptime(ts[:8], '%Y%m%d') + timedelta(days=1)
+                            ts = base.strftime('%Y%m%d') + '000000' + ts[14:]
+
+                        # 🕒 Parsear fecha y hora original (incluyendo el offset)
+                        dt = datetime.strptime(ts, '%Y%m%d%H%M%S %z')
+
+                        # 🌍 Convertir a UTC
+                        dt_utc = dt.astimezone(timezone.utc)
+
+                        # ✅ Guardar en formato estándar UTC con offset '+0000'
+                        elem.attrib[attr] = dt_utc.strftime('%Y%m%d%H%M%S +0000')
+
+                    except Exception as e:
+                        print(f"❌ Error procesando atributo '{attr}' con valor '{ts}': {e}")
+
             programs.append(ET.tostring(elem, encoding='unicode'))
+
     return channels, programs
 
 def main():
@@ -99,10 +116,20 @@ def main():
         f.writelines(all_programs)
         f.write('</tv>\n')
 
-    print(f"\n✅ EPG generado en {FINAL_XML}")
-    print(f"📺 Canales: {len(all_channels)}")
-    print(f"🗓️ Programas: {len(all_programs)}")
-    print(f"📝 Revisa el log: {LOG_FILE}")
+    # Validar que el XML final está bien formado
+    try:
+        ET.parse(FINAL_XML)
+        print(f"\n✅ EPG generado en {FINAL_XML}")
+        print(f"📺 Canales: {len(all_channels)}")
+        print(f"🗓️ Programas: {len(all_programs)}")
+        print("✅ Validación XML: El archivo EPG.xml está bien formado.")
+    except ET.ParseError as e:
+        print(f"❌ Validación XML fallida: {e}")
+        log(f"[ERROR] El archivo EPG.xml no es un XML válido: {e}")
+
+    # Mostrar mensaje del log solo si contiene errores
+    if os.path.exists(LOG_FILE) and os.path.getsize(LOG_FILE) > 0:
+        print(f"📝 Revisa el log: {LOG_FILE}")
 
 if __name__ == "__main__":
     main()
