@@ -1,6 +1,8 @@
 {
-  "La 1 HD": ["la1.es", "LA1.es"],
+  "La 1 HD": ["la1.es", "LA1.es", "996545", "861062"],
   "La 2": ["la2.es", "LA2.es", "1340288"],
-  "Antena 3 HD": ["Antena3.es"],
-  "Cuatro HD": ["Cuatro.es"]
+  "Antena 3 HD": ["antena3.es", "Antena3.es", "1548095", "1592088", "1340280"],
+  "Cuatro HD": ["cuatro.es", "Cuatro.es", "1548088", "1700617", "1340258"],
+  "Telecinco HD": ["telecinco.es", "Telecinco.es", "1548064", "1700618"],
+  "La Sexta HD": ["lasexta.es", "Lasexta.es", "1548077", "1592077", "1340287"]
 }
