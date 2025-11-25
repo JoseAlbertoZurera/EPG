@@ -1,4 +1,6 @@
 {
-  "La 1 HD": ["la1.es"],
-  "La 2": ["la2.es"]
+  "La 1 HD": ["la1.es", "LA1.es"],
+  "La 2": ["la2.es", "LA2.es", "1340288"],
+  "Antena 3 HD": ["Antena3.es"],
+  "Cuatro HD": ["Cuatro.es"]
 }
