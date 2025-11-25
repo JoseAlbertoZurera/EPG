@@ -63,6 +63,15 @@
     <display-name>La 1 720</display-name>
     <display-name>La 1 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%201.png" />
+  </channel><channel id="LA 1 SD"><display-name>La 1</display-name>
+    <display-name>La 1.TV</display-name>
+    <display-name>La 1 SD</display-name>
+    <display-name>La 1 HD</display-name>
+    <display-name>La 1 FHD</display-name>
+    <display-name>La 1 UHD</display-name>
+    <display-name>La 1 720</display-name>
+    <display-name>La 1 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%201.png" />
   </channel><channel id="ES: LA 2 ᴴᴰ"><display-name>La 2</display-name>
     <display-name>La 2.TV</display-name>
     <display-name>La 2 SD</display-name>
@@ -208,6 +217,19 @@
     <star-rating system="ES">
       <value>6.0/10</value>
     </star-rating>
+  </programme><programme start="20251125065000 +0000" stop="20251125093500 +0000" channel="LA 1 SD"><title>La hora de La 1: La hora de la actualidad T8 E233</title>
+    <desc>Entretenimiento,Magacín | 2025 | ⑯ | ★6.0/10
+· Magazine matinal de la 1 en el que se reúne información de actualidad social. El programa cuenta con voces autorizadas que tratan temas que fomenten el pensamiento crítico y el servicio público para ayudar a los ciudadanos en su día a día.
+· País: España
+· Dirección: Silvia Intxaurrondo.</desc>
+    <category>Entretenimiento, Magacín</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/M24HF4174228" />
+    <rating system="ES">
+      <value>16</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
   </programme><programme start="20251125093500 +0000" stop="20251125140000 +0000" channel="ES: LA 1 ᴴᴰ"><title>Mañaneros 360 T2 E62</title>
     <desc>Entretenimiento,Magacín | 2025 | ⑯ | ★6.6/10
 · Magazín de actualidad conducido por Adela González y Javier Ruiz, que combina noticias y entretenimiento de la mano de sus colaboradores.
@@ -287,6 +309,19 @@
       <value>6.6/10</value>
     </star-rating>
   </programme><programme start="20251125093500 +0000" stop="20251125140000 +0000" channel="VO: LA 1 ᴿᴬᵂ"><title>Mañaneros 360 T2 E62</title>
+    <desc>Entretenimiento,Magacín | 2025 | ⑯ | ★6.6/10
+· Magazín de actualidad conducido por Adela González y Javier Ruiz, que combina noticias y entretenimiento de la mano de sus colaboradores.
+· País: España
+· Presenta: Adela González, Javier Ruiz.</desc>
+    <category>Entretenimiento, Magacín</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF4179149" />
+    <rating system="ES">
+      <value>16</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.6/10</value>
+    </star-rating>
+  </programme><programme start="20251125093500 +0000" stop="20251125140000 +0000" channel="LA 1 SD"><title>Mañaneros 360 T2 E62</title>
     <desc>Entretenimiento,Magacín | 2025 | ⑯ | ★6.6/10
 · Magazín de actualidad conducido por Adela González y Javier Ruiz, que combina noticias y entretenimiento de la mano de sus colaboradores.
 · País: España
@@ -397,6 +432,20 @@
     <star-rating system="ES">
       <value>6.2/10</value>
     </star-rating>
+  </programme><programme start="20251125140000 +0000" stop="20251125143500 +0000" channel="LA 1 SD"><title>Telediario 1</title>
+    <desc>Información,Informativo | 2014 | TP | ★6.2/10
+· El noticiario audiovisual más veterano de la historia de la televisión en España. Alejandra Herranz hace un repaso diario a la actualidad general de España y el mundo, además de una sección dedicada al deporte.
+· País: España
+· Presenta: Alejandra Herranz.
+· Productora: Televisión Española (TVE).</desc>
+    <category>Información, Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/M24HF518438" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.2/10</value>
+    </star-rating>
   </programme><programme start="20251125143500 +0000" stop="20251125144000 +0000" channel="ES: LA 1 ᴴᴰ"><title>Deportes 1</title>
     <desc>Deportes,Programa deportes | 2025 | ★6.0/10
 · Actualidad deportiva diaria nacional e internacional.
@@ -458,6 +507,16 @@
       <value>6.0/10</value>
     </star-rating>
   </programme><programme start="20251125143500 +0000" stop="20251125144000 +0000" channel="VO: LA 1 ᴿᴬᵂ"><title>Deportes 1</title>
+    <desc>Deportes,Programa deportes | 2025 | ★6.0/10
+· Actualidad deportiva diaria nacional e internacional.
+· País: España
+· Presenta: Ana Ibáñez, Lara Gandarillas, Marcos López.</desc>
+    <category>Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF3921384" />
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme><programme start="20251125143500 +0000" stop="20251125144000 +0000" channel="LA 1 SD"><title>Deportes 1</title>
     <desc>Deportes,Programa deportes | 2025 | ★6.0/10
 · Actualidad deportiva diaria nacional e internacional.
 · País: España
@@ -537,6 +596,16 @@
     <star-rating system="ES">
       <value>6.4/10</value>
     </star-rating>
+  </programme><programme start="20251125144000 +0000" stop="20251125144500 +0000" channel="LA 1 SD"><title>El tiempo</title>
+    <desc>Información,Meteorología | 2014 | ★6.4/10
+· Información sobre la previsión meteorológica.
+· País: España
+· Productora: Televisión Española (TVE).</desc>
+    <category>Información, Meteorología</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/M24HF332735" />
+    <star-rating system="ES">
+      <value>6.4/10</value>
+    </star-rating>
   </programme><programme start="20251125144500 +0000" stop="20251125145500 +0000" channel="ES: LA 1 ᴴᴰ"><title>Informativo territorial 2</title>
     <desc>Información,Informativo | 2023 | ★6.0/10
 · Espacio de emisión del informativo de cada centro territorial de TVE.</desc>
@@ -586,6 +655,14 @@
       <value>6.0/10</value>
     </star-rating>
   </programme><programme start="20251125144500 +0000" stop="20251125145500 +0000" channel="VO: LA 1 ᴿᴬᵂ"><title>Informativo territorial 2</title>
+    <desc>Información,Informativo | 2023 | ★6.0/10
+· Espacio de emisión del informativo de cada centro territorial de TVE.</desc>
+    <category>Información, Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF2189999" />
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme><programme start="20251125144500 +0000" stop="20251125145500 +0000" channel="LA 1 SD"><title>Informativo territorial 2</title>
     <desc>Información,Informativo | 2023 | ★6.0/10
 · Espacio de emisión del informativo de cada centro territorial de TVE.</desc>
     <category>Información, Informativo</category>
@@ -684,6 +761,19 @@
     <star-rating system="ES">
       <value>6.0/10</value>
     </star-rating>
+  </programme><programme start="20251125145500 +0000" stop="20251125163500 +0000" channel="LA 1 SD"><title>Directo al grano T1 E52</title>
+    <desc>Entretenimiento,Magacín | 2025 | ⑯ | ★6.0/10
+· Magacín conducido por Marta Flich y Gonzalo Miró que comenta la actualidad e intenta explicar de forma sencilla lo que ocurre, con rigor, claridad y dinamismo.
+· País: España
+· Presenta: Marta Flich, Gonzalo Miró.</desc>
+    <category>Entretenimiento, Magacín</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF4179151" />
+    <rating system="ES">
+      <value>16</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
   </programme><programme start="20251125163500 +0000" stop="20251125173500 +0000" channel="ES: LA 1 ᴴᴰ"><title>Valle Salvaje T3 E63</title>
     <desc>Series,Telenovela | 2025 | ⑫ | ★6.6/10
 · Adriana, una joven de 20 años, viaja de Madrid a Asturias tras descubrir que su matrimonio con un desconocido fue concertado en secreto y debe ir a buscarlo a casa de su tía. Allí será obligada a trabajar como criada.
@@ -763,6 +853,19 @@
       <value>6.6/10</value>
     </star-rating>
   </programme><programme start="20251125163500 +0000" stop="20251125173500 +0000" channel="VO: LA 1 ᴿᴬᵂ"><title>Valle Salvaje T3 E63</title>
+    <desc>Series,Telenovela | 2025 | ⑫ | ★6.6/10
+· Adriana, una joven de 20 años, viaja de Madrid a Asturias tras descubrir que su matrimonio con un desconocido fue concertado en secreto y debe ir a buscarlo a casa de su tía. Allí será obligada a trabajar como criada.
+· País: España
+· Reparto: Rocío Suárez de Puga, Manuela Velasco, José Manuel Seda, Marina Sabadell, Mari Paz Sayago, Chechu Salgado.
+· Productora: Bambú Producciones.</desc>
+    <category>Series, Telenovela</category>
+    <rating system="ES">
+      <value>12</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.6/10</value>
+    </star-rating>
+  </programme><programme start="20251125163500 +0000" stop="20251125173500 +0000" channel="LA 1 SD"><title>Valle Salvaje T3 E63</title>
     <desc>Series,Telenovela | 2025 | ⑫ | ★6.6/10
 · Adriana, una joven de 20 años, viaja de Madrid a Asturias tras descubrir que su matrimonio con un desconocido fue concertado en secreto y debe ir a buscarlo a casa de su tía. Allí será obligada a trabajar como criada.
 · País: España
@@ -880,6 +983,21 @@
     <star-rating system="ES">
       <value>6.8/10</value>
     </star-rating>
+  </programme><programme start="20251125173500 +0000" stop="20251125183500 +0000" channel="LA 1 SD"><title>La Promesa T1 E723</title>
+    <desc>Series,Drama | 2025 | ⑫ | ★6.8/10
+· En 1913, una mujer, una venganza y una gran historia de amor.
+· País: España
+· Reparto: Ana Garcés, Arturo Sancho, Eva Martín, Joaquín Climent, María Castro.
+· Guion: Alberto Grondona, Benjamín Zafra, Juanma Ruiz.
+· Productora: Radio Televisión Española (RTVE), StudioCanal, Bambú Producciones.</desc>
+    <category>Series, Drama</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF4179153" />
+    <rating system="ES">
+      <value>12</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.8/10</value>
+    </star-rating>
   </programme><programme start="20251125183500 +0000" stop="20251125193000 +0000" channel="ES: LA 1 ᴴᴰ"><title>Malas lenguas T2 E52</title>
     <desc>Entretenimiento,Magacín | 2025 | ⑯ | ★6.6/10
 · Jesús Cintora presenta este magacine de actualidad, en el que, con humor, se desmontan bulos que circulan en los medios de comunicación y las redes sociales.
@@ -971,6 +1089,19 @@
     <star-rating system="ES">
       <value>6.6/10</value>
     </star-rating>
+  </programme><programme start="20251125183500 +0000" stop="20251125193000 +0000" channel="LA 1 SD"><title>Malas lenguas T2 E52</title>
+    <desc>Entretenimiento,Magacín | 2025 | ⑯ | ★6.6/10
+· Jesús Cintora presenta este magacine de actualidad, en el que, con humor, se desmontan bulos que circulan en los medios de comunicación y las redes sociales.
+· País: España
+· Dirección: Jesús Cintora.</desc>
+    <category>Entretenimiento, Magacín</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MLA2F4179155" />
+    <rating system="ES">
+      <value>16</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.6/10</value>
+    </star-rating>
   </programme><programme start="20251125193000 +0000" stop="20251125200000 +0000" channel="ES: LA 1 ᴴᴰ"><title>Aquí la Tierra</title>
     <desc>Entretenimiento,Magacín | 2025 | TP | ★6.4/10
 · Jacob Petrus ofrece una original mirada sobre el territorio y sus habitantes a través de la meteorología. La divulgación y la información sobre el terreno conviven con el descubrimiento de la naturaleza y el medio ambiente.
@@ -1050,6 +1181,19 @@
       <value>6.4/10</value>
     </star-rating>
   </programme><programme start="20251125193000 +0000" stop="20251125200000 +0000" channel="VO: LA 1 ᴿᴬᵂ"><title>Aquí la Tierra</title>
+    <desc>Entretenimiento,Magacín | 2025 | TP | ★6.4/10
+· Jacob Petrus ofrece una original mirada sobre el territorio y sus habitantes a través de la meteorología. La divulgación y la información sobre el terreno conviven con el descubrimiento de la naturaleza y el medio ambiente.
+· País: España
+· Presenta: Jacob Petrus.</desc>
+    <category>Entretenimiento, Magacín</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF4108661" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.4/10</value>
+    </star-rating>
+  </programme><programme start="20251125193000 +0000" stop="20251125200000 +0000" channel="LA 1 SD"><title>Aquí la Tierra</title>
     <desc>Entretenimiento,Magacín | 2025 | TP | ★6.4/10
 · Jacob Petrus ofrece una original mirada sobre el territorio y sus habitantes a través de la meteorología. La divulgación y la información sobre el terreno conviven con el descubrimiento de la naturaleza y el medio ambiente.
 · País: España
@@ -1160,6 +1304,20 @@
     <star-rating system="ES">
       <value>6.2/10</value>
     </star-rating>
+  </programme><programme start="20251125200000 +0000" stop="20251125204000 +0000" channel="LA 1 SD"><title>Telediario 2</title>
+    <desc>Información,Informativo | 2021 | TP | ★6.2/10
+· Cientos de profesionales de TVE salen cada día a la calle en busca de noticias. El resultado, un completo repaso a la actualidad nacional e internacional conducido por Pepa Bueno. También hay espacio para la parcela deportiva.
+· País: España
+· Presenta: Pepa Bueno.
+· Productora: Televisión Española (TVE).</desc>
+    <category>Información, Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/M24HF518466" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.2/10</value>
+    </star-rating>
   </programme><programme start="20251125204000 +0000" stop="20251125204500 +0000" channel="ES: LA 1 ᴴᴰ"><title>Deportes 2</title>
     <desc>Deportes,Programa deportes | 2025 | ★6.0/10
 · Actualidad deportiva diaria nacional e internacional.
@@ -1221,6 +1379,16 @@
       <value>6.0/10</value>
     </star-rating>
   </programme><programme start="20251125204000 +0000" stop="20251125204500 +0000" channel="VO: LA 1 ᴿᴬᵂ"><title>Deportes 2</title>
+    <desc>Deportes,Programa deportes | 2025 | ★6.0/10
+· Actualidad deportiva diaria nacional e internacional.
+· País: España
+· Presenta: Ana Ibáñez, Lara Gandarillas, Marcos López.</desc>
+    <category>Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF3921386" />
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme><programme start="20251125204000 +0000" stop="20251125204500 +0000" channel="LA 1 SD"><title>Deportes 2</title>
     <desc>Deportes,Programa deportes | 2025 | ★6.0/10
 · Actualidad deportiva diaria nacional e internacional.
 · País: España
@@ -1315,6 +1483,20 @@
       <value>6.0/10</value>
     </star-rating>
   </programme><programme start="20251125204500 +0000" stop="20251125220000 +0000" channel="VO: LA 1 ᴿᴬᵂ"><title>La revuelta T2 E46</title>
+    <desc>Entretenimiento,Entrevista | 2025 | ⑫ | ★6.0/10
+· Las atípicas entrevistas de David Broncano, además de un plantel de cómicos sin prejuicios, son la bandera de un programa en el que nunca se sabe qué va a pasar. Jorge Ponce, Ricardo Castella y Grison ponen música y humor al programa.
+· País: España
+· Presenta: David Broncano.
+· Productora: Radio Televisión Española (RTVE), El Terrat.</desc>
+    <category>Entretenimiento, Entrevista</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/F4385110" />
+    <rating system="ES">
+      <value>12</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme><programme start="20251125204500 +0000" stop="20251125220000 +0000" channel="LA 1 SD"><title>La revuelta T2 E46</title>
     <desc>Entretenimiento,Entrevista | 2025 | ⑫ | ★6.0/10
 · Las atípicas entrevistas de David Broncano, además de un plantel de cómicos sin prejuicios, son la bandera de un programa en el que nunca se sabe qué va a pasar. Jorge Ponce, Ricardo Castella y Grison ponen música y humor al programa.
 · País: España
@@ -1426,6 +1608,20 @@
     <star-rating system="ES">
       <value>6.6/10</value>
     </star-rating>
+  </programme><programme start="20251125220000 +0000" stop="20251125232500 +0000" channel="LA 1 SD"><title>Late Xou con Marc Giró T4 E9</title>
+    <desc>Entretenimiento,Entrevista | 2025 | ⑫ | ★6.6/10
+· Marc Giró tiene como invitados a Emilio Aragón, que publica nuevo libro, y a Eduardo Casanova, que presenta serie. Además, Pepe Colubi regresa con su sección.
+· País: España
+· Presenta: Marc Giró.
+· Productora: RTVE Play.</desc>
+    <category>Entretenimiento, Entrevista</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF4179147" />
+    <rating system="ES">
+      <value>12</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.6/10</value>
+    </star-rating>
   </programme><programme start="20251125232500 +0000" stop="20251126002700 +0000" channel="ES: LA 1 ᴴᴰ"><title>Late Xou con Marc Giró T1 · Ana Duato</title>
     <desc>Entretenimiento,Late Night | 2023 | ⑫ | ★6.6/10
 · Marc Giró recibe en Late Xou a la actriz Ana Duato, que viene a presentar la última temporada de Cuéntame. También nos acompaña Candela Peña, que acaba de rodar un true crime para Netflix y está de gira con Contracciones.
@@ -1524,6 +1720,20 @@
     <star-rating system="ES">
       <value>6.6/10</value>
     </star-rating>
+  </programme><programme start="20251125232500 +0000" stop="20251126002700 +0000" channel="LA 1 SD"><title>Late Xou con Marc Giró T1 · Ana Duato</title>
+    <desc>Entretenimiento,Late Night | 2023 | ⑫ | ★6.6/10
+· Marc Giró recibe en Late Xou a la actriz Ana Duato, que viene a presentar la última temporada de Cuéntame. También nos acompaña Candela Peña, que acaba de rodar un true crime para Netflix y está de gira con Contracciones.
+· País: España
+· Presenta: Marc Giró.
+· Productora: RTVE Play.</desc>
+    <category>Entretenimiento, Late Night</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF3143845" />
+    <rating system="ES">
+      <value>12</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.6/10</value>
+    </star-rating>
   </programme><programme start="20251126002700 +0000" stop="20251126015000 +0000" channel="ES: LA 1 ᴴᴰ"><title>Late Xou con Marc Giró T2 E10</title>
     <desc>Entretenimiento,Late Night | 2024 | ⑫ | ★6.4/10
 · Marc Giró entrevista al actor Quim Gutiérrez, que presenta su nueva película "Al otro barrio". La segunda invitada es Mónica López, que se sienta en el sofá del programa tras ganar el Ondas a mejor actriz. Además, regresa Yolanda Ramos.
@@ -1609,6 +1819,20 @@
       <value>6.4/10</value>
     </star-rating>
   </programme><programme start="20251126002700 +0000" stop="20251126015000 +0000" channel="VO: LA 1 ᴿᴬᵂ"><title>Late Xou con Marc Giró T2 E10</title>
+    <desc>Entretenimiento,Late Night | 2024 | ⑫ | ★6.4/10
+· Marc Giró entrevista al actor Quim Gutiérrez, que presenta su nueva película "Al otro barrio". La segunda invitada es Mónica López, que se sienta en el sofá del programa tras ganar el Ondas a mejor actriz. Además, regresa Yolanda Ramos.
+· País: España
+· Presenta: Marc Giró.
+· Productora: RTVE Play.</desc>
+    <category>Entretenimiento, Late Night</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF3883484" />
+    <rating system="ES">
+      <value>12</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.4/10</value>
+    </star-rating>
+  </programme><programme start="20251126002700 +0000" stop="20251126015000 +0000" channel="LA 1 SD"><title>Late Xou con Marc Giró T2 E10</title>
     <desc>Entretenimiento,Late Night | 2024 | ⑫ | ★6.4/10
 · Marc Giró entrevista al actor Quim Gutiérrez, que presenta su nueva película "Al otro barrio". La segunda invitada es Mónica López, que se sienta en el sofá del programa tras ganar el Ondas a mejor actriz. Además, regresa Yolanda Ramos.
 · País: España
@@ -1734,6 +1958,22 @@
     <star-rating system="ES">
       <value>7.2/10</value>
     </star-rating>
+  </programme><programme start="20251126015000 +0000" stop="20251126032500 +0000" channel="LA 1 SD"><title>Dos viejas amigas</title>
+    <desc>Cine para televisión,Cine TV comedia | 2014 | ⑦ | ★7.2/10
+· La activista Anna Wagner viaja al lugar de su infancia. No ha hablado con su padre en 20 años, pero se encarga de todo tras su muerte. Cuando llega a la idílica Hückeskirchen, conoce a la alcaldesa.
+· País: Alemania
+· Dirección: Peter Gersina.
+· Reparto: Ingo Naujoks, Mariele Millowitsch, Johanna Gastdorf, Christoph M. Ohrt, Lion Wasczyk.
+· Guion: Regine Bielefeldt, Annette Simon.
+· Productora: Eyeworks.</desc>
+    <category>Cine para televisión, Cine TV comedia</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF3498165" />
+    <rating system="ES">
+      <value>7</value>
+    </rating>
+    <star-rating system="ES">
+      <value>7.2/10</value>
+    </star-rating>
   </programme><programme start="20251126032500 +0000" stop="20251126050000 +0000" channel="ES: LA 1 ᴴᴰ"><title>Noticias 24H</title>
     <desc>Información,Informativo | 2021 | ★6.2/10
 · Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.
@@ -1789,6 +2029,15 @@
       <value>6.2/10</value>
     </star-rating>
   </programme><programme start="20251126032500 +0000" stop="20251126050000 +0000" channel="VO: LA 1 ᴿᴬᵂ"><title>Noticias 24H</title>
+    <desc>Información,Informativo | 2021 | ★6.2/10
+· Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.
+· País: España</desc>
+    <category>Información, Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/F4315171" />
+    <star-rating system="ES">
+      <value>6.2/10</value>
+    </star-rating>
+  </programme><programme start="20251126032500 +0000" stop="20251126050000 +0000" channel="LA 1 SD"><title>Noticias 24H</title>
     <desc>Información,Informativo | 2021 | ★6.2/10
 · Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.
 · País: España</desc>
@@ -1895,6 +2144,20 @@
     <star-rating system="ES">
       <value>6.2/10</value>
     </star-rating>
+  </programme><programme start="20251126050000 +0000" stop="20251126065000 +0000" channel="LA 1 SD"><title>Telediario Matinal</title>
+    <desc>Información,Informativo | 2023 | TP | ★6.2/10
+· Lorena Baeza y Álex Barreiro conducen este rápido y exhaustivo repaso de todas las noticias de interés general. Además, se ofrece la actualidad meteorológica de España y de Europa y el estado de la mar. Rubén Briones presenta la información deportiva.
+· País: España
+· Presenta: Sirun Demirjian, Lorena Baeza, Álex Barreiro.
+· Productora: Televisión Española (TVE).</desc>
+    <category>Información, Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/M24HF518404" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.2/10</value>
+    </star-rating>
   </programme><programme start="20251126065000 +0000" stop="20251126093500 +0000" channel="ES: LA 1 ᴴᴰ"><title>La hora de La 1: La hora de la actualidad T8</title>
     <desc>Entretenimiento,Magacín | 2025 | ⑯ | ★6.0/10
 · Magazine matinal de la 1 en el que se reúne información de actualidad social. El programa cuenta con voces autorizadas que tratan temas que fomenten el pensamiento crítico y el servicio público para ayudar a los ciudadanos en su día a día.
@@ -1986,6 +2249,19 @@
     <star-rating system="ES">
       <value>6.0/10</value>
     </star-rating>
+  </programme><programme start="20251126065000 +0000" stop="20251126093500 +0000" channel="LA 1 SD"><title>La hora de La 1: La hora de la actualidad T8</title>
+    <desc>Entretenimiento,Magacín | 2025 | ⑯ | ★6.0/10
+· Magazine matinal de la 1 en el que se reúne información de actualidad social. El programa cuenta con voces autorizadas que tratan temas que fomenten el pensamiento crítico y el servicio público para ayudar a los ciudadanos en su día a día.
+· País: España
+· Dirección: Silvia Intxaurrondo.</desc>
+    <category>Entretenimiento, Magacín</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/M24HF3898133" />
+    <rating system="ES">
+      <value>16</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
   </programme><programme start="20251126093500 +0000" stop="20251126140000 +0000" channel="ES: LA 1 ᴴᴰ"><title>Mañaneros 360 T2</title>
     <desc>Entretenimiento,Magacín | 2025 | ⑯ | ★6.2/10
 · Magazín de actualidad conducido por Adela González y Javier Ruiz, que combina noticias y entretenimiento de la mano de sus colaboradores.
@@ -2065,6 +2341,19 @@
       <value>6.2/10</value>
     </star-rating>
   </programme><programme start="20251126093500 +0000" stop="20251126140000 +0000" channel="VO: LA 1 ᴿᴬᵂ"><title>Mañaneros 360 T2</title>
+    <desc>Entretenimiento,Magacín | 2025 | ⑯ | ★6.2/10
+· Magazín de actualidad conducido por Adela González y Javier Ruiz, que combina noticias y entretenimiento de la mano de sus colaboradores.
+· País: España
+· Presenta: Adela González, Javier Ruiz.</desc>
+    <category>Entretenimiento, Magacín</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF4108659" />
+    <rating system="ES">
+      <value>16</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.2/10</value>
+    </star-rating>
+  </programme><programme start="20251126093500 +0000" stop="20251126140000 +0000" channel="LA 1 SD"><title>Mañaneros 360 T2</title>
     <desc>Entretenimiento,Magacín | 2025 | ⑯ | ★6.2/10
 · Magazín de actualidad conducido por Adela González y Javier Ruiz, que combina noticias y entretenimiento de la mano de sus colaboradores.
 · País: España
@@ -2175,6 +2464,20 @@
     <star-rating system="ES">
       <value>6.2/10</value>
     </star-rating>
+  </programme><programme start="20251126140000 +0000" stop="20251126143500 +0000" channel="LA 1 SD"><title>Telediario 1</title>
+    <desc>Información,Informativo | 2014 | TP | ★6.2/10
+· El noticiario audiovisual más veterano de la historia de la televisión en España. Alejandra Herranz hace un repaso diario a la actualidad general de España y el mundo, además de una sección dedicada al deporte.
+· País: España
+· Presenta: Alejandra Herranz.
+· Productora: Televisión Española (TVE).</desc>
+    <category>Información, Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/M24HF518438" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.2/10</value>
+    </star-rating>
   </programme><programme start="20251126143500 +0000" stop="20251126144000 +0000" channel="ES: LA 1 ᴴᴰ"><title>Deportes 1</title>
     <desc>Deportes,Programa deportes | 2025 | ★6.0/10
 · Actualidad deportiva diaria nacional e internacional.
@@ -2236,6 +2539,16 @@
       <value>6.0/10</value>
     </star-rating>
   </programme><programme start="20251126143500 +0000" stop="20251126144000 +0000" channel="VO: LA 1 ᴿᴬᵂ"><title>Deportes 1</title>
+    <desc>Deportes,Programa deportes | 2025 | ★6.0/10
+· Actualidad deportiva diaria nacional e internacional.
+· País: España
+· Presenta: Ana Ibáñez, Lara Gandarillas, Marcos López.</desc>
+    <category>Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF3921384" />
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme><programme start="20251126143500 +0000" stop="20251126144000 +0000" channel="LA 1 SD"><title>Deportes 1</title>
     <desc>Deportes,Programa deportes | 2025 | ★6.0/10
 · Actualidad deportiva diaria nacional e internacional.
 · País: España
@@ -2315,6 +2628,16 @@
     <star-rating system="ES">
       <value>6.4/10</value>
     </star-rating>
+  </programme><programme start="20251126144000 +0000" stop="20251126144500 +0000" channel="LA 1 SD"><title>El tiempo</title>
+    <desc>Información,Meteorología | 2014 | ★6.4/10
+· Información sobre la previsión meteorológica.
+· País: España
+· Productora: Televisión Española (TVE).</desc>
+    <category>Información, Meteorología</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/M24HF332735" />
+    <star-rating system="ES">
+      <value>6.4/10</value>
+    </star-rating>
   </programme><programme start="20251126144500 +0000" stop="20251126145500 +0000" channel="ES: LA 1 ᴴᴰ"><title>Informativo territorial 2</title>
     <desc>Información,Informativo | 2023 | ★6.0/10
 · Espacio de emisión del informativo de cada centro territorial de TVE.</desc>
@@ -2364,6 +2687,14 @@
       <value>6.0/10</value>
     </star-rating>
   </programme><programme start="20251126144500 +0000" stop="20251126145500 +0000" channel="VO: LA 1 ᴿᴬᵂ"><title>Informativo territorial 2</title>
+    <desc>Información,Informativo | 2023 | ★6.0/10
+· Espacio de emisión del informativo de cada centro territorial de TVE.</desc>
+    <category>Información, Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF2189999" />
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme><programme start="20251126144500 +0000" stop="20251126145500 +0000" channel="LA 1 SD"><title>Informativo territorial 2</title>
     <desc>Información,Informativo | 2023 | ★6.0/10
 · Espacio de emisión del informativo de cada centro territorial de TVE.</desc>
     <category>Información, Informativo</category>
@@ -2462,6 +2793,19 @@
     <star-rating system="ES">
       <value>6.0/10</value>
     </star-rating>
+  </programme><programme start="20251126145500 +0000" stop="20251126163500 +0000" channel="LA 1 SD"><title>Directo al grano T1</title>
+    <desc>Entretenimiento,Magacín | 2025 | ⑯ | ★6.0/10
+· Magacín conducido por Marta Flich y Gonzalo Miró que comenta la actualidad e intenta explicar de forma sencilla lo que ocurre, con rigor, claridad y dinamismo.
+· País: España
+· Presenta: Marta Flich, Gonzalo Miró.</desc>
+    <category>Entretenimiento, Magacín</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF4123147" />
+    <rating system="ES">
+      <value>16</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
   </programme><programme start="20251126163500 +0000" stop="20251126173500 +0000" channel="ES: LA 1 ᴴᴰ"><title>Valle Salvaje</title>
     <desc>Series,Telenovela | 2025 | ⑫ | ★5.8/10
 · Adriana, una joven de 20 años, viaja de Madrid a Asturias tras descubrir que su matrimonio con un desconocido fue concertado en secreto y debe ir a buscarlo a casa de su tía. Allí será obligada a trabajar como criada.
@@ -2547,6 +2891,20 @@
       <value>5.8/10</value>
     </star-rating>
   </programme><programme start="20251126163500 +0000" stop="20251126173500 +0000" channel="VO: LA 1 ᴿᴬᵂ"><title>Valle Salvaje</title>
+    <desc>Series,Telenovela | 2025 | ⑫ | ★5.8/10
+· Adriana, una joven de 20 años, viaja de Madrid a Asturias tras descubrir que su matrimonio con un desconocido fue concertado en secreto y debe ir a buscarlo a casa de su tía. Allí será obligada a trabajar como criada.
+· País: España
+· Reparto: Rocío Suárez de Puga, Manuela Velasco, José Manuel Seda, Marina Sabadell, Mari Paz Sayago, Chechu Salgado.
+· Productora: Bambú Producciones.</desc>
+    <category>Series, Telenovela</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVET4105453" />
+    <rating system="ES">
+      <value>12</value>
+    </rating>
+    <star-rating system="ES">
+      <value>5.8/10</value>
+    </star-rating>
+  </programme><programme start="20251126163500 +0000" stop="20251126173500 +0000" channel="LA 1 SD"><title>Valle Salvaje</title>
     <desc>Series,Telenovela | 2025 | ⑫ | ★5.8/10
 · Adriana, una joven de 20 años, viaja de Madrid a Asturias tras descubrir que su matrimonio con un desconocido fue concertado en secreto y debe ir a buscarlo a casa de su tía. Allí será obligada a trabajar como criada.
 · País: España
@@ -2665,6 +3023,21 @@
     <star-rating system="ES">
       <value>7.2/10</value>
     </star-rating>
+  </programme><programme start="20251126173500 +0000" stop="20251126183500 +0000" channel="LA 1 SD"><title>La Promesa T1</title>
+    <desc>Series,Drama | 2023 | ⑯ | ★7.2/10
+· En 1913, una mujer, una venganza y una gran historia de amor.
+· País: España
+· Reparto: Joaquín Climent, María Castro, Eva Martín, Ana Garcés, Arturo Sancho.
+· Guion: Alberto Grondona, Benjamín Zafra, Juanma Ruiz.
+· Productora: Bambú Producciones, StudioCanal, Radio Televisión Española (RTVE).</desc>
+    <category>Series, Drama</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF2162814" />
+    <rating system="ES">
+      <value>16</value>
+    </rating>
+    <star-rating system="ES">
+      <value>7.2/10</value>
+    </star-rating>
   </programme><programme start="20251126183500 +0000" stop="20251126193000 +0000" channel="ES: LA 1 ᴴᴰ"><title>Malas lenguas T2</title>
     <desc>Entretenimiento,Magacín | 2025 | TP | ★6.0/10
 · Jesús Cintora presenta este magacine de actualidad, en el que, con humor, se desmontan bulos que circulan en los medios de comunicación y las redes sociales.
@@ -2756,6 +3129,19 @@
     <star-rating system="ES">
       <value>6.0/10</value>
     </star-rating>
+  </programme><programme start="20251126183500 +0000" stop="20251126193000 +0000" channel="LA 1 SD"><title>Malas lenguas T2</title>
+    <desc>Entretenimiento,Magacín | 2025 | TP | ★6.0/10
+· Jesús Cintora presenta este magacine de actualidad, en el que, con humor, se desmontan bulos que circulan en los medios de comunicación y las redes sociales.
+· País: España
+· Dirección: Jesús Cintora.</desc>
+    <category>Entretenimiento, Magacín</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MLA2F4123276" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
   </programme><programme start="20251126193000 +0000" stop="20251126200000 +0000" channel="ES: LA 1 ᴴᴰ"><title>Aquí la Tierra</title>
     <desc>Entretenimiento,Magacín | 2025 | TP | ★6.4/10
 · Jacob Petrus ofrece una original mirada sobre el territorio y sus habitantes a través de la meteorología. La divulgación y la información sobre el terreno conviven con el descubrimiento de la naturaleza y el medio ambiente.
@@ -2835,6 +3221,19 @@
       <value>6.4/10</value>
     </star-rating>
   </programme><programme start="20251126193000 +0000" stop="20251126200000 +0000" channel="VO: LA 1 ᴿᴬᵂ"><title>Aquí la Tierra</title>
+    <desc>Entretenimiento,Magacín | 2025 | TP | ★6.4/10
+· Jacob Petrus ofrece una original mirada sobre el territorio y sus habitantes a través de la meteorología. La divulgación y la información sobre el terreno conviven con el descubrimiento de la naturaleza y el medio ambiente.
+· País: España
+· Presenta: Jacob Petrus.</desc>
+    <category>Entretenimiento, Magacín</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF4108661" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.4/10</value>
+    </star-rating>
+  </programme><programme start="20251126193000 +0000" stop="20251126200000 +0000" channel="LA 1 SD"><title>Aquí la Tierra</title>
     <desc>Entretenimiento,Magacín | 2025 | TP | ★6.4/10
 · Jacob Petrus ofrece una original mirada sobre el territorio y sus habitantes a través de la meteorología. La divulgación y la información sobre el terreno conviven con el descubrimiento de la naturaleza y el medio ambiente.
 · País: España
@@ -2945,6 +3344,20 @@
     <star-rating system="ES">
       <value>6.2/10</value>
     </star-rating>
+  </programme><programme start="20251126200000 +0000" stop="20251126204000 +0000" channel="LA 1 SD"><title>Telediario 2</title>
+    <desc>Información,Informativo | 2021 | TP | ★6.2/10
+· Cientos de profesionales de TVE salen cada día a la calle en busca de noticias. El resultado, un completo repaso a la actualidad nacional e internacional conducido por Pepa Bueno. También hay espacio para la parcela deportiva.
+· País: España
+· Presenta: Pepa Bueno.
+· Productora: Televisión Española (TVE).</desc>
+    <category>Información, Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/M24HF518466" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.2/10</value>
+    </star-rating>
   </programme><programme start="20251126204000 +0000" stop="20251126204500 +0000" channel="ES: LA 1 ᴴᴰ"><title>Deportes 2</title>
     <desc>Deportes,Programa deportes | 2025 | ★6.0/10
 · Actualidad deportiva diaria nacional e internacional.
@@ -3006,6 +3419,16 @@
       <value>6.0/10</value>
     </star-rating>
   </programme><programme start="20251126204000 +0000" stop="20251126204500 +0000" channel="VO: LA 1 ᴿᴬᵂ"><title>Deportes 2</title>
+    <desc>Deportes,Programa deportes | 2025 | ★6.0/10
+· Actualidad deportiva diaria nacional e internacional.
+· País: España
+· Presenta: Ana Ibáñez, Lara Gandarillas, Marcos López.</desc>
+    <category>Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF3921386" />
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme><programme start="20251126204000 +0000" stop="20251126204500 +0000" channel="LA 1 SD"><title>Deportes 2</title>
     <desc>Deportes,Programa deportes | 2025 | ★6.0/10
 · Actualidad deportiva diaria nacional e internacional.
 · País: España
@@ -3100,6 +3523,20 @@
       <value>6.4/10</value>
     </star-rating>
   </programme><programme start="20251126204500 +0000" stop="20251126220000 +0000" channel="VO: LA 1 ᴿᴬᵂ"><title>La revuelta T2</title>
+    <desc>Entretenimiento,Entrevista | 2025 | ⑫ | ★6.4/10
+· Las atípicas entrevistas de David Broncano, además de un plantel de cómicos sin prejuicios, son la bandera de un programa en el que nunca se sabe qué va a pasar. Jorge Ponce, Ricardo Castella y Grison ponen música y humor al programa.
+· País: España
+· Presenta: David Broncano.
+· Productora: Radio Televisión Española (RTVE), El Terrat.</desc>
+    <category>Entretenimiento, Entrevista</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/F4385110" />
+    <rating system="ES">
+      <value>12</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.4/10</value>
+    </star-rating>
+  </programme><programme start="20251126204500 +0000" stop="20251126220000 +0000" channel="LA 1 SD"><title>La revuelta T2</title>
     <desc>Entretenimiento,Entrevista | 2025 | ⑫ | ★6.4/10
 · Las atípicas entrevistas de David Broncano, además de un plantel de cómicos sin prejuicios, son la bandera de un programa en el que nunca se sabe qué va a pasar. Jorge Ponce, Ricardo Castella y Grison ponen música y humor al programa.
 · País: España
@@ -3218,6 +3655,21 @@
     <star-rating system="ES">
       <value>6.2/10</value>
     </star-rating>
+  </programme><programme start="20251126220000 +0000" stop="20251127003000 +0000" channel="LA 1 SD"><title>Hasta el fin del mundo T1</title>
+    <desc>Entretenimiento,Telerrealidad | 2025 | ⑫ | ★6.2/10
+· Seis famosas parejas realizan un viaje a través de distintas culturas de América Latina.
+· País: España
+· Presenta: Paula Vázquez.
+· Reparto: Yolanda Ramos, Paula Vázquez, Alba Carrillo, Jose Lamuño, Nia Correia.
+· Productora: Radio Televisión Española (RTVE).</desc>
+    <category>Entretenimiento, Telerrealidad</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MLA2F4167388" />
+    <rating system="ES">
+      <value>12</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.2/10</value>
+    </star-rating>
   </programme><programme start="20251127003000 +0000" stop="20251127010000 +0000" channel="ES: LA 1 ᴴᴰ"><title>Más alla del fin del mundo T1</title>
     <desc>Ocio y Aficiones,Viajes | 2025 | TP | ★6.0/10
 · Paula Vázquez se detiene en los escenarios únicos de "Hasta el fin del mundo".
@@ -3309,6 +3761,19 @@
     <star-rating system="ES">
       <value>6.0/10</value>
     </star-rating>
+  </programme><programme start="20251127003000 +0000" stop="20251127010000 +0000" channel="LA 1 SD"><title>Más alla del fin del mundo T1</title>
+    <desc>Ocio y Aficiones,Viajes | 2025 | TP | ★6.0/10
+· Paula Vázquez se detiene en los escenarios únicos de "Hasta el fin del mundo".
+· País: España
+· Presenta: Paula Vázquez.</desc>
+    <category>Ocio y Aficiones, Viajes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF4167390" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
   </programme><programme start="20251127010000 +0000" stop="20251127013000 +0000" channel="ES: LA 1 ᴴᴰ"><title>Exceso de equipaje</title>
     <desc>Entretenimiento,Entrevista | 2025 | ⑯
 · Inés Hernand recibe en el sofá de su salón a los concursantes de "Hasta el fin del mundo", que cuentan cómo se han preparado para embarcarse en la aventura, en la que recorren ocho países de Latinoamérica y más de 15.000 kilómetros.</desc>
@@ -3352,6 +3817,13 @@
       <value>16</value>
     </rating>
   </programme><programme start="20251127010000 +0000" stop="20251127013000 +0000" channel="VO: LA 1 ᴿᴬᵂ"><title>Exceso de equipaje</title>
+    <desc>Entretenimiento,Entrevista | 2025 | ⑯
+· Inés Hernand recibe en el sofá de su salón a los concursantes de "Hasta el fin del mundo", que cuentan cómo se han preparado para embarcarse en la aventura, en la que recorren ocho países de Latinoamérica y más de 15.000 kilómetros.</desc>
+    <category>Entretenimiento, Entrevista</category>
+    <rating system="ES">
+      <value>16</value>
+    </rating>
+  </programme><programme start="20251127010000 +0000" stop="20251127013000 +0000" channel="LA 1 SD"><title>Exceso de equipaje</title>
     <desc>Entretenimiento,Entrevista | 2025 | ⑯
 · Inés Hernand recibe en el sofá de su salón a los concursantes de "Hasta el fin del mundo", que cuentan cómo se han preparado para embarcarse en la aventura, en la que recorren ocho países de Latinoamérica y más de 15.000 kilómetros.</desc>
     <category>Entretenimiento, Entrevista</category>
@@ -3435,6 +3907,17 @@
     <star-rating system="ES">
       <value>6.2/10</value>
     </star-rating>
+  </programme><programme start="20251127013000 +0000" stop="20251127040500 +0000" channel="LA 1 SD"><title>La noche en 24 horas</title>
+    <desc>Información,Informativo | 2025 | ★6.2/10
+· Informativo diario nocturno que ofrece un análisis profundo y plural de la actualidad de la jornada.
+· País: España
+· Dirección: Xabier Fortes.
+· Productora: Televisión Española (TVE).</desc>
+    <category>Información, Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/M24HF4108663" />
+    <star-rating system="ES">
+      <value>6.2/10</value>
+    </star-rating>
   </programme><programme start="20251127040500 +0000" stop="20251127050000 +0000" channel="ES: LA 1 ᴴᴰ"><title>Noticias 24H</title>
     <desc>Información,Informativo | 2021 | ★6.2/10
 · Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.
@@ -3490,6 +3973,15 @@
       <value>6.2/10</value>
     </star-rating>
   </programme><programme start="20251127040500 +0000" stop="20251127050000 +0000" channel="VO: LA 1 ᴿᴬᵂ"><title>Noticias 24H</title>
+    <desc>Información,Informativo | 2021 | ★6.2/10
+· Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.
+· País: España</desc>
+    <category>Información, Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/F4315171" />
+    <star-rating system="ES">
+      <value>6.2/10</value>
+    </star-rating>
+  </programme><programme start="20251127040500 +0000" stop="20251127050000 +0000" channel="LA 1 SD"><title>Noticias 24H</title>
     <desc>Información,Informativo | 2021 | ★6.2/10
 · Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.
 · País: España</desc>
@@ -3565,6 +4057,17 @@
       <value>6.2/10</value>
     </star-rating>
   </programme><programme start="20251127050000 +0000" stop="20251127065000 +0000" channel="VO: LA 1 ᴿᴬᵂ"><title>Telediario Matinal</title>
+    <desc>Información,Informativo | 2023 | ★6.2/10
+· Lorena Baeza y Álex Barreiro conducen este rápido y exhaustivo repaso de todas las noticias de interés general. Además, se ofrece la actualidad meteorológica de España y de Europa y el estado de la mar. Rubén Briones presenta la información deportiva.
+· País: España
+· Presenta: Sirun Demirjian, Lorena Baeza, Álex Barreiro.
+· Productora: Televisión Española (TVE).</desc>
+    <category>Información, Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/M24HF518404" />
+    <star-rating system="ES">
+      <value>6.2/10</value>
+    </star-rating>
+  </programme><programme start="20251127050000 +0000" stop="20251127065000 +0000" channel="LA 1 SD"><title>Telediario Matinal</title>
     <desc>Información,Informativo | 2023 | ★6.2/10
 · Lorena Baeza y Álex Barreiro conducen este rápido y exhaustivo repaso de todas las noticias de interés general. Además, se ofrece la actualidad meteorológica de España y de Europa y el estado de la mar. Rubén Briones presenta la información deportiva.
 · País: España
@@ -3654,6 +4157,19 @@
       <value>6.0/10</value>
     </star-rating>
   </programme><programme start="20251127065000 +0000" stop="20251127093500 +0000" channel="VO: LA 1 ᴿᴬᵂ"><title>La hora de La 1: La hora de la actualidad T8</title>
+    <desc>Entretenimiento,Magacín | 2025 | ⑯ | ★6.0/10
+· Magazine matinal de la 1 en el que se reúne información de actualidad social. El programa cuenta con voces autorizadas que tratan temas que fomenten el pensamiento crítico y el servicio público para ayudar a los ciudadanos en su día a día.
+· País: España
+· Dirección: Silvia Intxaurrondo.</desc>
+    <category>Entretenimiento, Magacín</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/M24HF3898133" />
+    <rating system="ES">
+      <value>16</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme><programme start="20251127065000 +0000" stop="20251127093500 +0000" channel="LA 1 SD"><title>La hora de La 1: La hora de la actualidad T8</title>
     <desc>Entretenimiento,Magacín | 2025 | ⑯ | ★6.0/10
 · Magazine matinal de la 1 en el que se reúne información de actualidad social. El programa cuenta con voces autorizadas que tratan temas que fomenten el pensamiento crítico y el servicio público para ayudar a los ciudadanos en su día a día.
 · País: España
@@ -3757,6 +4273,19 @@
     <star-rating system="ES">
       <value>6.2/10</value>
     </star-rating>
+  </programme><programme start="20251127093500 +0000" stop="20251127140000 +0000" channel="LA 1 SD"><title>Mañaneros 360 T2</title>
+    <desc>Entretenimiento,Magacín | 2025 | ⑯ | ★6.2/10
+· Magazín de actualidad conducido por Adela González y Javier Ruiz, que combina noticias y entretenimiento de la mano de sus colaboradores.
+· País: España
+· Presenta: Adela González, Javier Ruiz.</desc>
+    <category>Entretenimiento, Magacín</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF4108659" />
+    <rating system="ES">
+      <value>16</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.2/10</value>
+    </star-rating>
   </programme><programme start="20251127140000 +0000" stop="20251127143500 +0000" channel="ES: LA 1 ᴴᴰ"><title>Telediario 1</title>
     <desc>Información,Informativo | 2014 | ★6.2/10
 · El noticiario audiovisual más veterano de la historia de la televisión en España. Alejandra Herranz hace un repaso diario a la actualidad general de España y el mundo, además de una sección dedicada al deporte.
@@ -3824,6 +4353,17 @@
       <value>6.2/10</value>
     </star-rating>
   </programme><programme start="20251127140000 +0000" stop="20251127143500 +0000" channel="VO: LA 1 ᴿᴬᵂ"><title>Telediario 1</title>
+    <desc>Información,Informativo | 2014 | ★6.2/10
+· El noticiario audiovisual más veterano de la historia de la televisión en España. Alejandra Herranz hace un repaso diario a la actualidad general de España y el mundo, además de una sección dedicada al deporte.
+· País: España
+· Presenta: Alejandra Herranz.
+· Productora: Televisión Española (TVE).</desc>
+    <category>Información, Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/M24HF518438" />
+    <star-rating system="ES">
+      <value>6.2/10</value>
+    </star-rating>
+  </programme><programme start="20251127140000 +0000" stop="20251127143500 +0000" channel="LA 1 SD"><title>Telediario 1</title>
     <desc>Información,Informativo | 2014 | ★6.2/10
 · El noticiario audiovisual más veterano de la historia de la televisión en España. Alejandra Herranz hace un repaso diario a la actualidad general de España y el mundo, además de una sección dedicada al deporte.
 · País: España
@@ -3904,6 +4444,16 @@
     <star-rating system="ES">
       <value>6.0/10</value>
     </star-rating>
+  </programme><programme start="20251127143500 +0000" stop="20251127144000 +0000" channel="LA 1 SD"><title>Deportes 1</title>
+    <desc>Deportes,Programa deportes | 2025 | ★6.0/10
+· Actualidad deportiva diaria nacional e internacional.
+· País: España
+· Presenta: Ana Ibáñez, Lara Gandarillas, Marcos López.</desc>
+    <category>Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF3921384" />
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
   </programme><programme start="20251127144000 +0000" stop="20251127144500 +0000" channel="ES: LA 1 ᴴᴰ"><title>El tiempo</title>
     <desc>Información,Meteorología | 2014 | ★6.4/10
 · Información sobre la previsión meteorológica.
@@ -3974,6 +4524,16 @@
     <star-rating system="ES">
       <value>6.4/10</value>
     </star-rating>
+  </programme><programme start="20251127144000 +0000" stop="20251127144500 +0000" channel="LA 1 SD"><title>El tiempo</title>
+    <desc>Información,Meteorología | 2014 | ★6.4/10
+· Información sobre la previsión meteorológica.
+· País: España
+· Productora: Televisión Española (TVE).</desc>
+    <category>Información, Meteorología</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/M24HF332735" />
+    <star-rating system="ES">
+      <value>6.4/10</value>
+    </star-rating>
   </programme><programme start="20251127144500 +0000" stop="20251127145500 +0000" channel="ES: LA 1 ᴴᴰ"><title>Informativo territorial 2</title>
     <desc>Información,Informativo | 2023 | ★6.0/10
 · Espacio de emisión del informativo de cada centro territorial de TVE.</desc>
@@ -4023,6 +4583,14 @@
       <value>6.0/10</value>
     </star-rating>
   </programme><programme start="20251127144500 +0000" stop="20251127145500 +0000" channel="VO: LA 1 ᴿᴬᵂ"><title>Informativo territorial 2</title>
+    <desc>Información,Informativo | 2023 | ★6.0/10
+· Espacio de emisión del informativo de cada centro territorial de TVE.</desc>
+    <category>Información, Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF2189999" />
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme><programme start="20251127144500 +0000" stop="20251127145500 +0000" channel="LA 1 SD"><title>Informativo territorial 2</title>
     <desc>Información,Informativo | 2023 | ★6.0/10
 · Espacio de emisión del informativo de cada centro territorial de TVE.</desc>
     <category>Información, Informativo</category>
@@ -4121,6 +4689,19 @@
     <star-rating system="ES">
       <value>6.0/10</value>
     </star-rating>
+  </programme><programme start="20251127145500 +0000" stop="20251127163500 +0000" channel="LA 1 SD"><title>Directo al grano T1</title>
+    <desc>Entretenimiento,Magacín | 2025 | ⑯ | ★6.0/10
+· Magacín conducido por Marta Flich y Gonzalo Miró que comenta la actualidad e intenta explicar de forma sencilla lo que ocurre, con rigor, claridad y dinamismo.
+· País: España
+· Presenta: Marta Flich, Gonzalo Miró.</desc>
+    <category>Entretenimiento, Magacín</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF4123147" />
+    <rating system="ES">
+      <value>16</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
   </programme><programme start="20251127163500 +0000" stop="20251127173500 +0000" channel="ES: LA 1 ᴴᴰ"><title>Valle Salvaje</title>
     <desc>Series,Telenovela | 2025 | ⑫ | ★5.8/10
 · Adriana, una joven de 20 años, viaja de Madrid a Asturias tras descubrir que su matrimonio con un desconocido fue concertado en secreto y debe ir a buscarlo a casa de su tía. Allí será obligada a trabajar como criada.
@@ -4206,6 +4787,20 @@
       <value>5.8/10</value>
     </star-rating>
   </programme><programme start="20251127163500 +0000" stop="20251127173500 +0000" channel="VO: LA 1 ᴿᴬᵂ"><title>Valle Salvaje</title>
+    <desc>Series,Telenovela | 2025 | ⑫ | ★5.8/10
+· Adriana, una joven de 20 años, viaja de Madrid a Asturias tras descubrir que su matrimonio con un desconocido fue concertado en secreto y debe ir a buscarlo a casa de su tía. Allí será obligada a trabajar como criada.
+· País: España
+· Reparto: Rocío Suárez de Puga, Manuela Velasco, José Manuel Seda, Marina Sabadell, Mari Paz Sayago, Chechu Salgado.
+· Productora: Bambú Producciones.</desc>
+    <category>Series, Telenovela</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVET4105453" />
+    <rating system="ES">
+      <value>12</value>
+    </rating>
+    <star-rating system="ES">
+      <value>5.8/10</value>
+    </star-rating>
+  </programme><programme start="20251127163500 +0000" stop="20251127173500 +0000" channel="LA 1 SD"><title>Valle Salvaje</title>
     <desc>Series,Telenovela | 2025 | ⑫ | ★5.8/10
 · Adriana, una joven de 20 años, viaja de Madrid a Asturias tras descubrir que su matrimonio con un desconocido fue concertado en secreto y debe ir a buscarlo a casa de su tía. Allí será obligada a trabajar como criada.
 · País: España
@@ -4324,6 +4919,21 @@
     <star-rating system="ES">
       <value>7.0/10</value>
     </star-rating>
+  </programme><programme start="20251127173500 +0000" stop="20251127183500 +0000" channel="LA 1 SD"><title>La Promesa T1</title>
+    <desc>Series,Drama | 2023 | ⑫ | ★7.0/10
+· En 1913, una mujer, una venganza y una gran historia de amor.
+· País: España
+· Reparto: Joaquín Climent, María Castro, Eva Martín, Ana Garcés, Arturo Sancho.
+· Guion: Alberto Grondona, Benjamín Zafra, Juanma Ruiz.
+· Productora: Bambú Producciones, StudioCanal, Radio Televisión Española (RTVE).</desc>
+    <category>Series, Drama</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF2162814" />
+    <rating system="ES">
+      <value>12</value>
+    </rating>
+    <star-rating system="ES">
+      <value>7.0/10</value>
+    </star-rating>
   </programme><programme start="20251127183500 +0000" stop="20251127193000 +0000" channel="ES: LA 1 ᴴᴰ"><title>Malas lenguas T2</title>
     <desc>Entretenimiento,Magacín | 2025 | ⑯ | ★6.0/10
 · Jesús Cintora presenta este magacine de actualidad, en el que, con humor, se desmontan bulos que circulan en los medios de comunicación y las redes sociales.
@@ -4415,6 +5025,19 @@
     <star-rating system="ES">
       <value>6.0/10</value>
     </star-rating>
+  </programme><programme start="20251127183500 +0000" stop="20251127193000 +0000" channel="LA 1 SD"><title>Malas lenguas T2</title>
+    <desc>Entretenimiento,Magacín | 2025 | ⑯ | ★6.0/10
+· Jesús Cintora presenta este magacine de actualidad, en el que, con humor, se desmontan bulos que circulan en los medios de comunicación y las redes sociales.
+· País: España
+· Dirección: Jesús Cintora.</desc>
+    <category>Entretenimiento, Magacín</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MLA2F4123276" />
+    <rating system="ES">
+      <value>16</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
   </programme><programme start="20251127193000 +0000" stop="20251127200000 +0000" channel="ES: LA 1 ᴴᴰ"><title>Aquí la Tierra</title>
     <desc>Entretenimiento,Magacín | 2025 | TP | ★6.4/10
 · Jacob Petrus ofrece una original mirada sobre el territorio y sus habitantes a través de la meteorología. La divulgación y la información sobre el terreno conviven con el descubrimiento de la naturaleza y el medio ambiente.
@@ -4494,6 +5117,19 @@
       <value>6.4/10</value>
     </star-rating>
   </programme><programme start="20251127193000 +0000" stop="20251127200000 +0000" channel="VO: LA 1 ᴿᴬᵂ"><title>Aquí la Tierra</title>
+    <desc>Entretenimiento,Magacín | 2025 | TP | ★6.4/10
+· Jacob Petrus ofrece una original mirada sobre el territorio y sus habitantes a través de la meteorología. La divulgación y la información sobre el terreno conviven con el descubrimiento de la naturaleza y el medio ambiente.
+· País: España
+· Presenta: Jacob Petrus.</desc>
+    <category>Entretenimiento, Magacín</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF4108661" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.4/10</value>
+    </star-rating>
+  </programme><programme start="20251127193000 +0000" stop="20251127200000 +0000" channel="LA 1 SD"><title>Aquí la Tierra</title>
     <desc>Entretenimiento,Magacín | 2025 | TP | ★6.4/10
 · Jacob Petrus ofrece una original mirada sobre el territorio y sus habitantes a través de la meteorología. La divulgación y la información sobre el terreno conviven con el descubrimiento de la naturaleza y el medio ambiente.
 · País: España
@@ -4604,6 +5240,20 @@
     <star-rating system="ES">
       <value>6.2/10</value>
     </star-rating>
+  </programme><programme start="20251127200000 +0000" stop="20251127204000 +0000" channel="LA 1 SD"><title>Telediario 2</title>
+    <desc>Información,Informativo | 2021 | TP | ★6.2/10
+· Cientos de profesionales de TVE salen cada día a la calle en busca de noticias. El resultado, un completo repaso a la actualidad nacional e internacional conducido por Pepa Bueno. También hay espacio para la parcela deportiva.
+· País: España
+· Presenta: Pepa Bueno.
+· Productora: Televisión Española (TVE).</desc>
+    <category>Información, Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/M24HF518466" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.2/10</value>
+    </star-rating>
   </programme><programme start="20251127204000 +0000" stop="20251127204500 +0000" channel="ES: LA 1 ᴴᴰ"><title>Deportes 2</title>
     <desc>Deportes,Programa deportes | 2025 | ★6.0/10
 · Actualidad deportiva diaria nacional e internacional.
@@ -4665,6 +5315,16 @@
       <value>6.0/10</value>
     </star-rating>
   </programme><programme start="20251127204000 +0000" stop="20251127204500 +0000" channel="VO: LA 1 ᴿᴬᵂ"><title>Deportes 2</title>
+    <desc>Deportes,Programa deportes | 2025 | ★6.0/10
+· Actualidad deportiva diaria nacional e internacional.
+· País: España
+· Presenta: Ana Ibáñez, Lara Gandarillas, Marcos López.</desc>
+    <category>Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF3921386" />
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme><programme start="20251127204000 +0000" stop="20251127204500 +0000" channel="LA 1 SD"><title>Deportes 2</title>
     <desc>Deportes,Programa deportes | 2025 | ★6.0/10
 · Actualidad deportiva diaria nacional e internacional.
 · País: España
@@ -4772,6 +5432,20 @@
     <star-rating system="ES">
       <value>6.4/10</value>
     </star-rating>
+  </programme><programme start="20251127204500 +0000" stop="20251127220000 +0000" channel="LA 1 SD"><title>La revuelta T2</title>
+    <desc>Entretenimiento,Entrevista | 2025 | ⑫ | ★6.4/10
+· Las atípicas entrevistas de David Broncano, además de un plantel de cómicos sin prejuicios, son la bandera de un programa en el que nunca se sabe qué va a pasar. Jorge Ponce, Ricardo Castella y Grison ponen música y humor al programa.
+· País: España
+· Presenta: David Broncano.
+· Productora: Radio Televisión Española (RTVE), El Terrat.</desc>
+    <category>Entretenimiento, Entrevista</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/F4385110" />
+    <rating system="ES">
+      <value>12</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.4/10</value>
+    </star-rating>
   </programme><programme start="20251127220000 +0000" stop="20251127231500 +0000" channel="ES: LA 1 ᴴᴰ"><title>Futuro imperfecto T2</title>
     <desc>Entretenimiento,Humor | 2025 | ⑫ | ★6.2/10
 · Andreu Buenafuente da su visión de los temas del mundo que le llaman la atención: un análisis irónico sobre la realidad cotidiana con el toque personal de Andreu y su equipo de guionistas.
@@ -4851,6 +5525,19 @@
       <value>6.2/10</value>
     </star-rating>
   </programme><programme start="20251127220000 +0000" stop="20251127231500 +0000" channel="VO: LA 1 ᴿᴬᵂ"><title>Futuro imperfecto T2</title>
+    <desc>Entretenimiento,Humor | 2025 | ⑫ | ★6.2/10
+· Andreu Buenafuente da su visión de los temas del mundo que le llaman la atención: un análisis irónico sobre la realidad cotidiana con el toque personal de Andreu y su equipo de guionistas.
+· País: España
+· Presenta: Andreu Buenafuente.</desc>
+    <category>Entretenimiento, Humor</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF4125811" />
+    <rating system="ES">
+      <value>12</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.2/10</value>
+    </star-rating>
+  </programme><programme start="20251127220000 +0000" stop="20251127231500 +0000" channel="LA 1 SD"><title>Futuro imperfecto T2</title>
     <desc>Entretenimiento,Humor | 2025 | ⑫ | ★6.2/10
 · Andreu Buenafuente da su visión de los temas del mundo que le llaman la atención: un análisis irónico sobre la realidad cotidiana con el toque personal de Andreu y su equipo de guionistas.
 · País: España
@@ -4954,6 +5641,19 @@
     <star-rating system="ES">
       <value>6.2/10</value>
     </star-rating>
+  </programme><programme start="20251127231500 +0000" stop="20251128003700 +0000" channel="LA 1 SD"><title>Futuro imperfecto T2</title>
+    <desc>Entretenimiento,Humor | 2025 | ⑫ | ★6.2/10
+· Andreu Buenafuente da su visión de los temas del mundo que le llaman la atención: un análisis irónico sobre la realidad cotidiana con el toque personal de Andreu y su equipo de guionistas.
+· País: España
+· Presenta: Andreu Buenafuente.</desc>
+    <category>Entretenimiento, Humor</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF4125811" />
+    <rating system="ES">
+      <value>12</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.2/10</value>
+    </star-rating>
   </programme><programme start="20251128003700 +0000" stop="20251128020500 +0000" channel="ES: LA 1 ᴴᴰ"><title>Futuro imperfecto T2</title>
     <desc>Entretenimiento,Humor | 2025 | ⑫ | ★6.2/10
 · Andreu Buenafuente da su visión de los temas del mundo que le llaman la atención: un análisis irónico sobre la realidad cotidiana con el toque personal de Andreu y su equipo de guionistas.
@@ -5045,6 +5745,19 @@
     <star-rating system="ES">
       <value>6.2/10</value>
     </star-rating>
+  </programme><programme start="20251128003700 +0000" stop="20251128020500 +0000" channel="LA 1 SD"><title>Futuro imperfecto T2</title>
+    <desc>Entretenimiento,Humor | 2025 | ⑫ | ★6.2/10
+· Andreu Buenafuente da su visión de los temas del mundo que le llaman la atención: un análisis irónico sobre la realidad cotidiana con el toque personal de Andreu y su equipo de guionistas.
+· País: España
+· Presenta: Andreu Buenafuente.</desc>
+    <category>Entretenimiento, Humor</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF4125811" />
+    <rating system="ES">
+      <value>12</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.2/10</value>
+    </star-rating>
   </programme><programme start="20251128020500 +0000" stop="20251128043500 +0000" channel="ES: LA 1 ᴴᴰ"><title>La noche en 24 horas</title>
     <desc>Información,Informativo | 2025 | ★6.2/10
 · Informativo diario nocturno que ofrece un análisis profundo y plural de la actualidad de la jornada.
@@ -5122,6 +5835,17 @@
     <star-rating system="ES">
       <value>6.2/10</value>
     </star-rating>
+  </programme><programme start="20251128020500 +0000" stop="20251128043500 +0000" channel="LA 1 SD"><title>La noche en 24 horas</title>
+    <desc>Información,Informativo | 2025 | ★6.2/10
+· Informativo diario nocturno que ofrece un análisis profundo y plural de la actualidad de la jornada.
+· País: España
+· Dirección: Xabier Fortes.
+· Productora: Televisión Española (TVE).</desc>
+    <category>Información, Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/M24HF4108663" />
+    <star-rating system="ES">
+      <value>6.2/10</value>
+    </star-rating>
   </programme><programme start="20251128043500 +0000" stop="20251128050000 +0000" channel="ES: LA 1 ᴴᴰ"><title>Noticias 24H</title>
     <desc>Información,Informativo | 2021 | ★6.2/10
 · Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.
@@ -5177,6 +5901,15 @@
       <value>6.2/10</value>
     </star-rating>
   </programme><programme start="20251128043500 +0000" stop="20251128050000 +0000" channel="VO: LA 1 ᴿᴬᵂ"><title>Noticias 24H</title>
+    <desc>Información,Informativo | 2021 | ★6.2/10
+· Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.
+· País: España</desc>
+    <category>Información, Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/F4315171" />
+    <star-rating system="ES">
+      <value>6.2/10</value>
+    </star-rating>
+  </programme><programme start="20251128043500 +0000" stop="20251128050000 +0000" channel="LA 1 SD"><title>Noticias 24H</title>
     <desc>Información,Informativo | 2021 | ★6.2/10
 · Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.
 · País: España</desc>
@@ -5283,6 +6016,20 @@
     <star-rating system="ES">
       <value>6.2/10</value>
     </star-rating>
+  </programme><programme start="20251128050000 +0000" stop="20251128065000 +0000" channel="LA 1 SD"><title>Telediario Matinal</title>
+    <desc>Información,Informativo | 2023 | TP | ★6.2/10
+· Lorena Baeza y Álex Barreiro conducen este rápido y exhaustivo repaso de todas las noticias de interés general. Además, se ofrece la actualidad meteorológica de España y de Europa y el estado de la mar. Rubén Briones presenta la información deportiva.
+· País: España
+· Presenta: Sirun Demirjian, Lorena Baeza, Álex Barreiro.
+· Productora: Televisión Española (TVE).</desc>
+    <category>Información, Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/M24HF518404" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.2/10</value>
+    </star-rating>
   </programme><programme start="20251128065000 +0000" stop="20251128093500 +0000" channel="ES: LA 1 ᴴᴰ"><title>La hora de La 1: La hora de la actualidad T8</title>
     <desc>Entretenimiento,Magacín | 2025 | ⑯ | ★6.0/10
 · Magazine matinal de la 1 en el que se reúne información de actualidad social. El programa cuenta con voces autorizadas que tratan temas que fomenten el pensamiento crítico y el servicio público para ayudar a los ciudadanos en su día a día.
@@ -5362,6 +6109,19 @@
       <value>6.0/10</value>
     </star-rating>
   </programme><programme start="20251128065000 +0000" stop="20251128093500 +0000" channel="VO: LA 1 ᴿᴬᵂ"><title>La hora de La 1: La hora de la actualidad T8</title>
+    <desc>Entretenimiento,Magacín | 2025 | ⑯ | ★6.0/10
+· Magazine matinal de la 1 en el que se reúne información de actualidad social. El programa cuenta con voces autorizadas que tratan temas que fomenten el pensamiento crítico y el servicio público para ayudar a los ciudadanos en su día a día.
+· País: España
+· Dirección: Silvia Intxaurrondo.</desc>
+    <category>Entretenimiento, Magacín</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/M24HF3898133" />
+    <rating system="ES">
+      <value>16</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme><programme start="20251128065000 +0000" stop="20251128093500 +0000" channel="LA 1 SD"><title>La hora de La 1: La hora de la actualidad T8</title>
     <desc>Entretenimiento,Magacín | 2025 | ⑯ | ★6.0/10
 · Magazine matinal de la 1 en el que se reúne información de actualidad social. El programa cuenta con voces autorizadas que tratan temas que fomenten el pensamiento crítico y el servicio público para ayudar a los ciudadanos en su día a día.
 · País: España
@@ -5465,6 +6225,19 @@
     <star-rating system="ES">
       <value>6.2/10</value>
     </star-rating>
+  </programme><programme start="20251128093500 +0000" stop="20251128140000 +0000" channel="LA 1 SD"><title>Mañaneros 360 T2</title>
+    <desc>Entretenimiento,Magacín | 2025 | ⑯ | ★6.2/10
+· Magazín de actualidad conducido por Adela González y Javier Ruiz, que combina noticias y entretenimiento de la mano de sus colaboradores.
+· País: España
+· Presenta: Adela González, Javier Ruiz.</desc>
+    <category>Entretenimiento, Magacín</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF4108659" />
+    <rating system="ES">
+      <value>16</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.2/10</value>
+    </star-rating>
   </programme><programme start="20251128140000 +0000" stop="20251128143500 +0000" channel="ES: LA 1 ᴴᴰ"><title>Telediario 1</title>
     <desc>Información,Informativo | 2014 | ★6.2/10
 · El noticiario audiovisual más veterano de la historia de la televisión en España. Alejandra Herranz hace un repaso diario a la actualidad general de España y el mundo, además de una sección dedicada al deporte.
@@ -5532,6 +6305,17 @@
       <value>6.2/10</value>
     </star-rating>
   </programme><programme start="20251128140000 +0000" stop="20251128143500 +0000" channel="VO: LA 1 ᴿᴬᵂ"><title>Telediario 1</title>
+    <desc>Información,Informativo | 2014 | ★6.2/10
+· El noticiario audiovisual más veterano de la historia de la televisión en España. Alejandra Herranz hace un repaso diario a la actualidad general de España y el mundo, además de una sección dedicada al deporte.
+· País: España
+· Presenta: Alejandra Herranz.
+· Productora: Televisión Española (TVE).</desc>
+    <category>Información, Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/M24HF518438" />
+    <star-rating system="ES">
+      <value>6.2/10</value>
+    </star-rating>
+  </programme><programme start="20251128140000 +0000" stop="20251128143500 +0000" channel="LA 1 SD"><title>Telediario 1</title>
     <desc>Información,Informativo | 2014 | ★6.2/10
 · El noticiario audiovisual más veterano de la historia de la televisión en España. Alejandra Herranz hace un repaso diario a la actualidad general de España y el mundo, además de una sección dedicada al deporte.
 · País: España
@@ -5612,6 +6396,16 @@
     <star-rating system="ES">
       <value>6.0/10</value>
     </star-rating>
+  </programme><programme start="20251128143500 +0000" stop="20251128144000 +0000" channel="LA 1 SD"><title>Deportes 1</title>
+    <desc>Deportes,Programa deportes | 2025 | ★6.0/10
+· Actualidad deportiva diaria nacional e internacional.
+· País: España
+· Presenta: Ana Ibáñez, Lara Gandarillas, Marcos López.</desc>
+    <category>Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF3921384" />
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
   </programme><programme start="20251128144000 +0000" stop="20251128144500 +0000" channel="ES: LA 1 ᴴᴰ"><title>El tiempo</title>
     <desc>Información,Meteorología | 2014 | ★6.4/10
 · Información sobre la previsión meteorológica.
@@ -5682,6 +6476,16 @@
     <star-rating system="ES">
       <value>6.4/10</value>
     </star-rating>
+  </programme><programme start="20251128144000 +0000" stop="20251128144500 +0000" channel="LA 1 SD"><title>El tiempo</title>
+    <desc>Información,Meteorología | 2014 | ★6.4/10
+· Información sobre la previsión meteorológica.
+· País: España
+· Productora: Televisión Española (TVE).</desc>
+    <category>Información, Meteorología</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/M24HF332735" />
+    <star-rating system="ES">
+      <value>6.4/10</value>
+    </star-rating>
   </programme><programme start="20251128144500 +0000" stop="20251128145500 +0000" channel="ES: LA 1 ᴴᴰ"><title>Informativo territorial 2</title>
     <desc>Información,Informativo | 2023 | ★6.0/10
 · Espacio de emisión del informativo de cada centro territorial de TVE.</desc>
@@ -5731,6 +6535,14 @@
       <value>6.0/10</value>
     </star-rating>
   </programme><programme start="20251128144500 +0000" stop="20251128145500 +0000" channel="VO: LA 1 ᴿᴬᵂ"><title>Informativo territorial 2</title>
+    <desc>Información,Informativo | 2023 | ★6.0/10
+· Espacio de emisión del informativo de cada centro territorial de TVE.</desc>
+    <category>Información, Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF2189999" />
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme><programme start="20251128144500 +0000" stop="20251128145500 +0000" channel="LA 1 SD"><title>Informativo territorial 2</title>
     <desc>Información,Informativo | 2023 | ★6.0/10
 · Espacio de emisión del informativo de cada centro territorial de TVE.</desc>
     <category>Información, Informativo</category>
@@ -5829,6 +6641,19 @@
     <star-rating system="ES">
       <value>6.0/10</value>
     </star-rating>
+  </programme><programme start="20251128145500 +0000" stop="20251128163500 +0000" channel="LA 1 SD"><title>Directo al grano T1</title>
+    <desc>Entretenimiento,Magacín | 2025 | ⑯ | ★6.0/10
+· Magacín conducido por Marta Flich y Gonzalo Miró que comenta la actualidad e intenta explicar de forma sencilla lo que ocurre, con rigor, claridad y dinamismo.
+· País: España
+· Presenta: Marta Flich, Gonzalo Miró.</desc>
+    <category>Entretenimiento, Magacín</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF4123147" />
+    <rating system="ES">
+      <value>16</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
   </programme><programme start="20251128163500 +0000" stop="20251128173500 +0000" channel="ES: LA 1 ᴴᴰ"><title>Valle Salvaje</title>
     <desc>Series,Telenovela | 2025 | ⑫ | ★5.8/10
 · Adriana, una joven de 20 años, viaja de Madrid a Asturias tras descubrir que su matrimonio con un desconocido fue concertado en secreto y debe ir a buscarlo a casa de su tía. Allí será obligada a trabajar como criada.
@@ -5914,6 +6739,20 @@
       <value>5.8/10</value>
     </star-rating>
   </programme><programme start="20251128163500 +0000" stop="20251128173500 +0000" channel="VO: LA 1 ᴿᴬᵂ"><title>Valle Salvaje</title>
+    <desc>Series,Telenovela | 2025 | ⑫ | ★5.8/10
+· Adriana, una joven de 20 años, viaja de Madrid a Asturias tras descubrir que su matrimonio con un desconocido fue concertado en secreto y debe ir a buscarlo a casa de su tía. Allí será obligada a trabajar como criada.
+· País: España
+· Reparto: Rocío Suárez de Puga, Manuela Velasco, José Manuel Seda, Marina Sabadell, Mari Paz Sayago, Chechu Salgado.
+· Productora: Bambú Producciones.</desc>
+    <category>Series, Telenovela</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVET4105453" />
+    <rating system="ES">
+      <value>12</value>
+    </rating>
+    <star-rating system="ES">
+      <value>5.8/10</value>
+    </star-rating>
+  </programme><programme start="20251128163500 +0000" stop="20251128173500 +0000" channel="LA 1 SD"><title>Valle Salvaje</title>
     <desc>Series,Telenovela | 2025 | ⑫ | ★5.8/10
 · Adriana, una joven de 20 años, viaja de Madrid a Asturias tras descubrir que su matrimonio con un desconocido fue concertado en secreto y debe ir a buscarlo a casa de su tía. Allí será obligada a trabajar como criada.
 · País: España
@@ -6032,6 +6871,21 @@
     <star-rating system="ES">
       <value>7.0/10</value>
     </star-rating>
+  </programme><programme start="20251128173500 +0000" stop="20251128183500 +0000" channel="LA 1 SD"><title>La Promesa T1</title>
+    <desc>Series,Drama | 2023 | ⑫ | ★7.0/10
+· En 1913, una mujer, una venganza y una gran historia de amor.
+· País: España
+· Reparto: Joaquín Climent, María Castro, Eva Martín, Ana Garcés, Arturo Sancho.
+· Guion: Alberto Grondona, Benjamín Zafra, Juanma Ruiz.
+· Productora: Bambú Producciones, StudioCanal, Radio Televisión Española (RTVE).</desc>
+    <category>Series, Drama</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF2162814" />
+    <rating system="ES">
+      <value>12</value>
+    </rating>
+    <star-rating system="ES">
+      <value>7.0/10</value>
+    </star-rating>
   </programme><programme start="20251128183500 +0000" stop="20251128191500 +0000" channel="ES: LA 1 ᴴᴰ"><title>Malas lenguas T2</title>
     <desc>Entretenimiento,Magacín | 2025 | TP | ★6.0/10
 · Jesús Cintora presenta este magacine de actualidad, en el que, con humor, se desmontan bulos que circulan en los medios de comunicación y las redes sociales.
@@ -6123,6 +6977,19 @@
     <star-rating system="ES">
       <value>6.0/10</value>
     </star-rating>
+  </programme><programme start="20251128183500 +0000" stop="20251128191500 +0000" channel="LA 1 SD"><title>Malas lenguas T2</title>
+    <desc>Entretenimiento,Magacín | 2025 | TP | ★6.0/10
+· Jesús Cintora presenta este magacine de actualidad, en el que, con humor, se desmontan bulos que circulan en los medios de comunicación y las redes sociales.
+· País: España
+· Dirección: Jesús Cintora.</desc>
+    <category>Entretenimiento, Magacín</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MLA2F4123276" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
   </programme><programme start="20251128191500 +0000" stop="20251128213000 +0000" channel="ES: LA 1 ᴴᴰ"><title>DIRECTO Final: Alemania - España T2025 · Liga de Naciones F</title>
     <desc>Deportes,Fútbol | 2025 | ★6.0/10
 · Las selecciones continentales compiten en este torneo de la UEFA.</desc>
@@ -6179,6 +7046,14 @@
     <star-rating system="ES">
       <value>6.0/10</value>
     </star-rating>
+  </programme><programme start="20251128191500 +0000" stop="20251128213000 +0000" channel="LA 1 SD"><title>DIRECTO Final: Alemania - España T2025 · Liga de Naciones F</title>
+    <desc>Deportes,Fútbol | 2025 | ★6.0/10
+· Las selecciones continentales compiten en este torneo de la UEFA.</desc>
+    <category>Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/F4443926" />
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
   </programme><programme start="20251128213000 +0000" stop="20251128230000 +0000" channel="ES: LA 1 ᴴᴰ"><title>Cine</title>
     <desc>· Programa por determinar...</desc>
   </programme><programme start="20251128213000 +0000" stop="20251128230000 +0000" channel="ES: LA 1 ᵁᴴᴰ"><title>Cine</title>
@@ -6192,6 +7067,8 @@
   </programme><programme start="20251128213000 +0000" stop="20251128230000 +0000" channel="GO: LA 1 ᴿᴬᵂ"><title>Cine</title>
     <desc>· Programa por determinar...</desc>
   </programme><programme start="20251128213000 +0000" stop="20251128230000 +0000" channel="VO: LA 1 ᴿᴬᵂ"><title>Cine</title>
+    <desc>· Programa por determinar...</desc>
+  </programme><programme start="20251128213000 +0000" stop="20251128230000 +0000" channel="LA 1 SD"><title>Cine</title>
     <desc>· Programa por determinar...</desc>
   </programme><programme start="20251128230000 +0000" stop="20251129004000 +0000" channel="ES: LA 1 ᴴᴰ"><title>Cine</title>
     <desc>· Programa por determinar...</desc>
@@ -6207,6 +7084,8 @@
     <desc>· Programa por determinar...</desc>
   </programme><programme start="20251128230000 +0000" stop="20251129004000 +0000" channel="VO: LA 1 ᴿᴬᵂ"><title>Cine</title>
     <desc>· Programa por determinar...</desc>
+  </programme><programme start="20251128230000 +0000" stop="20251129004000 +0000" channel="LA 1 SD"><title>Cine</title>
+    <desc>· Programa por determinar...</desc>
   </programme><programme start="20251129004000 +0000" stop="20251129020500 +0000" channel="ES: LA 1 ᴴᴰ"><title>Cine</title>
     <desc>· Programa por determinar...</desc>
   </programme><programme start="20251129004000 +0000" stop="20251129020500 +0000" channel="ES: LA 1 ᵁᴴᴰ"><title>Cine</title>
@@ -6220,6 +7099,8 @@
   </programme><programme start="20251129004000 +0000" stop="20251129020500 +0000" channel="GO: LA 1 ᴿᴬᵂ"><title>Cine</title>
     <desc>· Programa por determinar...</desc>
   </programme><programme start="20251129004000 +0000" stop="20251129020500 +0000" channel="VO: LA 1 ᴿᴬᵂ"><title>Cine</title>
+    <desc>· Programa por determinar...</desc>
+  </programme><programme start="20251129004000 +0000" stop="20251129020500 +0000" channel="LA 1 SD"><title>Cine</title>
     <desc>· Programa por determinar...</desc>
   </programme><programme start="20251129020500 +0000" stop="20251129050000 +0000" channel="ES: LA 1 ᴴᴰ"><title>Noticias 24H</title>
     <desc>Información,Informativo | 2021 | ★6.2/10
@@ -6276,6 +7157,15 @@
       <value>6.2/10</value>
     </star-rating>
   </programme><programme start="20251129020500 +0000" stop="20251129050000 +0000" channel="VO: LA 1 ᴿᴬᵂ"><title>Noticias 24H</title>
+    <desc>Información,Informativo | 2021 | ★6.2/10
+· Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.
+· País: España</desc>
+    <category>Información, Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/M24HF518403" />
+    <star-rating system="ES">
+      <value>6.2/10</value>
+    </star-rating>
+  </programme><programme start="20251129020500 +0000" stop="20251129050000 +0000" channel="LA 1 SD"><title>Noticias 24H</title>
     <desc>Información,Informativo | 2021 | ★6.2/10
 · Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.
 · País: España</desc>
@@ -6347,6 +7237,15 @@
     <star-rating system="ES">
       <value>6.2/10</value>
     </star-rating>
+  </programme><programme start="20251129050000 +0000" stop="20251129060000 +0000" channel="LA 1 SD"><title>Noticias 24H</title>
+    <desc>Información,Informativo | 2021 | ★6.2/10
+· Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.
+· País: España</desc>
+    <category>Información, Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/M24HF518403" />
+    <star-rating system="ES">
+      <value>6.2/10</value>
+    </star-rating>
   </programme><programme start="20251129060000 +0000" stop="20251129090000 +0000" channel="ES: LA 1 ᴴᴰ"><title>Noticias 24H</title>
     <desc>Información,Informativo | 2021 | ★6.2/10
 · Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.
@@ -6402,6 +7301,15 @@
       <value>6.2/10</value>
     </star-rating>
   </programme><programme start="20251129060000 +0000" stop="20251129090000 +0000" channel="VO: LA 1 ᴿᴬᵂ"><title>Noticias 24H</title>
+    <desc>Información,Informativo | 2021 | ★6.2/10
+· Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.
+· País: España</desc>
+    <category>Información, Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/M24HF518403" />
+    <star-rating system="ES">
+      <value>6.2/10</value>
+    </star-rating>
+  </programme><programme start="20251129060000 +0000" stop="20251129090000 +0000" channel="LA 1 SD"><title>Noticias 24H</title>
     <desc>Información,Informativo | 2021 | ★6.2/10
 · Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.
 · País: España</desc>
@@ -6489,6 +7397,19 @@
       <value>6.0/10</value>
     </star-rating>
   </programme><programme start="20251129090000 +0000" stop="20251129093000 +0000" channel="VO: LA 1 ᴿᴬᵂ"><title>Audiencia abierta</title>
+    <desc>Información,Política | 2012 | TP | ★6.0/10
+· Espacio semanal de servicio público sobre la Jefatura del Estado.
+· País: España
+· Dirección: Miguel Ángel Sacaluga.</desc>
+    <category>Información, Política</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/M24HF1065634" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme><programme start="20251129090000 +0000" stop="20251129093000 +0000" channel="LA 1 SD"><title>Audiencia abierta</title>
     <desc>Información,Política | 2012 | TP | ★6.0/10
 · Espacio semanal de servicio público sobre la Jefatura del Estado.
 · País: España
@@ -6592,6 +7513,19 @@
     <star-rating system="ES">
       <value>6.0/10</value>
     </star-rating>
+  </programme><programme start="20251129093000 +0000" stop="20251129120000 +0000" channel="LA 1 SD"><title>Viaje al centro de la tele</title>
+    <desc>Entretenimiento,Zapping | 2024 | TP | ★6.0/10
+· Televisión Española recuerda los mejores momentos de la historia del medio televisivo.
+· País: España
+· Dirección: Pedro Santos.</desc>
+    <category>Entretenimiento, Zapping</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF3489218" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
   </programme><programme start="20251129120000 +0000" stop="20251129140000 +0000" channel="ES: LA 1 ᴴᴰ"><title>D Corazón T2</title>
     <desc>Entretenimiento,Corazon y sociedad | 2025 | TP | ★6.2/10
 · Anne Igartiburu y Javier de Hoyos hacen un repaso a la actualidad de la crónica social, con los nombres propios más importantes de la semana y estando en directo en todos los acontecimientos y eventos que se produzcan.
@@ -6683,6 +7617,19 @@
     <star-rating system="ES">
       <value>6.2/10</value>
     </star-rating>
+  </programme><programme start="20251129120000 +0000" stop="20251129140000 +0000" channel="LA 1 SD"><title>D Corazón T2</title>
+    <desc>Entretenimiento,Corazon y sociedad | 2025 | TP | ★6.2/10
+· Anne Igartiburu y Javier de Hoyos hacen un repaso a la actualidad de la crónica social, con los nombres propios más importantes de la semana y estando en directo en todos los acontecimientos y eventos que se produzcan.
+· País: España
+· Presenta: Anne Igartiburu, Jordi González, Javier de Hoyos.</desc>
+    <category>Entretenimiento, Corazon y sociedad</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF3902302" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.2/10</value>
+    </star-rating>
   </programme><programme start="20251129140000 +0000" stop="20251129144500 +0000" channel="ES: LA 1 ᴴᴰ"><title>Telediario 1 Fin de Semana</title>
     <desc>Información,Informativo | 2021 | ★4.0/10
 · Noticiario del fin de semana, que pone especial énfasis en los acontecimientos deportivos.
@@ -6760,6 +7707,17 @@
     <star-rating system="ES">
       <value>4.0/10</value>
     </star-rating>
+  </programme><programme start="20251129140000 +0000" stop="20251129144500 +0000" channel="LA 1 SD"><title>Telediario 1 Fin de Semana</title>
+    <desc>Información,Informativo | 2021 | ★4.0/10
+· Noticiario del fin de semana, que pone especial énfasis en los acontecimientos deportivos.
+· País: España
+· Presenta: Marc Sala, Lourdes Maldonado.
+· Productora: Televisión Española (TVE).</desc>
+    <category>Información, Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF1114179" />
+    <star-rating system="ES">
+      <value>4.0/10</value>
+    </star-rating>
   </programme><programme start="20251129144500 +0000" stop="20251129145000 +0000" channel="ES: LA 1 ᴴᴰ"><title>Deportes 1</title>
     <desc>Deportes,Programa deportes | 2025 | ★6.0/10
 · Actualidad deportiva diaria nacional e internacional.
@@ -6821,6 +7779,16 @@
       <value>6.0/10</value>
     </star-rating>
   </programme><programme start="20251129144500 +0000" stop="20251129145000 +0000" channel="VO: LA 1 ᴿᴬᵂ"><title>Deportes 1</title>
+    <desc>Deportes,Programa deportes | 2025 | ★6.0/10
+· Actualidad deportiva diaria nacional e internacional.
+· País: España
+· Presenta: Ana Ibáñez, Lara Gandarillas, Marcos López.</desc>
+    <category>Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF3921384" />
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme><programme start="20251129144500 +0000" stop="20251129145000 +0000" channel="LA 1 SD"><title>Deportes 1</title>
     <desc>Deportes,Programa deportes | 2025 | ★6.0/10
 · Actualidad deportiva diaria nacional e internacional.
 · País: España
@@ -6928,6 +7896,20 @@
     <star-rating system="ES">
       <value>6.0/10</value>
     </star-rating>
+  </programme><programme start="20251129145000 +0000" stop="20251129145500 +0000" channel="LA 1 SD"><title>La suerte en tus manos</title>
+    <desc>Ocio y Aficiones,Juegos | 2025 | TP | ★6.0/10
+· Emisión en directo de los sorteos de la Lotería Primitiva y la Lotería Nacional. La Primitiva es el juego más popular de las Loterías y Apuestas del Estado, mientras que la Nacional se basa en el sistema de décimos de cinco números.
+· País: España
+· Presenta: Silvia Salgado.
+· Productora: Televisión Española (TVE).</desc>
+    <category>Ocio y Aficiones, Juegos</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF4127785" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
   </programme><programme start="20251129145500 +0000" stop="20251129163000 +0000" channel="ES: LA 1 ᴴᴰ"><title>Cine</title>
     <desc>· Programa por determinar...</desc>
   </programme><programme start="20251129145500 +0000" stop="20251129163000 +0000" channel="ES: LA 1 ᵁᴴᴰ"><title>Cine</title>
@@ -6941,6 +7923,8 @@
   </programme><programme start="20251129145500 +0000" stop="20251129163000 +0000" channel="GO: LA 1 ᴿᴬᵂ"><title>Cine</title>
     <desc>· Programa por determinar...</desc>
   </programme><programme start="20251129145500 +0000" stop="20251129163000 +0000" channel="VO: LA 1 ᴿᴬᵂ"><title>Cine</title>
+    <desc>· Programa por determinar...</desc>
+  </programme><programme start="20251129145500 +0000" stop="20251129163000 +0000" channel="LA 1 SD"><title>Cine</title>
     <desc>· Programa por determinar...</desc>
   </programme><programme start="20251129163000 +0000" stop="20251129181000 +0000" channel="ES: LA 1 ᴴᴰ"><title>Cine</title>
     <desc>· Programa por determinar...</desc>
@@ -6956,6 +7940,8 @@
     <desc>· Programa por determinar...</desc>
   </programme><programme start="20251129163000 +0000" stop="20251129181000 +0000" channel="VO: LA 1 ᴿᴬᵂ"><title>Cine</title>
     <desc>· Programa por determinar...</desc>
+  </programme><programme start="20251129163000 +0000" stop="20251129181000 +0000" channel="LA 1 SD"><title>Cine</title>
+    <desc>· Programa por determinar...</desc>
   </programme><programme start="20251129181000 +0000" stop="20251129200000 +0000" channel="ES: LA 1 ᴴᴰ"><title>Cine</title>
     <desc>· Programa por determinar...</desc>
   </programme><programme start="20251129181000 +0000" stop="20251129200000 +0000" channel="ES: LA 1 ᵁᴴᴰ"><title>Cine</title>
@@ -6969,6 +7955,8 @@
   </programme><programme start="20251129181000 +0000" stop="20251129200000 +0000" channel="GO: LA 1 ᴿᴬᵂ"><title>Cine</title>
     <desc>· Programa por determinar...</desc>
   </programme><programme start="20251129181000 +0000" stop="20251129200000 +0000" channel="VO: LA 1 ᴿᴬᵂ"><title>Cine</title>
+    <desc>· Programa por determinar...</desc>
+  </programme><programme start="20251129181000 +0000" stop="20251129200000 +0000" channel="LA 1 SD"><title>Cine</title>
     <desc>· Programa por determinar...</desc>
   </programme><programme start="20251129200000 +0000" stop="20251129202500 +0000" channel="ES: LA 1 ᴴᴰ"><title>Telediario 2 Fin de Semana</title>
     <desc>Información,Informativo | 2017 | ★3.6/10
@@ -7047,6 +8035,17 @@
     <star-rating system="ES">
       <value>3.6/10</value>
     </star-rating>
+  </programme><programme start="20251129200000 +0000" stop="20251129202500 +0000" channel="LA 1 SD"><title>Telediario 2 Fin de Semana</title>
+    <desc>Información,Informativo | 2017 | ★3.6/10
+· Informativo de Televisión Española de los fines de semana. Marc Sala y Lourdes Maldonado se encargan de presentar las últimas noticias de ámbito nacional e internacional surgidas durante el día. Mientras, Marcos López, introduce el bloque de deportes.
+· País: España
+· Presenta: Marc Sala, Lourdes Maldonado.
+· Productora: Televisión Española (TVE).</desc>
+    <category>Información, Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF1114180" />
+    <star-rating system="ES">
+      <value>3.6/10</value>
+    </star-rating>
   </programme><programme start="20251129202500 +0000" stop="20251129203000 +0000" channel="ES: LA 1 ᴴᴰ"><title>Deportes 2</title>
     <desc>Deportes,Programa deportes | 2025 | ★6.0/10
 · Actualidad deportiva diaria nacional e internacional.
@@ -7108,6 +8107,16 @@
       <value>6.0/10</value>
     </star-rating>
   </programme><programme start="20251129202500 +0000" stop="20251129203000 +0000" channel="VO: LA 1 ᴿᴬᵂ"><title>Deportes 2</title>
+    <desc>Deportes,Programa deportes | 2025 | ★6.0/10
+· Actualidad deportiva diaria nacional e internacional.
+· País: España
+· Presenta: Ana Ibáñez, Lara Gandarillas, Marcos López.</desc>
+    <category>Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF3921386" />
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme><programme start="20251129202500 +0000" stop="20251129203000 +0000" channel="LA 1 SD"><title>Deportes 2</title>
     <desc>Deportes,Programa deportes | 2025 | ★6.0/10
 · Actualidad deportiva diaria nacional e internacional.
 · País: España
@@ -7222,6 +8231,21 @@
     <star-rating system="ES">
       <value>6.2/10</value>
     </star-rating>
+  </programme><programme start="20251129203000 +0000" stop="20251129210000 +0000" channel="LA 1 SD"><title>Informe Semanal T25/26</title>
+    <desc>Información,Reportaje | 2025 | ⑦ | ★6.2/10
+· Cuatro reportajes de media hora de la actualidad nacional e internacional.
+· País: España
+· Presenta: Lourdes Maldonado.
+· Dirección: Jenaro Castro Muiña.
+· Productora: Televisión Española (TVE).</desc>
+    <category>Información, Reportaje</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/M24HF4116717" />
+    <rating system="ES">
+      <value>7</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.2/10</value>
+    </star-rating>
   </programme><programme start="20251129210000 +0000" stop="20251129230500 +0000" channel="ES: LA 1 ᴴᴰ"><title>Cine</title>
     <desc>· Programa por determinar...</desc>
   </programme><programme start="20251129210000 +0000" stop="20251129230500 +0000" channel="ES: LA 1 ᵁᴴᴰ"><title>Cine</title>
@@ -7235,6 +8259,8 @@
   </programme><programme start="20251129210000 +0000" stop="20251129230500 +0000" channel="GO: LA 1 ᴿᴬᵂ"><title>Cine</title>
     <desc>· Programa por determinar...</desc>
   </programme><programme start="20251129210000 +0000" stop="20251129230500 +0000" channel="VO: LA 1 ᴿᴬᵂ"><title>Cine</title>
+    <desc>· Programa por determinar...</desc>
+  </programme><programme start="20251129210000 +0000" stop="20251129230500 +0000" channel="LA 1 SD"><title>Cine</title>
     <desc>· Programa por determinar...</desc>
   </programme><programme start="20251129230500 +0000" stop="20251130011500 +0000" channel="ES: LA 1 ᴴᴰ"><title>¿Algo que declarar?</title>
     <desc>Entretenimiento,Telerrealidad | 2025 | ⑫ | ★6.4/10
@@ -7327,6 +8353,19 @@
     <star-rating system="ES">
       <value>6.4/10</value>
     </star-rating>
+  </programme><programme start="20251129230500 +0000" stop="20251130011500 +0000" channel="LA 1 SD"><title>¿Algo que declarar?</title>
+    <desc>Entretenimiento,Telerrealidad | 2025 | ⑫ | ★6.4/10
+· Los participantes destapan sus secretos más inconfesables para encontrar el amor.
+· País: España
+· Presenta: Pablo Chiapella.</desc>
+    <category>Entretenimiento, Telerrealidad</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF4081115" />
+    <rating system="ES">
+      <value>12</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.4/10</value>
+    </star-rating>
   </programme><programme start="20251130011500 +0000" stop="20251130022500 +0000" channel="ES: LA 1 ᴴᴰ"><title>Noticias 24H</title>
     <desc>Información,Informativo | 2021 | ★6.2/10
 · Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.
@@ -7382,6 +8421,15 @@
       <value>6.2/10</value>
     </star-rating>
   </programme><programme start="20251130011500 +0000" stop="20251130022500 +0000" channel="VO: LA 1 ᴿᴬᵂ"><title>Noticias 24H</title>
+    <desc>Información,Informativo | 2021 | ★6.2/10
+· Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.
+· País: España</desc>
+    <category>Información, Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/M24HF518403" />
+    <star-rating system="ES">
+      <value>6.2/10</value>
+    </star-rating>
+  </programme><programme start="20251130011500 +0000" stop="20251130022500 +0000" channel="LA 1 SD"><title>Noticias 24H</title>
     <desc>Información,Informativo | 2021 | ★6.2/10
 · Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.
 · País: España</desc>
@@ -7453,6 +8501,15 @@
     <star-rating system="ES">
       <value>6.2/10</value>
     </star-rating>
+  </programme><programme start="20251130022500 +0000" stop="20251130050000 +0000" channel="LA 1 SD"><title>Noticias 24H</title>
+    <desc>Información,Informativo | 2021 | ★6.2/10
+· Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.
+· País: España</desc>
+    <category>Información, Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/F4315171" />
+    <star-rating system="ES">
+      <value>6.2/10</value>
+    </star-rating>
   </programme><programme start="20251130050000 +0000" stop="20251130090000 +0000" channel="ES: LA 1 ᴴᴰ"><title>Noticias 24H</title>
     <desc>Información,Informativo | 2021 | ★6.2/10
 · Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.
@@ -7508,6 +8565,15 @@
       <value>6.2/10</value>
     </star-rating>
   </programme><programme start="20251130050000 +0000" stop="20251130090000 +0000" channel="VO: LA 1 ᴿᴬᵂ"><title>Noticias 24H</title>
+    <desc>Información,Informativo | 2021 | ★6.2/10
+· Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.
+· País: España</desc>
+    <category>Información, Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/F4315171" />
+    <star-rating system="ES">
+      <value>6.2/10</value>
+    </star-rating>
+  </programme><programme start="20251130050000 +0000" stop="20251130090000 +0000" channel="LA 1 SD"><title>Noticias 24H</title>
     <desc>Información,Informativo | 2021 | ★6.2/10
 · Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.
 · País: España</desc>
@@ -7595,6 +8661,19 @@
       <value>6.2/10</value>
     </star-rating>
   </programme><programme start="20251130090000 +0000" stop="20251130095400 +0000" channel="VO: LA 1 ᴿᴬᵂ"><title>Viaje al centro de la tele</title>
+    <desc>Entretenimiento,Zapping | 2023 | TP | ★6.2/10
+· Televisión Española recuerda los mejores momentos de la historia del medio televisivo.
+· País: España
+· Dirección: Pedro Santos.</desc>
+    <category>Entretenimiento, Zapping</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF3045530" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.2/10</value>
+    </star-rating>
+  </programme><programme start="20251130090000 +0000" stop="20251130095400 +0000" channel="LA 1 SD"><title>Viaje al centro de la tele</title>
     <desc>Entretenimiento,Zapping | 2023 | TP | ★6.2/10
 · Televisión Española recuerda los mejores momentos de la historia del medio televisivo.
 · País: España
@@ -7698,6 +8777,19 @@
     <star-rating system="ES">
       <value>6.0/10</value>
     </star-rating>
+  </programme><programme start="20251130095400 +0000" stop="20251130105600 +0000" channel="LA 1 SD"><title>Viaje al centro de la tele</title>
+    <desc>Entretenimiento,Zapping | 2024 | TP | ★6.0/10
+· Televisión Española recuerda los mejores momentos de la historia del medio televisivo.
+· País: España
+· Dirección: Pedro Santos.</desc>
+    <category>Entretenimiento, Zapping</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF3489218" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
   </programme><programme start="20251130105600 +0000" stop="20251130120000 +0000" channel="ES: LA 1 ᴴᴰ"><title>Viaje al centro de la tele exprés</title>
     <desc>Entretenimiento,Zapping | 2021 | TP | ★6.2/10
 · Televisión Española recuerda los mejores momentos de la historia del medio televisivo.
@@ -7771,6 +8863,18 @@
       <value>6.2/10</value>
     </star-rating>
   </programme><programme start="20251130105600 +0000" stop="20251130120000 +0000" channel="VO: LA 1 ᴿᴬᵂ"><title>Viaje al centro de la tele exprés</title>
+    <desc>Entretenimiento,Zapping | 2021 | TP | ★6.2/10
+· Televisión Española recuerda los mejores momentos de la historia del medio televisivo.
+· País: España</desc>
+    <category>Entretenimiento, Zapping</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF1920491" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.2/10</value>
+    </star-rating>
+  </programme><programme start="20251130105600 +0000" stop="20251130120000 +0000" channel="LA 1 SD"><title>Viaje al centro de la tele exprés</title>
     <desc>Entretenimiento,Zapping | 2021 | TP | ★6.2/10
 · Televisión Española recuerda los mejores momentos de la historia del medio televisivo.
 · País: España</desc>
@@ -7861,6 +8965,19 @@
       <value>6.4/10</value>
     </star-rating>
   </programme><programme start="20251130120000 +0000" stop="20251130140000 +0000" channel="VO: LA 1 ᴿᴬᵂ"><title>D Corazón T2</title>
+    <desc>Entretenimiento,Corazon y sociedad | 2025 | TP | ★6.4/10
+· Anne Igartiburu y Javier de Hoyos hacen un repaso a la actualidad de la crónica social, con los nombres propios más importantes de la semana y estando en directo en todos los acontecimientos y eventos que se produzcan.
+· País: España
+· Presenta: Anne Igartiburu, Jordi González, Javier de Hoyos.</desc>
+    <category>Entretenimiento, Corazon y sociedad</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF3902302" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.4/10</value>
+    </star-rating>
+  </programme><programme start="20251130120000 +0000" stop="20251130140000 +0000" channel="LA 1 SD"><title>D Corazón T2</title>
     <desc>Entretenimiento,Corazon y sociedad | 2025 | TP | ★6.4/10
 · Anne Igartiburu y Javier de Hoyos hacen un repaso a la actualidad de la crónica social, con los nombres propios más importantes de la semana y estando en directo en todos los acontecimientos y eventos que se produzcan.
 · País: España
@@ -7971,6 +9088,20 @@
     <star-rating system="ES">
       <value>4.0/10</value>
     </star-rating>
+  </programme><programme start="20251130140000 +0000" stop="20251130144500 +0000" channel="LA 1 SD"><title>Telediario 1 Fin de Semana</title>
+    <desc>Información,Informativo | 2021 | TP | ★4.0/10
+· Noticiario del fin de semana, que pone especial énfasis en los acontecimientos deportivos.
+· País: España
+· Presenta: Marc Sala, Lourdes Maldonado.
+· Productora: Televisión Española (TVE).</desc>
+    <category>Información, Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF1114179" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>4.0/10</value>
+    </star-rating>
   </programme><programme start="20251130144500 +0000" stop="20251130145000 +0000" channel="ES: LA 1 ᴴᴰ"><title>Deportes 1</title>
     <desc>Deportes,Programa deportes | 2025 | ★6.0/10
 · Actualidad deportiva diaria nacional e internacional.
@@ -8041,6 +9172,16 @@
     <star-rating system="ES">
       <value>6.0/10</value>
     </star-rating>
+  </programme><programme start="20251130144500 +0000" stop="20251130145000 +0000" channel="LA 1 SD"><title>Deportes 1</title>
+    <desc>Deportes,Programa deportes | 2025 | ★6.0/10
+· Actualidad deportiva diaria nacional e internacional.
+· País: España
+· Presenta: Ana Ibáñez, Lara Gandarillas, Marcos López.</desc>
+    <category>Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF3921384" />
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
   </programme><programme start="20251130145000 +0000" stop="20251130162500 +0000" channel="ES: LA 1 ᴴᴰ"><title>Cine</title>
     <desc>· Programa por determinar...</desc>
   </programme><programme start="20251130145000 +0000" stop="20251130162500 +0000" channel="ES: LA 1 ᵁᴴᴰ"><title>Cine</title>
@@ -8055,6 +9196,8 @@
     <desc>· Programa por determinar...</desc>
   </programme><programme start="20251130145000 +0000" stop="20251130162500 +0000" channel="VO: LA 1 ᴿᴬᵂ"><title>Cine</title>
     <desc>· Programa por determinar...</desc>
+  </programme><programme start="20251130145000 +0000" stop="20251130162500 +0000" channel="LA 1 SD"><title>Cine</title>
+    <desc>· Programa por determinar...</desc>
   </programme><programme start="20251130162500 +0000" stop="20251130180500 +0000" channel="ES: LA 1 ᴴᴰ"><title>Cine</title>
     <desc>· Programa por determinar...</desc>
   </programme><programme start="20251130162500 +0000" stop="20251130180500 +0000" channel="ES: LA 1 ᵁᴴᴰ"><title>Cine</title>
@@ -8068,6 +9211,8 @@
   </programme><programme start="20251130162500 +0000" stop="20251130180500 +0000" channel="GO: LA 1 ᴿᴬᵂ"><title>Cine</title>
     <desc>· Programa por determinar...</desc>
   </programme><programme start="20251130162500 +0000" stop="20251130180500 +0000" channel="VO: LA 1 ᴿᴬᵂ"><title>Cine</title>
+    <desc>· Programa por determinar...</desc>
+  </programme><programme start="20251130162500 +0000" stop="20251130180500 +0000" channel="LA 1 SD"><title>Cine</title>
     <desc>· Programa por determinar...</desc>
   </programme><programme start="20251130180500 +0000" stop="20251130193500 +0000" channel="ES: LA 1 ᴴᴰ"><title>Signora Volpe</title>
     <desc>Series,Drama | 2024 | ⑫ | ★6.0/10
@@ -8154,6 +9299,20 @@
       <value>6.0/10</value>
     </star-rating>
   </programme><programme start="20251130180500 +0000" stop="20251130193500 +0000" channel="VO: LA 1 ᴿᴬᵂ"><title>Signora Volpe</title>
+    <desc>Series,Drama | 2024 | ⑫ | ★6.0/10
+· Decepcionada con su trabajo en el MI6, la espía Sylvia Fox viaja a Italia para asistir a la boda de su sobrina. Cuando el novio desaparece y muere una mujer, Sylvia se ve obligada a investigar.
+· País: Reino Unido
+· Reparto: Emilia Fox, Tara Fitzgerald, Giovanni Cirfiera, Matteo Carlomagno, Imma Piro.
+· Productora: Route 24, Cattleya.</desc>
+    <category>Series, Drama</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF4054058" />
+    <rating system="ES">
+      <value>12</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme><programme start="20251130180500 +0000" stop="20251130193500 +0000" channel="LA 1 SD"><title>Signora Volpe</title>
     <desc>Series,Drama | 2024 | ⑫ | ★6.0/10
 · Decepcionada con su trabajo en el MI6, la espía Sylvia Fox viaja a Italia para asistir a la boda de su sobrina. Cuando el novio desaparece y muere una mujer, Sylvia se ve obligada a investigar.
 · País: Reino Unido
@@ -8258,6 +9417,19 @@
     <star-rating system="ES">
       <value>6.4/10</value>
     </star-rating>
+  </programme><programme start="20251130193500 +0000" stop="20251130200000 +0000" channel="LA 1 SD"><title>Aquí la Tierra</title>
+    <desc>Entretenimiento,Magacín | 2025 | TP | ★6.4/10
+· Jacob Petrus ofrece una original mirada sobre el territorio y sus habitantes a través de la meteorología. La divulgación y la información sobre el terreno conviven con el descubrimiento de la naturaleza y el medio ambiente.
+· País: España
+· Presenta: Jacob Petrus.</desc>
+    <category>Entretenimiento, Magacín</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF4108661" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.4/10</value>
+    </star-rating>
   </programme><programme start="20251130200000 +0000" stop="20251130205000 +0000" channel="ES: LA 1 ᴴᴰ"><title>Telediario 2 Fin de Semana</title>
     <desc>Información,Informativo | 2017 | ★3.6/10
 · Informativo de Televisión Española de los fines de semana. Marc Sala y Lourdes Maldonado se encargan de presentar las últimas noticias de ámbito nacional e internacional surgidas durante el día. Mientras, Marcos López, introduce el bloque de deportes.
@@ -8325,6 +9497,17 @@
       <value>3.6/10</value>
     </star-rating>
   </programme><programme start="20251130200000 +0000" stop="20251130205000 +0000" channel="VO: LA 1 ᴿᴬᵂ"><title>Telediario 2 Fin de Semana</title>
+    <desc>Información,Informativo | 2017 | ★3.6/10
+· Informativo de Televisión Española de los fines de semana. Marc Sala y Lourdes Maldonado se encargan de presentar las últimas noticias de ámbito nacional e internacional surgidas durante el día. Mientras, Marcos López, introduce el bloque de deportes.
+· País: España
+· Presenta: Marc Sala, Lourdes Maldonado.
+· Productora: Televisión Española (TVE).</desc>
+    <category>Información, Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF1114180" />
+    <star-rating system="ES">
+      <value>3.6/10</value>
+    </star-rating>
+  </programme><programme start="20251130200000 +0000" stop="20251130205000 +0000" channel="LA 1 SD"><title>Telediario 2 Fin de Semana</title>
     <desc>Información,Informativo | 2017 | ★3.6/10
 · Informativo de Televisión Española de los fines de semana. Marc Sala y Lourdes Maldonado se encargan de presentar las últimas noticias de ámbito nacional e internacional surgidas durante el día. Mientras, Marcos López, introduce el bloque de deportes.
 · País: España
@@ -8405,6 +9588,16 @@
     <star-rating system="ES">
       <value>6.0/10</value>
     </star-rating>
+  </programme><programme start="20251130205000 +0000" stop="20251130210000 +0000" channel="LA 1 SD"><title>Deportes 2</title>
+    <desc>Deportes,Programa deportes | 2025 | ★6.0/10
+· Actualidad deportiva diaria nacional e internacional.
+· País: España
+· Presenta: Ana Ibáñez, Lara Gandarillas, Marcos López.</desc>
+    <category>Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF3921386" />
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
   </programme><programme start="20251130210000 +0000" stop="20251130222500 +0000" channel="ES: LA 1 ᴴᴰ"><title>Cine</title>
     <desc>· Programa por determinar...</desc>
   </programme><programme start="20251130210000 +0000" stop="20251130222500 +0000" channel="ES: LA 1 ᵁᴴᴰ"><title>Cine</title>
@@ -8418,6 +9611,8 @@
   </programme><programme start="20251130210000 +0000" stop="20251130222500 +0000" channel="GO: LA 1 ᴿᴬᵂ"><title>Cine</title>
     <desc>· Programa por determinar...</desc>
   </programme><programme start="20251130210000 +0000" stop="20251130222500 +0000" channel="VO: LA 1 ᴿᴬᵂ"><title>Cine</title>
+    <desc>· Programa por determinar...</desc>
+  </programme><programme start="20251130210000 +0000" stop="20251130222500 +0000" channel="LA 1 SD"><title>Cine</title>
     <desc>· Programa por determinar...</desc>
   </programme><programme start="20251130222500 +0000" stop="20251201001500 +0000" channel="ES: LA 1 ᴴᴰ"><title>Cine</title>
     <desc>· Programa por determinar...</desc>
@@ -8433,6 +9628,8 @@
     <desc>· Programa por determinar...</desc>
   </programme><programme start="20251130222500 +0000" stop="20251201001500 +0000" channel="VO: LA 1 ᴿᴬᵂ"><title>Cine</title>
     <desc>· Programa por determinar...</desc>
+  </programme><programme start="20251130222500 +0000" stop="20251201001500 +0000" channel="LA 1 SD"><title>Cine</title>
+    <desc>· Programa por determinar...</desc>
   </programme><programme start="20251201001500 +0000" stop="20251201020000 +0000" channel="ES: LA 1 ᴴᴰ"><title>Cine</title>
     <desc>· Programa por determinar...</desc>
   </programme><programme start="20251201001500 +0000" stop="20251201020000 +0000" channel="ES: LA 1 ᵁᴴᴰ"><title>Cine</title>
@@ -8446,6 +9643,8 @@
   </programme><programme start="20251201001500 +0000" stop="20251201020000 +0000" channel="GO: LA 1 ᴿᴬᵂ"><title>Cine</title>
     <desc>· Programa por determinar...</desc>
   </programme><programme start="20251201001500 +0000" stop="20251201020000 +0000" channel="VO: LA 1 ᴿᴬᵂ"><title>Cine</title>
+    <desc>· Programa por determinar...</desc>
+  </programme><programme start="20251201001500 +0000" stop="20251201020000 +0000" channel="LA 1 SD"><title>Cine</title>
     <desc>· Programa por determinar...</desc>
   </programme><programme start="20251201020000 +0000" stop="20251201050000 +0000" channel="ES: LA 1 ᴴᴰ"><title>Noticias 24H</title>
     <desc>Información,Informativo | 2021 | ★6.2/10
@@ -8502,6 +9701,15 @@
       <value>6.2/10</value>
     </star-rating>
   </programme><programme start="20251201020000 +0000" stop="20251201050000 +0000" channel="VO: LA 1 ᴿᴬᵂ"><title>Noticias 24H</title>
+    <desc>Información,Informativo | 2021 | ★6.2/10
+· Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.
+· País: España</desc>
+    <category>Información, Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/F4315171" />
+    <star-rating system="ES">
+      <value>6.2/10</value>
+    </star-rating>
+  </programme><programme start="20251201020000 +0000" stop="20251201050000 +0000" channel="LA 1 SD"><title>Noticias 24H</title>
     <desc>Información,Informativo | 2021 | ★6.2/10
 · Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.
 · País: España</desc>
@@ -8577,6 +9785,17 @@
       <value>6.2/10</value>
     </star-rating>
   </programme><programme start="20251201050000 +0000" stop="20251201065000 +0000" channel="VO: LA 1 ᴿᴬᵂ"><title>Telediario Matinal</title>
+    <desc>Información,Informativo | 2023 | ★6.2/10
+· Lorena Baeza y Álex Barreiro conducen este rápido y exhaustivo repaso de todas las noticias de interés general. Además, se ofrece la actualidad meteorológica de España y de Europa y el estado de la mar. Rubén Briones presenta la información deportiva.
+· País: España
+· Presenta: Sirun Demirjian, Lorena Baeza, Álex Barreiro.
+· Productora: Televisión Española (TVE).</desc>
+    <category>Información, Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/M24HF518404" />
+    <star-rating system="ES">
+      <value>6.2/10</value>
+    </star-rating>
+  </programme><programme start="20251201050000 +0000" stop="20251201065000 +0000" channel="LA 1 SD"><title>Telediario Matinal</title>
     <desc>Información,Informativo | 2023 | ★6.2/10
 · Lorena Baeza y Álex Barreiro conducen este rápido y exhaustivo repaso de todas las noticias de interés general. Además, se ofrece la actualidad meteorológica de España y de Europa y el estado de la mar. Rubén Briones presenta la información deportiva.
 · País: España
@@ -8666,6 +9885,19 @@
       <value>6.0/10</value>
     </star-rating>
   </programme><programme start="20251201065000 +0000" stop="20251201093500 +0000" channel="VO: LA 1 ᴿᴬᵂ"><title>La hora de La 1: La hora de la actualidad T8</title>
+    <desc>Entretenimiento,Magacín | 2025 | ⑯ | ★6.0/10
+· Magazine matinal de la 1 en el que se reúne información de actualidad social. El programa cuenta con voces autorizadas que tratan temas que fomenten el pensamiento crítico y el servicio público para ayudar a los ciudadanos en su día a día.
+· País: España
+· Dirección: Silvia Intxaurrondo.</desc>
+    <category>Entretenimiento, Magacín</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/M24HF3898133" />
+    <rating system="ES">
+      <value>16</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme><programme start="20251201065000 +0000" stop="20251201093500 +0000" channel="LA 1 SD"><title>La hora de La 1: La hora de la actualidad T8</title>
     <desc>Entretenimiento,Magacín | 2025 | ⑯ | ★6.0/10
 · Magazine matinal de la 1 en el que se reúne información de actualidad social. El programa cuenta con voces autorizadas que tratan temas que fomenten el pensamiento crítico y el servicio público para ayudar a los ciudadanos en su día a día.
 · País: España
@@ -8769,6 +10001,19 @@
     <star-rating system="ES">
       <value>6.2/10</value>
     </star-rating>
+  </programme><programme start="20251201093500 +0000" stop="20251201140000 +0000" channel="LA 1 SD"><title>Mañaneros 360 T2</title>
+    <desc>Entretenimiento,Magacín | 2025 | ⑯ | ★6.2/10
+· Magazín de actualidad conducido por Adela González y Javier Ruiz, que combina noticias y entretenimiento de la mano de sus colaboradores.
+· País: España
+· Presenta: Adela González, Javier Ruiz.</desc>
+    <category>Entretenimiento, Magacín</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF4108659" />
+    <rating system="ES">
+      <value>16</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.2/10</value>
+    </star-rating>
   </programme><programme start="20251201140000 +0000" stop="20251201143500 +0000" channel="ES: LA 1 ᴴᴰ"><title>Telediario 1</title>
     <desc>Información,Informativo | 2014 | ★6.2/10
 · El noticiario audiovisual más veterano de la historia de la televisión en España. Alejandra Herranz hace un repaso diario a la actualidad general de España y el mundo, además de una sección dedicada al deporte.
@@ -8846,6 +10091,17 @@
     <star-rating system="ES">
       <value>6.2/10</value>
     </star-rating>
+  </programme><programme start="20251201140000 +0000" stop="20251201143500 +0000" channel="LA 1 SD"><title>Telediario 1</title>
+    <desc>Información,Informativo | 2014 | ★6.2/10
+· El noticiario audiovisual más veterano de la historia de la televisión en España. Alejandra Herranz hace un repaso diario a la actualidad general de España y el mundo, además de una sección dedicada al deporte.
+· País: España
+· Presenta: Alejandra Herranz.
+· Productora: Televisión Española (TVE).</desc>
+    <category>Información, Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/M24HF518438" />
+    <star-rating system="ES">
+      <value>6.2/10</value>
+    </star-rating>
   </programme><programme start="20251201143500 +0000" stop="20251201144000 +0000" channel="ES: LA 1 ᴴᴰ"><title>Deportes 1</title>
     <desc>Deportes,Programa deportes | 2025 | ★6.0/10
 · Actualidad deportiva diaria nacional e internacional.
@@ -8907,6 +10163,16 @@
       <value>6.0/10</value>
     </star-rating>
   </programme><programme start="20251201143500 +0000" stop="20251201144000 +0000" channel="VO: LA 1 ᴿᴬᵂ"><title>Deportes 1</title>
+    <desc>Deportes,Programa deportes | 2025 | ★6.0/10
+· Actualidad deportiva diaria nacional e internacional.
+· País: España
+· Presenta: Ana Ibáñez, Lara Gandarillas, Marcos López.</desc>
+    <category>Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF3921384" />
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme><programme start="20251201143500 +0000" stop="20251201144000 +0000" channel="LA 1 SD"><title>Deportes 1</title>
     <desc>Deportes,Programa deportes | 2025 | ★6.0/10
 · Actualidad deportiva diaria nacional e internacional.
 · País: España
@@ -9007,6 +10273,19 @@
     <star-rating system="ES">
       <value>6.4/10</value>
     </star-rating>
+  </programme><programme start="20251201144000 +0000" stop="20251201144500 +0000" channel="LA 1 SD"><title>El tiempo</title>
+    <desc>Información,Meteorología | 2014 | TP | ★6.4/10
+· Información sobre la previsión meteorológica.
+· País: España
+· Productora: Televisión Española (TVE).</desc>
+    <category>Información, Meteorología</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/M24HF332735" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.4/10</value>
+    </star-rating>
   </programme><programme start="20251201144500 +0000" stop="20251201145500 +0000" channel="ES: LA 1 ᴴᴰ"><title>Informativo territorial 2</title>
     <desc>Información,Informativo | 2023 | ★6.0/10
 · Espacio de emisión del informativo de cada centro territorial de TVE.</desc>
@@ -9056,6 +10335,14 @@
       <value>6.0/10</value>
     </star-rating>
   </programme><programme start="20251201144500 +0000" stop="20251201145500 +0000" channel="VO: LA 1 ᴿᴬᵂ"><title>Informativo territorial 2</title>
+    <desc>Información,Informativo | 2023 | ★6.0/10
+· Espacio de emisión del informativo de cada centro territorial de TVE.</desc>
+    <category>Información, Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF2189999" />
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme><programme start="20251201144500 +0000" stop="20251201145500 +0000" channel="LA 1 SD"><title>Informativo territorial 2</title>
     <desc>Información,Informativo | 2023 | ★6.0/10
 · Espacio de emisión del informativo de cada centro territorial de TVE.</desc>
     <category>Información, Informativo</category>
@@ -9154,6 +10441,19 @@
     <star-rating system="ES">
       <value>6.0/10</value>
     </star-rating>
+  </programme><programme start="20251201145500 +0000" stop="20251201163500 +0000" channel="LA 1 SD"><title>Directo al grano T1</title>
+    <desc>Entretenimiento,Magacín | 2025 | ⑯ | ★6.0/10
+· Magacín conducido por Marta Flich y Gonzalo Miró que comenta la actualidad e intenta explicar de forma sencilla lo que ocurre, con rigor, claridad y dinamismo.
+· País: España
+· Presenta: Marta Flich, Gonzalo Miró.</desc>
+    <category>Entretenimiento, Magacín</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF4123147" />
+    <rating system="ES">
+      <value>16</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
   </programme><programme start="20251201163500 +0000" stop="20251201172500 +0000" channel="ES: LA 1 ᴴᴰ"><title>Valle Salvaje T3</title>
     <desc>Series,Telenovela | 2025 | ⑫ | ★5.8/10
 · Adriana, una joven de 20 años, viaja de Madrid a Asturias tras descubrir que su matrimonio con un desconocido fue concertado en secreto y debe ir a buscarlo a casa de su tía. Allí será obligada a trabajar como criada.
@@ -9239,6 +10539,20 @@
       <value>5.8/10</value>
     </star-rating>
   </programme><programme start="20251201163500 +0000" stop="20251201172500 +0000" channel="VO: LA 1 ᴿᴬᵂ"><title>Valle Salvaje T3</title>
+    <desc>Series,Telenovela | 2025 | ⑫ | ★5.8/10
+· Adriana, una joven de 20 años, viaja de Madrid a Asturias tras descubrir que su matrimonio con un desconocido fue concertado en secreto y debe ir a buscarlo a casa de su tía. Allí será obligada a trabajar como criada.
+· País: España
+· Reparto: Rocío Suárez de Puga, Manuela Velasco, José Manuel Seda, Marina Sabadell, Mari Paz Sayago, Chechu Salgado.
+· Productora: Bambú Producciones.</desc>
+    <category>Series, Telenovela</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF4105453" />
+    <rating system="ES">
+      <value>12</value>
+    </rating>
+    <star-rating system="ES">
+      <value>5.8/10</value>
+    </star-rating>
+  </programme><programme start="20251201163500 +0000" stop="20251201172500 +0000" channel="LA 1 SD"><title>Valle Salvaje T3</title>
     <desc>Series,Telenovela | 2025 | ⑫ | ★5.8/10
 · Adriana, una joven de 20 años, viaja de Madrid a Asturias tras descubrir que su matrimonio con un desconocido fue concertado en secreto y debe ir a buscarlo a casa de su tía. Allí será obligada a trabajar como criada.
 · País: España
@@ -9357,6 +10671,21 @@
     <star-rating system="ES">
       <value>7.0/10</value>
     </star-rating>
+  </programme><programme start="20251201172500 +0000" stop="20251201182500 +0000" channel="LA 1 SD"><title>La Promesa T1</title>
+    <desc>Series,Drama | 2023 | ⑫ | ★7.0/10
+· En 1913, una mujer, una venganza y una gran historia de amor.
+· País: España
+· Reparto: Joaquín Climent, María Castro, Eva Martín, Ana Garcés, Arturo Sancho.
+· Guion: Alberto Grondona, Benjamín Zafra, Juanma Ruiz.
+· Productora: Bambú Producciones, StudioCanal, Radio Televisión Española (RTVE).</desc>
+    <category>Series, Drama</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF2162814" />
+    <rating system="ES">
+      <value>12</value>
+    </rating>
+    <star-rating system="ES">
+      <value>7.0/10</value>
+    </star-rating>
   </programme><programme start="20251201182500 +0000" stop="20251201193000 +0000" channel="ES: LA 1 ᴴᴰ"><title>Malas lenguas T2</title>
     <desc>Entretenimiento,Magacín | 2025 | TP | ★6.0/10
 · Jesús Cintora presenta este magacine de actualidad, en el que, con humor, se desmontan bulos que circulan en los medios de comunicación y las redes sociales.
@@ -9436,6 +10765,19 @@
       <value>6.0/10</value>
     </star-rating>
   </programme><programme start="20251201182500 +0000" stop="20251201193000 +0000" channel="VO: LA 1 ᴿᴬᵂ"><title>Malas lenguas T2</title>
+    <desc>Entretenimiento,Magacín | 2025 | TP | ★6.0/10
+· Jesús Cintora presenta este magacine de actualidad, en el que, con humor, se desmontan bulos que circulan en los medios de comunicación y las redes sociales.
+· País: España
+· Dirección: Jesús Cintora.</desc>
+    <category>Entretenimiento, Magacín</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MLA2F4123276" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme><programme start="20251201182500 +0000" stop="20251201193000 +0000" channel="LA 1 SD"><title>Malas lenguas T2</title>
     <desc>Entretenimiento,Magacín | 2025 | TP | ★6.0/10
 · Jesús Cintora presenta este magacine de actualidad, en el que, con humor, se desmontan bulos que circulan en los medios de comunicación y las redes sociales.
 · País: España
@@ -9539,6 +10881,19 @@
     <star-rating system="ES">
       <value>6.4/10</value>
     </star-rating>
+  </programme><programme start="20251201193000 +0000" stop="20251201200000 +0000" channel="LA 1 SD"><title>Aquí la Tierra</title>
+    <desc>Entretenimiento,Magacín | 2025 | TP | ★6.4/10
+· Jacob Petrus ofrece una original mirada sobre el territorio y sus habitantes a través de la meteorología. La divulgación y la información sobre el terreno conviven con el descubrimiento de la naturaleza y el medio ambiente.
+· País: España
+· Presenta: Jacob Petrus.</desc>
+    <category>Entretenimiento, Magacín</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF4108661" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.4/10</value>
+    </star-rating>
   </programme><programme start="20251201200000 +0000" stop="20251201204000 +0000" channel="ES: LA 1 ᴴᴰ"><title>Telediario 2</title>
     <desc>Información,Informativo | 2021 | ★6.2/10
 · Cientos de profesionales de TVE salen cada día a la calle en busca de noticias. El resultado, un completo repaso a la actualidad nacional e internacional conducido por Pepa Bueno. También hay espacio para la parcela deportiva.
@@ -9616,6 +10971,17 @@
     <star-rating system="ES">
       <value>6.2/10</value>
     </star-rating>
+  </programme><programme start="20251201200000 +0000" stop="20251201204000 +0000" channel="LA 1 SD"><title>Telediario 2</title>
+    <desc>Información,Informativo | 2021 | ★6.2/10
+· Cientos de profesionales de TVE salen cada día a la calle en busca de noticias. El resultado, un completo repaso a la actualidad nacional e internacional conducido por Pepa Bueno. También hay espacio para la parcela deportiva.
+· País: España
+· Presenta: Pepa Bueno.
+· Productora: Televisión Española (TVE).</desc>
+    <category>Información, Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/M24HF518466" />
+    <star-rating system="ES">
+      <value>6.2/10</value>
+    </star-rating>
   </programme><programme start="20251201204000 +0000" stop="20251201204500 +0000" channel="ES: LA 1 ᴴᴰ"><title>Deportes 2</title>
     <desc>Deportes,Programa deportes | 2025 | ★6.0/10
 · Actualidad deportiva diaria nacional e internacional.
@@ -9677,6 +11043,16 @@
       <value>6.0/10</value>
     </star-rating>
   </programme><programme start="20251201204000 +0000" stop="20251201204500 +0000" channel="VO: LA 1 ᴿᴬᵂ"><title>Deportes 2</title>
+    <desc>Deportes,Programa deportes | 2025 | ★6.0/10
+· Actualidad deportiva diaria nacional e internacional.
+· País: España
+· Presenta: Ana Ibáñez, Lara Gandarillas, Marcos López.</desc>
+    <category>Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF3921386" />
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme><programme start="20251201204000 +0000" stop="20251201204500 +0000" channel="LA 1 SD"><title>Deportes 2</title>
     <desc>Deportes,Programa deportes | 2025 | ★6.0/10
 · Actualidad deportiva diaria nacional e internacional.
 · País: España
@@ -9771,6 +11147,20 @@
       <value>6.4/10</value>
     </star-rating>
   </programme><programme start="20251201204500 +0000" stop="20251201220000 +0000" channel="VO: LA 1 ᴿᴬᵂ"><title>La revuelta T2</title>
+    <desc>Entretenimiento,Entrevista | 2025 | ⑫ | ★6.4/10
+· Las atípicas entrevistas de David Broncano, además de un plantel de cómicos sin prejuicios, son la bandera de un programa en el que nunca se sabe qué va a pasar. Jorge Ponce, Ricardo Castella y Grison ponen música y humor al programa.
+· País: España
+· Presenta: David Broncano.
+· Productora: Radio Televisión Española (RTVE), El Terrat.</desc>
+    <category>Entretenimiento, Entrevista</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/F4385110" />
+    <rating system="ES">
+      <value>12</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.4/10</value>
+    </star-rating>
+  </programme><programme start="20251201204500 +0000" stop="20251201220000 +0000" channel="LA 1 SD"><title>La revuelta T2</title>
     <desc>Entretenimiento,Entrevista | 2025 | ⑫ | ★6.4/10
 · Las atípicas entrevistas de David Broncano, además de un plantel de cómicos sin prejuicios, son la bandera de un programa en el que nunca se sabe qué va a pasar. Jorge Ponce, Ricardo Castella y Grison ponen música y humor al programa.
 · País: España
@@ -9882,6 +11272,20 @@
     <star-rating system="ES">
       <value>6.2/10</value>
     </star-rating>
+  </programme><programme start="20251201220000 +0000" stop="20251202010400 +0000" channel="LA 1 SD"><title>ENA. La reina Victoria Eugenia T1</title>
+    <desc>Series,Drama | 2025 | ⑫ | ★6.2/10
+· Londres, 1905. Alfonso XIII acude a pactar su matrimonio con la princesa Patricia de Connaught. Sin embargo, ella le rechaza. En la misma fiesta, conoce a Ena y queda prendado de ella.
+· País: España
+· Reparto: Kimberley Tell, Joan Amargós, Elvira Mínguez, Tomás del Estal, María Morales.
+· Productora: La Cometa TV, Radio Televisión Española (RTVE).</desc>
+    <category>Series, Drama</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF4174697" />
+    <rating system="ES">
+      <value>12</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.2/10</value>
+    </star-rating>
   </programme><programme start="20251202010400 +0000" stop="20251202035500 +0000" channel="ES: LA 1 ᴴᴰ"><title>ENA. La reina Victoria Eugenia T1</title>
     <desc>Series,Drama | 2025 | ⑫ | ★6.2/10
 · Londres, 1905. Alfonso XIII acude a pactar su matrimonio con la princesa Patricia de Connaught. Sin embargo, ella le rechaza. En la misma fiesta, conoce a Ena y queda prendado de ella.
@@ -9967,6 +11371,20 @@
       <value>6.2/10</value>
     </star-rating>
   </programme><programme start="20251202010400 +0000" stop="20251202035500 +0000" channel="VO: LA 1 ᴿᴬᵂ"><title>ENA. La reina Victoria Eugenia T1</title>
+    <desc>Series,Drama | 2025 | ⑫ | ★6.2/10
+· Londres, 1905. Alfonso XIII acude a pactar su matrimonio con la princesa Patricia de Connaught. Sin embargo, ella le rechaza. En la misma fiesta, conoce a Ena y queda prendado de ella.
+· País: España
+· Reparto: Kimberley Tell, Joan Amargós, Elvira Mínguez, Tomás del Estal, María Morales.
+· Productora: La Cometa TV, Radio Televisión Española (RTVE).</desc>
+    <category>Series, Drama</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF4174697" />
+    <rating system="ES">
+      <value>12</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.2/10</value>
+    </star-rating>
+  </programme><programme start="20251202010400 +0000" stop="20251202035500 +0000" channel="LA 1 SD"><title>ENA. La reina Victoria Eugenia T1</title>
     <desc>Series,Drama | 2025 | ⑫ | ★6.2/10
 · Londres, 1905. Alfonso XIII acude a pactar su matrimonio con la princesa Patricia de Connaught. Sin embargo, ella le rechaza. En la misma fiesta, conoce a Ena y queda prendado de ella.
 · País: España
