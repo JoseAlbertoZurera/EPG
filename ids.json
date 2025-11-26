@@ -9,12 +9,18 @@
   "Canal Sur Andalucía": ["canalsurandalucia.es", "CanalAndalucia.es", "1683714"],
   "Neox": ["neox.es", "Neox.es", "1548071", "1592073"],
   "Nova": ["nova.es", "Nova.es", "PLAYER: DIRECTO NOVA ᴿᴬᵂ"],
+  "24 Horas": ["24horas.es"],
   "Movistar Plus+ HD": ["movistarplus.es", "Movistarplus.es", "ES: MOVISTAR PLUS+ ᴴᴰ" ,"840100"],
-  "DAZN F1 HD": ["daznf1.es", "DAZNF1.es", "" ,""],
+  "DAZN F1 HD": ["daznf1.es", "DAZNF1.es", "daznf14k.es"],
   "DAZN 1 HD": ["dazn1.es", "DAZN1.ES"],
   "DAZN 2 HD": ["dazn2.es", "DAZN2.es"],
   "DAZN 3 HD": ["dazn3.es", "DAZN3.es"],
   "DAZN 4 HD": ["dazn4.es", "DAZN4.es"],
   "DAZN LaLiga HD": ["daznlaliga.es", "DaznLaLiga.es"],
-  "DAZN LaLiga 2 HD": ["daznlaliga2.es", "DaznLaLiga2.es"]
+  "DAZN LaLiga 2 HD": ["daznlaliga2.es", "DaznLaLiga2.es"],
+  "M+ LaLiga HDR": ["mlaligauhd.es"],
+  "M+ LaLiga HD": ["mlaliga.es"],
+  "M+ LaLiga 2 HD": ["mlaliga2.es"],
+  "M+ LaLiga 3 HD": ["mlaliga3.es"],
+  "M+ LaLiga 4 HD": ["mlaliga4.es"]
 }
