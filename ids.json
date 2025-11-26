@@ -1,6 +1,6 @@
 {
   "La 1 HD": ["la1.es", "LA1.es", "996545", "861062"],
-  "La 2": ["la2.es", "LA2.es", "1340288"],
+  "La 2": ["la2.es", "LA2.es", "ES: LA 2 ᴴᴰ", "1340288"],
   "Antena 3 HD": ["antena3.es", "Antena3.es", "1548095", "1592088", "1340280"],
   "Cuatro HD": ["cuatro.es", "Cuatro.es", "1548088", "1700617", "1340258"],
   "Telecinco HD": ["telecinco.es", "Telecinco.es", "1548064", "1700618", "1340209"],
@@ -8,5 +8,5 @@
   "Canal Sur HD": ["canalsur.es", "Canalsur.es", "1340266"],
   "Canal Sur Andalucía": ["canalsurandalucia.es", "CanalAndalucia.es", "1683714"],
   "Neox": ["neox.es", "Neox.es", "1548071", "1592073"],
-  "Nova": ["nova.es", "Nova.es"]
+  "Nova": ["nova.es", "Nova.es", "PLAYER: DIRECTO NOVA ᴿᴬᵂ"]
 }
