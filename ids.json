@@ -8,5 +8,13 @@
   "Canal Sur HD": ["canalsur.es", "Canalsur.es", "1340266"],
   "Canal Sur Andalucía": ["canalsurandalucia.es", "CanalAndalucia.es", "1683714"],
   "Neox": ["neox.es", "Neox.es", "1548071", "1592073"],
-  "Nova": ["nova.es", "Nova.es", "PLAYER: DIRECTO NOVA ᴿᴬᵂ"]
+  "Nova": ["nova.es", "Nova.es", "PLAYER: DIRECTO NOVA ᴿᴬᵂ"],
+  "Movistar Plus+ HD": ["movistarplus.es", "Movistarplus.es", "ES: MOVISTAR PLUS+ ᴴᴰ" ,"840100"],
+  "DAZN F1": ["daznf1.es", "DAZNF1.es", "" ,""],
+  "DAZN 1": ["dazn1.es", "DAZN1.ES"],
+  "DAZN 2": ["dazn2.es", "DAZN2.es"],
+  "DAZN 3": ["dazn3.es", "DAZN3.es"],
+  "DAZN 4": ["dazn4.es", "DAZN4.es"],
+  "DAZN LALIGA": ["daznlaliga.es", "DaznLaLiga.es"],
+  "DAZN LALIGA 2": ["daznlaliga2.es", "DaznLaLiga2.es"]
 }
