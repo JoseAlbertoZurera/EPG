@@ -112,7 +112,7 @@
     "ids": ["dkissalt.es"],
     "display-name": ["GO: DKISS ᴿᴬᵂ", "ES: DKISS ᴴᴰ", "ES: DKISS SD", "ES: DKISS ᵁᴴᴰ"]
   },
-  "HBO Max Avances": {
+  "HBO SKY SHOW TIME": {
     "ids": ["HBO Max Avances"],
     "display-name": ["GO: MAX AVANCES ᴿᴬᵂ", "ES: Max Avances ᴴᴰ", "ES: Max Avances SD", "ES: Max Avances ᵁᴴᴰ"]
   },
@@ -124,9 +124,49 @@
     "ids": ["amcbreak.es", "AMCBreak.es"],
     "display-name": ["PRIME: AMC BREAK ᴿᴬᵂ"]
   },
+  "BBC Series": {
+    "ids": ["BBC Series"],
+    "display-name": ["ES: BBC SERIES ᴴᴰ", "ES: BBC SERIES SD", "ES: BBC SERIES ᵁᴴᴰ"]
+  },
+  "BBC Top Gear": {
+    "ids": ["BBC Top Gear"],
+    "display-name": ["GO: BBC TOP GEAR ᴿᴬᵂ"]
+  },
+  "BBC Food": {
+    "ids": ["BBC Food"],
+    "display-name": ["GO: BBC FOOD ᴿᴬᵂ"]
+  },
+  "SkyShowtime": {
+    "ids": ["SkyShowtime"],
+    "display-name": ["GO: SKY SHOWTIME 1 ᴿᴬᵂ", "ES: SKY SHOW TIME ᴴᴰ", "ES: SKY SHOW TIME ᵁᴴᴰ"]
+  },
+  "Paramount Network": {
+    "ids": ["paramountchannel.es", "ParamountChannel.es"],
+    "display-name": ["GO: PARAMOUNT NETWORK ᴿᴬᵂ"]
+  },
+  "Cosmo HD": {
+    "ids": ["cosmo.es", "Cosmo.es"],
+    "display-name": "cosmo.es"
+  },
   "Calle 13 HD": {
     "ids": ["calle13.es", "Calle13.es"],
-    "display-name": "calle13.es"
+    "display-name": ["ES: CALLE 13 ᴴᴰ"]
+  },
+  "VinTV": {
+    "ids": ["VinTV"],
+    "display-name": ["PRIME: VINTV ᴿᴬᵂ", "ES: VIN TV ᴴᴰ", "ES: VIN TV SD", "ES: VIN TV ᵁᴴᴰ", "M+: EN FAMILIA ᴿᴬᵂ"]
+  },
+  "Decasa": {
+    "ids": ["canaldecasa.es", "CanalDecasa.es"],
+    "display-name": ["PRIME: DECASA ᴿᴬᵂ", "VO: DECASA ᴿᴬᵂ", "4K: DECASA ᵁᴴᴰ ³⁸⁴⁰ᴾ", "4K: CANAL DECASA ᵁᴴᴰ ³⁸⁴⁰ᴾ"]
+  },
+  "Canal Cocina": {
+    "ids": ["canalcocina.es", "CanalCocina.es"],
+    "display-name": ["PRIME: CANAL COCINA ᴿᴬᵂ", "4K: COCINA ᵁᴴᴰ ³⁸⁴⁰ᴾ"]
+  },
+  "MTV España": {
+    "ids": ["MTV España"],
+    "display-name": ["GO: MTV ᴿᴬᵂ", "M+: MTV ESPANA ᴿᴬᵂ", "ES: MTV ᴴᴰ", "ES: MTV SD", "ES: MTV ᵁᴴᴰ"]
   },
 
   "DAZN F1 HD": {
@@ -161,6 +201,10 @@
   "M+ LaLiga HDR": {
     "ids": ["mlaligauhd.es"],
     "display-name": "mlaligauhd.es"
+  },
+  "M+ LaLiga 2 HDR": {
+    "ids": ["mlaligauhd2.es"],
+    "display-name": ["GO: M+ LALIGA TV 2 ᴴᴰᴿ ³⁸⁴⁰ᴾ"]
   },
   "M+ LaLiga HD": {
     "ids": ["mlaliga.es", "MLaLiga.es", "mlaliga1.es"],
@@ -307,14 +351,6 @@
     "ids": ["cazapesca.es", "CazaPesca.es"],
     "display-name": "cazapesca.es"
   },
-  "Canal Cocina": {
-    "ids": ["canaldecasa.es", "CanalCocina.es"],
-    "display-name": "canaldecasa.es"
-  },
-  "Decasa": {
-    "ids": ["canalcocina.es", "CanalDecasa.es"],
-    "display-name": "canalcocina.es"
-  },
   "El Toro TV": {
     "ids": ["eltorotv.es"],
     "display-name": "eltorotv.es"
@@ -348,10 +384,6 @@
     "ids": ["movistarseries.es", "MovistarSeries.es"],
     "display-name": "movistarseries.es"
   },
-  "Cosmo HD": {
-    "ids": ["cosmo.es", "Cosmo.es"],
-    "display-name": "cosmo.es"
-  },
   "AMC HD": {
     "ids": ["amc.es", "AMC.es"],
     "display-name": "amc.es"
@@ -367,10 +399,6 @@
   "Canal Hollywood HD": {
     "ids": ["hollywood.es", "Hollywood.es"],
     "display-name": "hollywood.es"
-  },
-  "Paramount Network": {
-    "ids": ["paramountchannel.es", "ParamountChannel.es"],
-    "display-name": "paramountchannel.es"
   },
   "XTRM": {
     "ids": ["xtrm.es", "Xtrm.es"],
@@ -424,7 +452,7 @@
   },
   "La Otra": {
     "ids": ["laotra.es", "LaOtra.es"],
-    "display-name": "laotra.es"
+    "display-name": ["ES: LA OTRA ᴴᴰ"]
   },
   "TV3 Catalunya": {
     "ids": ["tv3cat.es", "TV3Catalunya.es"],
