@@ -15,7 +15,6 @@ if sys.platform != 'win32':
 else:
     print("tzset no disponible en Windows. Usa pytz/zoneinfo.")
 
-
 INPUT_FILE = 'urls.txt'
 FINAL_XML = 'EPG.xml'
 EPG8K_XML = 'EPG8K.xml'
@@ -53,19 +52,12 @@ def extract_elements(xml_file):
                     ts = elem.attrib[attr]
 
                     try:
-                        # ⚠️ Detectar si la hora es '24:00:00' (no válida en datetime)
                         if ts[8:14] == '240000':
-                            # Convertir a '00:00:00' del día siguiente
                             base = datetime.strptime(ts[:8], '%Y%m%d') + timedelta(days=1)
                             ts = base.strftime('%Y%m%d') + '000000' + ts[14:]
 
-                        # 🕒 Parsear fecha y hora original (incluyendo el offset)
                         dt = datetime.strptime(ts, '%Y%m%d%H%M%S %z')
-
-                        # 🌍 Convertir a UTC
                         dt_utc = dt.astimezone(timezone.utc)
-
-                        # ✅ Guardar en formato estándar UTC con offset '+0000'
                         elem.attrib[attr] = dt_utc.strftime('%Y%m%d%H%M%S +0000')
 
                     except Exception as e:
@@ -75,38 +67,63 @@ def extract_elements(xml_file):
 
     return channels, programs
 
-# ==============================
-# Función para duplicar y filtrar canales según ids.json
-# ==============================
-def apply_multiple_ids_filtered(channels, programs, id_map):
-    """
-    Duplica canales y programas según id_map y filtra solo los canales presentes en el JSON
-    """
+# ======================================================
+# NUEVA función: cambiar display-name y duplicar canales
+# ======================================================
+def process_channels_and_programs(channels, programs, id_map):
     new_channels = []
     new_programs = []
 
-    # Duplicar y filtrar canales
     for ch in channels:
         elem = ET.fromstring(ch)
-        old_id = elem.attrib.get("id")
-        if old_id in id_map:
-            for new_id in id_map[old_id]:
-                new_elem = ET.Element(elem.tag, {"id": new_id})
-                for child in elem:
-                    new_elem.append(child)
-                new_channels.append(ET.tostring(new_elem, encoding="unicode"))
+        original_id = elem.attrib["id"]
 
-    # Duplicar y filtrar programas
+        if original_id not in id_map:
+            continue  # ignorar canales no listados en ids.json
+
+        conf = id_map[original_id]
+        extra_ids = conf["ids"]
+        custom_name = conf.get("display-name")
+
+        # ===========================
+        # Canal original modificado
+        # ===========================
+        if custom_name:
+            for dn in elem.findall("display-name"):
+                elem.remove(dn)
+
+            new_dn = ET.Element("display-name")
+            new_dn.text = custom_name
+            elem.insert(0, new_dn)
+
+        # añadir canal principal
+        new_channels.append(ET.tostring(elem, encoding='unicode'))
+
+        # ========================
+        # Clonar canal con cada ID extra
+        # ========================
+        for new_id in extra_ids:
+            clone = ET.fromstring(ET.tostring(elem, encoding='unicode'))
+            clone.attrib["id"] = new_id
+            new_channels.append(ET.tostring(clone, encoding='unicode'))
+
+    # ========================================
+    # PROGRAMAS
+    # ========================================
     for pr in programs:
         elem = ET.fromstring(pr)
-        old_channel = elem.attrib.get("channel")
-        if old_channel in id_map:
-            for new_id in id_map[old_channel]:
-                new_elem = ET.Element(elem.tag, elem.attrib)
-                new_elem.set("channel", new_id)
-                for child in elem:
-                    new_elem.append(child)
-                new_programs.append(ET.tostring(new_elem, encoding="unicode"))
+        original_channel = elem.attrib["channel"]
+
+        if original_channel not in id_map:
+            continue
+
+        conf = id_map[original_channel]
+        all_ids = [original_channel] + conf["ids"]
+
+        for new_id in all_ids:
+            clone = ET.fromstring(pr)
+            clone.attrib["channel"] = new_id
+            new_programs.append(ET.tostring(clone, encoding='unicode'))
 
     return new_channels, new_programs
 
@@ -147,7 +164,7 @@ def main():
                 os.remove(base_filename)
 
     # ==============================
-    # Guardar archivo EPG normal
+    # Guardar EPG normal
     # ==============================
     with open(FINAL_XML, 'w', encoding='utf-8') as f:
         f.write('<?xml version="1.0" encoding="UTF-8"?>\n')
@@ -156,26 +173,22 @@ def main():
         f.writelines(all_programs)
         f.write('</tv>\n')
 
-    # Validar XML
     try:
         ET.parse(FINAL_XML)
         print(f"\n✅ EPG generado en {FINAL_XML}")
-        print(f"📺 Canales: {len(all_channels)}")
-        print(f"🗓️ Programas: {len(all_programs)}")
-        print("✅ Validación XML: El archivo EPG.xml está bien formado.")
     except ET.ParseError as e:
-        print(f"❌ Validación XML fallida: {e}")
-        log(f"[ERROR] El archivo EPG.xml no es un XML válido: {e}")
+        print(f"❌ Error en EPG normal: {e}")
 
-    # ==============================
-    # Generar EPG8K.xml filtrado y duplicando programas según ids.json
-    # ==============================
+    # ==========================================
+    # Generar EPG8K con ids.json + display-names
+    # ==========================================
     if os.path.exists(IDS_JSON):
         with open(IDS_JSON, "r", encoding="utf-8") as jf:
             id_map = json.load(jf)
 
-        print("\n🔄 Generando EPG8K.xml con múltiples IDs filtrados por JSON...")
-        new_channels, new_programs = apply_multiple_ids_filtered(all_channels, all_programs, id_map)
+        print("\n🔄 Generando EPG8K.xml con IDs múltiples + display-name personalizado...")
+
+        new_channels, new_programs = process_channels_and_programs(all_channels, all_programs, id_map)
 
         with open(EPG8K_XML, "w", encoding="utf-8") as f:
             f.write('<?xml version="1.0" encoding="UTF-8"?>\n')
@@ -184,7 +197,8 @@ def main():
             f.writelines(new_programs)
             f.write('</tv>\n')
 
-        print(f"✅ EPG8K.xml generado correctamente con múltiples IDs y solo los canales del JSON.")
+        print(f"✅ EPG8K.xml generado correctamente.")
+
     else:
         print("⚠️ No existe ids.json — no se generará EPG8K.xml")
 
@@ -193,4 +207,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
