@@ -92,7 +92,7 @@
     "ids": ["axn.es", "AXN.es"],
     "display-name": ["ES: AXN ᴴᴰ"]
   },
-    "Atreseries": {
+  "Atreseries": {
     "ids": ["atreseries.es"],
     "display-name": ["PRIME: ATRESERIES ᴿᴬᵂ", "PLAYER: DIRECTO ATRESERIES ᴿᴬᵂ", "M+: A3SERIES ᴿᴬᵂ", "ES: A3SERIES ᴴᴰ", "ES: A3SERIES SD", "ES: A3SERIES ᵁᴴᴰ"]
   },
@@ -189,6 +189,58 @@
     "ids": ["dazn4.es", "DAZN4.es"],
     "display-name": "dazn4.es"
   },
+  "Eurosport 1 HD": {
+    "ids": ["eurosport1.es", "Eurosport1.es"],
+    "display-name": ["PRIME: EUROSPORT 1 ᴿᴬᵂ"]
+  },
+  "Eurosport 2": {
+    "ids": ["eurosport2.es", "Eurosport2.es"],
+    "display-name": ["PRIME: EUROSPORT 2 ᴿᴬᵂ"]
+  },
+  "Primera Federación": {
+    "ids": ["Primera Federación"],
+    "display-name": ["ES: 1° FEDERACION ᴴᴰ", "ES: 1° FEDERACION SD", "ES: 1° FEDERACION ᴿᴬᵂ (MOVISTAR+)", "ES: 1° FEDERACION ᴿᴬᵂ (LALIGA+)"]
+  },
+  "M+ Vamos HD": {
+    "ids": ["vamos.es", "Vamos.es"],
+    "display-name": ["M+ Vamos"]
+  },
+  "M+ Vamos 2": {
+    "ids": ["vamos2.es", "Vamos2.es"],
+    "display-name": ["ES: #VAMOS 2 ᴴᴰ", "ES: #VAMOS 2 SD", "ES: #VAMOS 2 ᵁᴴᴰ", "ES: #VAMOS 2 ʰᵉᵛᶜ"]
+  },
+  "M+ Ellas Vamos HD": {
+    "ids": ["mplusellasv.es"],
+    "display-name": ["ES: ELLAS #V ᴴᴰ", "ES: ELLAS #V SD", "ES: ELLAS #V ᵁᴴᴰ"]
+  },
+  "M+ Golf HD": {
+    "ids": ["movistargolf.es", "MovistarGolf.es"],
+    "display-name": "M+ Golf"
+  },
+  "M+ Golf 2 HD": {
+    "ids": ["movistargolf2.es", "MovistarGolf2.es"],
+    "display-name": ["ES: MOVISTAR GOLF 2 SD"]
+  },
+  "UBEAT": {
+    "ids": ["UBEAT"],
+    "display-name": ["GO: UBEAT ᴿᴬᵂ", "ES: U-BEAT ᵁᴴᴰ"]
+  },
+  "DBike": {
+    "ids": ["DBike"],
+    "display-name": ["ES: DBIKE ᴴᴰ", "ES: DBIKE SD", "ES: DBIKE ᵁᴴᴰ"]
+  },
+  "Motorvision": {
+    "ids": ["Motorvision"],
+    "display-name": ["TY: MOTORVISION TV ᴿᴬᵂ"]
+  },
+  "Real Madrid TV": {
+    "ids": ["realmadridtv.es", "RealMadridTV.es"],
+    "display-name": ["ES: REAL MADRID TV ᴴᴰ"]
+  },
+  "Red Bull TV": {
+    "ids": ["Red Bull TV"],
+    "display-name": ["PRIME: RED BULL TV ᴿᴬᵂ", "TY: RED BULL TV ᴿᴬᵂ"]
+  },
 
   "DAZN LaLiga HD": {
     "ids": ["daznlaliga.es", "DaznLaLiga.es"],
@@ -284,35 +336,6 @@
   "LaLiga TV Hypermotion 3": {
     "ids": ["mlaligahypermotion3.es"],
     "display-name": "mlaligahypermotion3.es"
-  },
-
-  "M+ Vamos HD": {
-    "ids": ["vamos.es", "Vamos.es"],
-    "display-name": "vamos.es"
-  },
-  "M+ Ellas Vamos HD": {
-    "ids": ["mplusellasv.es"],
-    "display-name": "mplusellasv.es"
-  },
-  "M+ Golf HD": {
-    "ids": ["movistargolf.es", "MovistarGolf.es"],
-    "display-name": "movistargolf.es"
-  },
-  "M+ Golf 2 HD": {
-    "ids": ["movistargolf2.es", "MovistarGolf2.es"],
-    "display-name": "movistargolf2.es"
-  },
-  "Eurosport 1 HD": {
-    "ids": ["eurosport1.es", "Eurosport1.es"],
-    "display-name": "eurosport1.es"
-  },
-  "Eurosport 2": {
-    "ids": ["eurosport2.es", "Eurosport2.es"],
-    "display-name": "eurosport2.es"
-  },
-  "Real Madrid TV": {
-    "ids": ["realmadridtv.es", "RealMadridTV.es"],
-    "display-name": "realmadridtv.es"
   },
 
   "M+ Documentales HD": {
