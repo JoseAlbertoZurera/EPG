@@ -1,7 +1,7 @@
 {
   "La 1 HD": {
     "ids": ["la1.es", "LA1.es", "996545", "861062"],
-    "display-name": "la1.es"
+    "display-name": ["4K: LA 1 ᵁᴴᴰ ³⁸⁴⁰ᴾ"]
   },
   "La 2": {
     "ids": ["la2.es", "LA2.es", "ES: LA 2 ᴴᴰ", "1340288"],
@@ -9,48 +9,47 @@
   },
   "Antena 3 HD": {
     "ids": ["antena3.es", "Antena3.es", "1548095", "1592088", "1340280"],
-    "display-name": ["ES: ANTENA 3 ᴴᴰ", "PLAYER: DIRECTO ANTENA 3 ᴿᴬᵂ"]
+    "display-name": ["PRIME: ANTENA 3 ᴿᴬᵂ", "ES: ANTENA 3 ᴴᴰ", "PLAYER: DIRECTO ANTENA 3 ᴿᴬᵂ"]
   },
   "Cuatro HD": {
     "ids": ["cuatro.es", "Cuatro.es", "1548088", "1700617", "1340258"],
-    "display-name": "cuatro.es"
+    "display-name": ["PRIME: CUATRO ᴿᴬᵂ", "TF: CUATRO ᴿᴬᵂ", "ES: CUATRO ᴴᴰ"]
   },
   "Telecinco HD": {
     "ids": ["telecinco.es", "Telecinco.es", "1548064", "1700618", "1340209"],
-    "display-name": "telecinco.es"
+    "display-name": ["PRIME: TELECINCO ᴿᴬᵂ", "TF: TELECINCO ᴿᴬᵂ", "ES: TELE CINCO ᴴᴰ"]
   },
   "La Sexta HD": {
     "ids": ["lasexta.es", "LaSexta.es", "1548077", "1592077", "1340287"],
-    "display-name": "lasexta.es"
+    "display-name": ["PRIME: LASEXTA ᴿᴬᵂ", "ES: LA SEXTA ᴴᴰ" ,"PLAYER: DIRECTO LASEXTA ᴿᴬᵂ"]
   },
-
   "Neox": {
     "ids": ["neox.es", "Neox.es", "1548071", "1592073"],
-    "display-name": "neox.es"
+    "display-name": ["PRIME: NEOX ᴿᴬᵂ", "PLAYER: DIRECTO NEOX ᴿᴬᵂ"]
   },
   "Nova": {
     "ids": ["nova.es", "Nova.es", "PLAYER: DIRECTO NOVA ᴿᴬᵂ"],
-    "display-name": "PLAYER: DIRECTO NOVA ᴿᴬᵂ"
+    "display-name": ["PRIME: NOVA ᴿᴬᵂ", "PLAYER: DIRECTO NOVA ᴿᴬᵂ"]
   },
   "Factoría de Ficción": {
     "ids": ["fdf.es"],
-    "display-name": "fdf.es"
+    "display-name": ["PRIME: FDF ᴿᴬᵂ", "M+: FDF ᴿᴬᵂ", "ES: FDF ᴴᴰ", "ES: FDF SD", "ES: FDF ᵁᴴᴰ"]
   },
   "Divinity": {
     "ids": ["divinity.es", "Divinity.es"],
-    "display-name": "divinity.es"
+    "display-name": ["PRIME: DIVINITY ᴿᴬᵂ", "TF: DIVINITY ᴿᴬᵂ", "ES: DIVINITY ᴴᴰ"]
   },
   "Energy": {
     "ids": ["energy.es", "Energy.es"],
-    "display-name": "energy.es"
+    "display-name": ["PRIME: E.ENERGY ᴿᴬᵂ", "TF: ENERGY ᴿᴬᵂ", "ES: ENERGY ᴴᴰ"]
   },
   "Be Mad": {
     "ids": ["bemad.es"],
-    "display-name": "bemad.es"
+    "display-name": ["PRIME: BE MAD ᴿᴬᵂ", "TF: BEMAD ᴿᴬᵂ", "ES: BE MAD ᴴᴰ", "ES: BEMAD ᴴᴰ", "ES: BEMAD SD", "ES: BEMAD ᵁᴴᴰ"]
   },
   "Mega": {
     "ids": ["mega.es", "Mega.es"],
-    "display-name": "mega.es"
+    "display-name": ["PRIME: MEGA ᴿᴬᵂ", "ES: MEGA ᴴᴰ" ,"PLAYER: DIRECTO MEGA ᴿᴬᵂ"]
   },
   "Ten": {
     "ids": ["ten.es", "Ten.es"],
