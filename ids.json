@@ -5,7 +5,7 @@
   },
   "La 2": {
     "ids": ["la2.es", "LA2.es", "ES: LA 2 ᴴᴰ", "1340288", "canal -1340288", "1740312617"],
-    "display-name": "ES: LA 2 HD"
+    "display-name": "ES: LA 2 ᴴᴰ"
   },
   "Antena 3 HD": {
     "ids": ["antena3.es", "Antena3.es", "1548095", "1592088", "1340280"],
@@ -30,7 +30,7 @@
   },
   "Nova": {
     "ids": ["nova.es", "Nova.es", "PLAYER: DIRECTO NOVA ᴿᴬᵂ"],
-    "display-name": "nova.es"
+    "display-name": "PLAYER: DIRECTO NOVA ᴿᴬᵂ"
   },
   "Factoría de Ficción": {
     "ids": ["fdf.es"],
@@ -71,7 +71,7 @@
 
   "Movistar Plus+ HD": {
     "ids": ["movistarplus.es", "Movistarplus.es", "ES: MOVISTAR PLUS+ ᴴᴰ", "840100"],
-    "display-name": "movistarplus.es"
+    "display-name": "ES: MOVISTAR PLUS+ ᴴᴰ"
   },
   "M+ Originales HD": {
     "ids": ["mplusorginales.es"],
