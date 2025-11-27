@@ -94,7 +94,7 @@
   },
   "Atreseries": {
     "ids": ["atreseries.es"],
-    "display-name": ["PRIME: ATRESERIES ᴿᴬᵂ", "PLAYER: DIRECTO ATRESERIES ᴿᴬᵂ", "M+: A3SERIES ᴿᴬᵂ", "ES: A3SERIES ᴴᴰ", "ES: A3SERIES SD", "ES: A3SERIES ᵁᴴᴰ"]
+    "display-name": ["ES: A TRES SERIES ᴴᴰ", "PRIME: ATRESERIES ᴿᴬᵂ", "PLAYER: DIRECTO ATRESERIES ᴿᴬᵂ", "M+: A3SERIES ᴿᴬᵂ", "ES: A3SERIES ᴴᴰ", "ES: A3SERIES SD", "ES: A3SERIES ᵁᴴᴰ"]
   },
   "Comedy Central HD": {
     "ids": ["comedycentral.es", "ComedyCentral.es"],
@@ -171,7 +171,7 @@
 
   "DAZN F1 HD": {
     "ids": ["daznf1.es", "DAZNF1.es", "daznf14k.es"],
-    "display-name": "daznf1.es"
+    "display-name": ["ES: DAZNT F1 ᴴᴰ"]
   },
   "DAZN 1 HD": {
     "ids": ["dazn1.es", "DAZN1.es"],
@@ -252,11 +252,11 @@
   },
   "M+ LaLiga HDR": {
     "ids": ["mlaligauhd.es"],
-    "display-name": "mlaligauhd.es"
+    "display-name": ["ES: MOVISTAR LALIGA ᵁᴴᴰ ³⁸⁴⁰ᴾ"]
   },
   "M+ LaLiga 2 HDR": {
     "ids": ["mlaligauhd2.es"],
-    "display-name": ["GO: M+ LALIGA TV 2 ᴴᴰᴿ ³⁸⁴⁰ᴾ"]
+    "display-name": ["GO: M+ LALIGA TV 2 ᴴᴰᴿ ³⁸⁴⁰ᴾ", "ES: MOVISTAR  LALIGA 2 ᵁᴴᴰ ³⁸⁴⁰ᴾ"]
   },
   "M+ LaLiga HD": {
     "ids": ["mlaliga.es", "MLaLiga.es", "mlaliga1.es"],
@@ -326,22 +326,54 @@
     "display-name": "mligadecampeones.es"
   },
   "M+ Liga de Campeones 2 HD": {
-    "ids": ["mligadecampeones2.es"],
+    "ids": ["mligadecampeones2.es", "MPlusLigadeCampeones2.es"],
     "display-name": "mligadecampeones2.es"
   },
   "M+ Liga de Campeones 3 HD": {
-    "ids": ["mligadecampeones3.es"],
+    "ids": ["mligadecampeones3.es", "MPlusLigadeCampeones3.es"],
     "display-name": "mligadecampeones3.es"
   },
   "M+ Liga de Campeones 4": {
-    "ids": ["mligadecampeones4.es"],
+    "ids": ["mligadecampeones4.es", "MPlusLigadeCampeones4.es"],
     "display-name": "mligadecampeones4.es"
   },
   "M+ Liga de Campeones 5": {
-    "ids": ["mligadecampeones5.es"],
+    "ids": ["mligadecampeones5.es", "MPlusLigadeCampeones5.es"],
     "display-name": "mligadecampeones5.es"
   },
-
+  "M+ Liga de Campeones 6": {
+    "ids": ["mligadecampeones6.es", "MPlusLigadeCampeones6.es"],
+    "display-name": "mligadecampeones6.es"
+  },
+  "M+ Liga de Campeones 7": {
+    "ids": ["mligadecampeones7.es", "MPlusLigadeCampeones7.es"],
+    "display-name": "mligadecampeones7.es"
+  },
+  "M+ Liga de Campeones 8": {
+    "ids": ["mligadecampeones8.es", "MPlusLigadeCampeones8.es"],
+    "display-name": "mligadecampeones8.es"
+  },
+  "M+ Liga de Campeones 9": {
+    "ids": ["mligadecampeones9.es", "MPlusLigadeCampeones9.es"],
+    "display-name": "mligadecampeones9.es"
+  },
+  "M+ Liga de Campeones 10": {
+    "ids": ["mligadecampeones10.es", "MPlusLigadeCampeones10.es"],
+    "display-name": "mligadecampeones10.es"
+  },
+  "M+ Liga de Campeones 11": {
+    "ids": ["mligadecampeones11.es", "MPlusLigadeCampeones11.es"],
+    "display-name": "mligadecampeones11.es"
+  },
+  "M+ Liga de Campeones 12": {
+    "ids": ["mligadecampeones12.es", "MPlusLigadeCampeones12.es"],
+    "display-name": "mligadecampeones12.es"
+  },
+  "M+ Liga de Campeones 13": {
+    "ids": ["mligadecampeones13.es", "MPlusLigadeCampeones13.es"],
+    "display-name": "mligadecampeones13.es"
+  },
+  
   "Caza y Pesca HD": {
     "ids": ["cazapesca.es", "CazaPesca.es"],
     "display-name": ["GO: CAZA Y PESCA ᴿᴬᵂ"]
@@ -355,17 +387,17 @@
     "display-name": ["ES: IBERALIA ᴴᴰ"]
   },
   "Iberalia caza": {
-    "ids": ["Iberalia Pesca"],
-    "display-name": ["M+: IBERALIA PESCA ᴿᴬᵂ", "ES: IBERALIA PESCA ᴴᴰ", "ES: IBERALIA PESCA SD", "ES: IBERALIA PESCA ᵁᴴᴰ"]
+    "ids": ["Iberalia Caza"],
+    "display-name": ["M+: IBERALIA CAZA ᴿᴬᵂ", "ES: IBERALIA CAZA ᴴᴰ", "ES: IBERALIA CAZA SD", "ES: IBERALIA CAZA ᵁᴴᴰ"]
   },
   "Iberalia pesca": {
     "ids": ["Iberalia Pesca"],
-    "display-name": ["M+: IBERALIA CAZA ᴿᴬᵂ", "ES: IBERALIA CAZA ᴴᴰ", "ES: IBERALIA CAZA SD", "ES: IBERALIA CAZA ᵁᴴᴰ"]
+    "display-name": ["M+: IBERALIA PESCA ᴿᴬᵂ", "ES: IBERALIA PESCA ᴴᴰ", "ES: IBERALIA PESCA SD", "ES: IBERALIA PESCA ᵁᴴᴰ"]
   },
 
   "M+ Documentales HD": {
     "ids": ["mplusdocumentales.es"],
-    "display-name": "mplusdocumentales.es"
+    "display-name": ["ES: MOVISTAR DOCUMENTALES ᴴᴰ", "ES: MOVISTAR DOCUMENTALES SD", "ES: MOVISTAR DOCUMENTALES ᵁᴴᴰ"]
   },
   "National Geographic HD": {
     "ids": ["natgeo.es", "nationalgeographic.es", "NationalGeographic.es"],
