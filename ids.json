@@ -192,11 +192,11 @@
 
   "DAZN LaLiga HD": {
     "ids": ["daznlaliga.es", "DaznLaLiga.es"],
-    "display-name": "daznlaliga.es"
+    "display-name": ["ES: DAZN LA LIGA ᴴᴰ", "ES: DAZN LA LIGA SD", "ES: DAZN LA LIGA ᵁᴴᴰ", "ES: DAZN LA LIGA ʰᵉᵛᶜ"]
   },
   "DAZN LaLiga 2 HD": {
     "ids": ["daznlaliga2.es", "DaznLaLiga2.es"],
-    "display-name": "daznlaliga2.es"
+    "display-name": ["OR: DAZN LA LIGA 2 ᴿᴬᵂ", "ES: DAZN LA LIGA 2 ᴴᴰ", "ES: DAZN LA LIGA 2 SD", "ES: DAZN LA LIGA 2 ᵁᴴᴰ"]
   },
   "M+ LaLiga HDR": {
     "ids": ["mlaligauhd.es"],
