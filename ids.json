@@ -270,7 +270,7 @@
     "ids": ["mlaliga3.es", "MLaLiga3.es"],
     "display-name": ["ES: M+ LALIGA TV 3 ᵁᴴᴰ"]
   },
-  "M+ LaLiga 4 HD": {
+  "M+ LaLiga 4": {
     "ids": ["mlaliga4.es", "MLaLiga4.es"],
     "display-name": ["GO: M+ LALIGA TV 4 ᴿᴬᵂ"]
   },
@@ -401,31 +401,35 @@
   },
   "National Geographic HD": {
     "ids": ["natgeo.es", "nationalgeographic.es", "NationalGeographic.es"],
-    "display-name": "natgeo.es"
+    "display-name": ["VO: NAT GEO GEOGRAPHIC ᴿᴬᵂ", "VO: NAT GEO GEOGRAPHIC ᴴᴰ"]
   },
   "Nat Geo Wild HD": {
     "ids": ["natgeowild.es", "NatGeoWild.es"],
-    "display-name": "natgeowild.es"
+    "display-name": ["VO: NAT GEO WILD ᴿᴬᵂ", "VO: NAT GEO WILD ᴴᴰ"]
+  },
+  "BBC History": {
+    "ids": ["bbchistory.es"],
+    "display-name": ["ES: BBC HISTORY ᴴᴰ", "ES: BBC HISTORY SD", "ES: BBC HISTORY ᵁᴴᴰ"]
   },
   "Historia": {
     "ids": ["historia.es", "Historia.es"],
-    "display-name": "historia.es"
+    "display-name": ["PRIME: HISTORIA ᴿᴬᵂ"]
   },
   "Discovery": {
     "ids": ["discoverychannel.es", "DiscoveryChannel.es"],
-    "display-name": "discoverychannel.es"
+    "display-name": ["Discovery"]
   },
   "AMC Crime": {
-    "ids": ["amccrime.es", "AMCCrime.es"],
-    "display-name": "amccrime.es"
+    "ids": ["amccrime.es", "AMCCrime.es", "crimeinvestigation.es"],
+    "display-name": ["PRIME: AMC CRIME ᴿᴬᵂ", "VO: AMC CRIME ᴴᴰ", "VO: AMC CRIME ᴿᴬᵂ"]
   },
   "Odisea": {
     "ids": ["odisea.es", "Odisea.es"],
-    "display-name": "odisea.es"
+    "display-name": ["PRIME: ODISEA ᴿᴬᵂ", "ES: ODISEA ᴴᴰ", "4K: ODISEA ᵁᴴᴰ ³⁸⁴⁰ᴾ", "4K: ODISEA ᵉˢ ᵁᴴᴰ ³⁸⁴⁰ᴾ"]
   },
-  "El Toro TV": {
-    "ids": ["eltorotv.es"],
-    "display-name": "eltorotv.es"
+  "BuenViaje": {
+    "ids": ["odisea.es", "Odisea.es"],
+    "display-name": ["PRIME: �BUEN VIAJE! ᴿᴬᵂ", "M+: BUEN VIAJE ᴿᴬᵂ", "ES: BUENVIAJE ᴴᴰ", "ES: BUENVIAJE SD", "ES: BUENVIAJE ᵁᴴᴰ"]
   },
 
   "M+ Estrenos HD": {
@@ -453,8 +457,8 @@
     "display-name": "movistarclasicos.es"
   },
   "M+ Hits HD": {
-    "ids": ["movistarseries.es", "MovistarSeries.es"],
-    "display-name": "movistarseries.es"
+    "ids": ["movistarseries.es", "MovistarSeries.es", "MovistarSeries1.es"],
+    "display-name": ["GO: M+ HITS ᴿᴬᵂ", "M+: M.HITS ᴿᴬᵂ"]
   },
   "AMC HD": {
     "ids": ["amc.es", "AMC.es"],
@@ -481,33 +485,50 @@
     "display-name": "somos.es"
   },
 
+  "El Toro TV": {
+    "ids": ["eltorotv.es"],
+    "display-name": ["ES: ELTORO TV ᴴᴰ", "ES: EL TORO TV ᴴᴰ"]
+  },
+  "Negocios TV": {
+    "ids": ["negociostv.es"],
+    "display-name": ["PRIME: NEGOCIOS TV ᴿᴬᵂ", "GO: NEGOCIOS TV ᴿᴬᵂ", "M+: NEGOCIOS TV ᴿᴬᵂ", "ES: NEGOCIOS TV ᴴᴰ"]
+  },
+  "Deutsche W": {
+    "ids": ["dwespamol.es"],
+    "display-name": ["TY: DW EN ESPAÑOL ᴿᴬᵂ", "ES: DW EN ESPAÑOL ᵁᴴᴰ"]
+  },
+  "CGTN Español": {
+    "ids": ["CGTN Español"],
+    "display-name": ["TY: CGTN ESPAÑOL ᴿᴬᵂ", "GO: CGTN ESPAÑOL ᴿᴬᵂ"]
+  },
+
   "Nickelodeon HD": {
     "ids": ["nickelodeon.es", "Nickelodeon.es"],
-    "display-name": "nickelodeon.es"
+    "display-name": ["ES: NICKELODEON ᴴᴰ"]
   },
   "Nick JR": {
     "ids": ["nickjr.es", "Nickjr.es"],
-    "display-name": "nickjr.es"
+    "display-name": ["ES: NICK JR ᴴᴰ", "ES: NICK JUNIOR ᴴᴰ", "ES: NICK JUNIOR SD", "ES: NICK JUNIOR ᵁᴴᴰ"]
   },
   "Boing": {
     "ids": ["boing.es", "Boing.es"],
-    "display-name": "boing.es"
+    "display-name": ["PRIME: BOING ᴿᴬᵂ", "TF: BOING ᴿᴬᵂ", "ES: BOING ᴴᴰ"]
   },
   "Clan": {
     "ids": ["clantve.es", "ClanTVE.es"],
-    "display-name": "clantve.es"
+    "display-name": ["M+: CLAN TVE ᴿᴬᵂ", "ES: CLAN ᴴᴰ"]
   },
   "Dreamworks HD": {
     "ids": ["dreamworks.es", "Dreamworks.es"],
-    "display-name": "dreamworks.es"
+    "display-name": ["GO: DREAM WORKS ᴿᴬᵂ", "ES: DREAMWORKS ᴴᴰ", "ES: DREAMWORKS SD", "ES: DREAMWORKS ᵁᴴᴰ"]
   },
   "Disney Junior": {
     "ids": ["disneyjunior.es", "DisneyJunior.es"],
-    "display-name": "disneyjunior.es"
+    "display-name": "Disney Junior"
   },
   "Baby TV": {
     "ids": ["babytv.es", "BabyTV.es"],
-    "display-name": "babytv.es"
+    "display-name": ["Baby TV"]
   },
 
   "Canal Sur HD": {
