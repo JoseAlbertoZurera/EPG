@@ -33,7 +33,7 @@
   },
   "Factoría de Ficción": {
     "ids": ["fdf.es"],
-    "display-name": ["PRIME: FDF ᴿᴬᵂ", "TF: FACTOR A DE FICCIN ᴿᴬᵂ", "M+: FDF ᴿᴬᵂ", "ES: FDF ᴴᴰ", "ES: FDF SD", "ES: FDF ᵁᴴᴰ"]
+    "display-name": ["PRIME: FDF ᴿᴬᵂ", "TF: FACTOR A DE FICCIN  ᴿᴬᵂ", "M+: FDF ᴿᴬᵂ", "ES: FDF ᴴᴰ", "ES: FDF SD", "ES: FDF ᵁᴴᴰ"]
   },
   "Divinity": {
     "ids": ["divinity.es", "Divinity.es"],
@@ -199,7 +199,7 @@
   },
   "Primera Federación": {
     "ids": ["Primera Federación"],
-    "display-name": ["ES: 1° FEDERACION ᴴᴰ", "ES: 1° FEDERACION SD", "ES: 1° FEDERACION ᴿᴬᵂ (MOVISTAR+)", "ES: 1° FEDERACION ᴿᴬᵂ (LALIGA+)"]
+    "display-name": ["ES: 1° FEDERACION ᴴᴰ", "ES: 1° FEDERACION SD", "ES: 1° FEDERACION ᴿᴬᵂ (MOVISTAR+)", "ES: 1° FEDERACION ᴿᴬᵂ (LALIGA+)", "GO: M+ COPA DEL REY ᴿᴬᵂ"]
   },
   "M+ Vamos HD": {
     "ids": ["vamos.es", "Vamos.es"],
@@ -428,61 +428,65 @@
     "display-name": ["PRIME: ODISEA ᴿᴬᵂ", "ES: ODISEA ᴴᴰ", "4K: ODISEA ᵁᴴᴰ ³⁸⁴⁰ᴾ", "4K: ODISEA ᵉˢ ᵁᴴᴰ ³⁸⁴⁰ᴾ"]
   },
   "BuenViaje": {
-    "ids": ["odisea.es", "Odisea.es"],
+    "ids": ["BuenViaje"],
     "display-name": ["PRIME: �BUEN VIAJE! ᴿᴬᵂ", "M+: BUEN VIAJE ᴿᴬᵂ", "ES: BUENVIAJE ᴴᴰ", "ES: BUENVIAJE SD", "ES: BUENVIAJE ᵁᴴᴰ"]
   },
 
   "M+ Estrenos HD": {
     "ids": ["movistarestrenos.es", "movistarestrenos2.es", "movistardcine.es", "MovistarCine.es"],
-    "display-name": "movistarestrenos.es"
+    "display-name": ["M+ Estrenos"]
   },
   "M+ Acción HD": {
     "ids": ["movistaraccion.es", "MovistarAccion.es"],
-    "display-name": "movistaraccion.es"
+    "display-name": ["VO: M.ACCI©N ᴿᴬᵂ", "VO: M.ACCI©N ᴴᴰ"]
   },
   "M+ Comedia HD": {
     "ids": ["movistarcomedia.es", "MovistarComedia.es"],
-    "display-name": "movistarcomedia.es"
+    "display-name": ["M+ Comedia"]
   },
   "M+ Drama HD": {
     "ids": ["moviestardrama.es", "MovistarDrama.es"],
-    "display-name": "moviestardrama.es"
+    "display-name": ["M+ Drama"]
   },
   "M+ Cine Español": {
     "ids": ["MovistarCineEspanol.es"],
-    "display-name": "MovistarCineEspanol.es"
+    "display-name": ["M+ Cine Español"]
   },
   "M+ Clásicos HD": {
     "ids": ["movistarclasicos.es", "MovistarClasicos.es"],
-    "display-name": "movistarclasicos.es"
+    "display-name": ["M+ Clásicos"]
   },
   "M+ Hits HD": {
     "ids": ["movistarseries.es", "MovistarSeries.es", "MovistarSeries1.es"],
     "display-name": ["GO: M+ HITS ᴿᴬᵂ", "M+: M.HITS ᴿᴬᵂ"]
   },
+  "M+ Indie HD": {
+    "ids": ["movistarindie.es", "MovistarIndie.es"],
+    "display-name": ["GO: M+ INDIE ᴿᴬᵂ", "ES: MOVISTAR INDIE ᴴᴰ", "ES: MOVISTAR INDIE SD", "ES: MOVISTAR INDIE ᵁᴴᴰ"]
+  },
   "AMC HD": {
     "ids": ["amc.es", "AMC.es"],
-    "display-name": "amc.es"
+    "display-name": ["PRIME: AMC ᴿᴬᵂ", "ES: AMC ᴴᴰ"]
   },
   "TCM HD": {
     "ids": ["tcm.es", "TCM.es"],
-    "display-name": "tcm.es"
+    "display-name": ["ES: TCM ᴴᴰ"]
   },
   "Sundande TV": {
     "ids": ["sundance.es", "sundancetv.es", "SundanceTV.es"],
-    "display-name": "sundance.es"
+    "display-name": ["PRIME: SUNDANCE TV ᴿᴬᵂ", "ES: SUNDANCE TV ᴴᴰ"]
   },
   "Canal Hollywood HD": {
     "ids": ["hollywood.es", "Hollywood.es"],
-    "display-name": "hollywood.es"
+    "display-name": ["PRIME: CANAL HOLLYWOOD ᴿᴬᵂ", "ES: HOLLYWOOD SD"]
   },
   "XTRM": {
     "ids": ["xtrm.es", "Xtrm.es"],
-    "display-name": "xtrm.es"
+    "display-name": ["PRIME: XTRM ᴿᴬᵂ","ES: XTRM ᵁᴴᴰ"]
   },
   "Somos": {
     "ids": ["somos.es", "Somos.es"],
-    "display-name": "somos.es"
+    "display-name": ["PRIME: SOMOS ᴿᴬᵂ", "ES: SOMOS ᴴᴰ"]
   },
 
   "El Toro TV": {
@@ -560,8 +564,16 @@
     "display-name": "etb2.es"
   },
   "TVG": {
+    "ids": ["TVG"],
+    "display-name": ["GO: TVG TV GALICIA ᴿᴬᵂ", "M+: GALICIA TV ᴿᴬᵂ", "ES: TV GALICIA ᴴᴰ"]
+  },
+  "TVG2": {
     "ids": ["tvgalicia.es"],
-    "display-name": "tvgalicia.es"
+    "display-name": ["ES: TVG 2 ᴴᴰ"]
+  },
+  "TVG Europa HD": {
+    "ids": ["TVG Europa"],
+    "display-name": ["GO: TVG EUROPA ᴿᴬᵂ"]
   },
   "Canal Extremadura": {
     "ids": ["canalextremadura.es"],
@@ -570,5 +582,9 @@
   "Aragón TV": {
     "ids": ["aragontv.es"],
     "display-name": "aragontv.es"
+  },
+  "La 7 CyL": {
+    "ids": ["la7.es"],
+    "display-name": ["GO: LA 7 ᴿᴬᵂ", "M+: LA 7 ᴿᴬᵂ"]
   }
 }
