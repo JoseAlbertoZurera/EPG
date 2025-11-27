@@ -71,58 +71,85 @@ def extract_elements(xml_file):
 # NUEVA función: cambiar display-name y duplicar canales
 # ======================================================
 def process_channels_and_programs(channels, programs, id_map):
+    """
+    Procesa canales y programas:
+    - filtra por los canales presentes en id_map
+    - para cada canal, reemplaza/añade display-name(s) según id_map (acepta string o lista)
+    - clona el canal para cada id adicional
+    - clona los programas para cada id (incluido el original)
+    """
     new_channels = []
     new_programs = []
 
     for ch in channels:
         elem = ET.fromstring(ch)
-        original_id = elem.attrib["id"]
+        original_id = elem.attrib.get("id")
+        if original_id is None:
+            continue
 
         if original_id not in id_map:
             continue  # ignorar canales no listados en ids.json
 
         conf = id_map[original_id]
-        extra_ids = conf["ids"]
-        custom_name = conf.get("display-name")
 
-        # ===========================
-        # Canal original modificado
-        # ===========================
-        if custom_name:
-            for dn in elem.findall("display-name"):
-                elem.remove(dn)
+        # obtener lista de ids extra (asegurarse que sea lista)
+        extra_ids = conf.get("ids", [])
+        if not isinstance(extra_ids, list):
+            extra_ids = [extra_ids]
 
-            new_dn = ET.Element("display-name")
-            new_dn.text = custom_name
-            elem.insert(0, new_dn)
+        # obtener display-name(s) — puede ser string o lista
+        disp = conf.get("display-name")
+        display_names = []
+        if disp is None:
+            display_names = None  # señal: mantener los display-name originales
+        elif isinstance(disp, list):
+            display_names = [str(x) for x in disp]
+        else:
+            display_names = [str(disp)]
 
-        # añadir canal principal
-        new_channels.append(ET.tostring(elem, encoding='unicode'))
+        # Crear una copia del elemento canal para modificar display-name(s)
+        base_elem = ET.fromstring(ET.tostring(elem, encoding='unicode'))
 
-        # ========================
-        # Clonar canal con cada ID extra
-        # ========================
+        if display_names is not None:
+            # eliminar display-name(s) existentes
+            for dn in base_elem.findall("display-name"):
+                base_elem.remove(dn)
+            # añadir los display-name solicitados (en el orden de la lista)
+            for idx, dn_text in enumerate(display_names):
+                new_dn = ET.Element("display-name")
+                new_dn.text = dn_text
+                # insertamos en el inicio para mantener consistencia
+                base_elem.insert(idx, new_dn)
+
+        # añadir canal principal (con su id original)
+        new_channels.append(ET.tostring(base_elem, encoding='unicode'))
+
+        # clonar canal para cada id extra
         for new_id in extra_ids:
-            clone = ET.fromstring(ET.tostring(elem, encoding='unicode'))
-            clone.attrib["id"] = new_id
+            clone = ET.fromstring(ET.tostring(base_elem, encoding='unicode'))
+            clone.attrib["id"] = str(new_id)
             new_channels.append(ET.tostring(clone, encoding='unicode'))
 
-    # ========================================
-    # PROGRAMAS
-    # ========================================
+    # PROGRAMAS: duplicar solo los de los canales listados
     for pr in programs:
         elem = ET.fromstring(pr)
-        original_channel = elem.attrib["channel"]
-
+        original_channel = elem.attrib.get("channel")
+        if original_channel is None:
+            continue
         if original_channel not in id_map:
             continue
 
         conf = id_map[original_channel]
-        all_ids = [original_channel] + conf["ids"]
+        extra_ids = conf.get("ids", [])
+        if not isinstance(extra_ids, list):
+            extra_ids = [extra_ids]
+
+        # todos los ids para los que crearemos programas: original + extras
+        all_ids = [original_channel] + [str(i) for i in extra_ids]
 
         for new_id in all_ids:
             clone = ET.fromstring(pr)
-            clone.attrib["channel"] = new_id
+            clone.attrib["channel"] = str(new_id)
             new_programs.append(ET.tostring(clone, encoding='unicode'))
 
     return new_channels, new_programs
