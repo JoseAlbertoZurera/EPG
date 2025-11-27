@@ -4,12 +4,12 @@
     "display-name": "la1.es"
   },
   "La 2": {
-    "ids": ["la2.es", "LA2.es", "ES: LA 2 ᴴᴰ", "1340288", "canal -1340288", "1740312617"],
-    "display-name": "ES: LA 2 ᴴᴰ"
+    "ids": ["la2.es", "LA2.es", "ES: LA 2 ᴴᴰ", "1340288"],
+    "display-name": ["ES: LA 2 ᴴᴰ"]
   },
   "Antena 3 HD": {
     "ids": ["antena3.es", "Antena3.es", "1548095", "1592088", "1340280"],
-    "display-name": "ES: ANTENA 3 ᵁᴴᴰ"
+    "display-name": ["ES: ANTENA 3 ᴴᴰ", "PLAYER: DIRECTO ANTENA 3 ᴿᴬᵂ"]
   },
   "Cuatro HD": {
     "ids": ["cuatro.es", "Cuatro.es", "1548088", "1700617", "1340258"],
@@ -410,10 +410,6 @@
   "La Otra": {
     "ids": ["laotra.es", "LaOtra.es"],
     "display-name": "laotra.es"
-  },
-  "TV3": {
-    "ids": [""],
-    "display-name": ""
   },
   "TV3 Catalunya": {
     "ids": ["tv3cat.es", "TV3Catalunya.es"],
