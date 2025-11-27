@@ -33,7 +33,7 @@
   },
   "Factoría de Ficción": {
     "ids": ["fdf.es"],
-    "display-name": ["PRIME: FDF ᴿᴬᵂ", "M+: FDF ᴿᴬᵂ", "ES: FDF ᴴᴰ", "ES: FDF SD", "ES: FDF ᵁᴴᴰ"]
+    "display-name": ["PRIME: FDF ᴿᴬᵂ", "TF: FACTOR A DE FICCIN ᴿᴬᵂ", "M+: FDF ᴿᴬᵂ", "ES: FDF ᴴᴰ", "ES: FDF SD", "ES: FDF ᵁᴴᴰ"]
   },
   "Divinity": {
     "ids": ["divinity.es", "Divinity.es"],
@@ -45,7 +45,7 @@
   },
   "Be Mad": {
     "ids": ["bemad.es"],
-    "display-name": ["PRIME: BE MAD ᴿᴬᵂ", "TF: BEMAD ᴿᴬᵂ", "ES: BE MAD ᴴᴰ", "ES: BEMAD ᴴᴰ", "ES: BEMAD SD", "ES: BEMAD ᵁᴴᴰ"]
+    "display-name": ["PRIME: BE MAD ᴿᴬᵂ", "TF: BEDMAD ᴿᴬᵂ", "ES: BE MAD ᴴᴰ", "ES: BEMAD ᴴᴰ", "ES: BEMAD SD", "ES: BEMAD ᵁᴴᴰ"]
   },
   "Mega": {
     "ids": ["mega.es", "Mega.es"],
@@ -208,48 +208,48 @@
   },
   "M+ LaLiga HD": {
     "ids": ["mlaliga.es", "MLaLiga.es", "mlaliga1.es"],
-    "display-name": "mlaliga.es"
+    "display-name": ["ES: LA LIGA 1 ᴴᴰ"]
   },
   "M+ LaLiga 2 HD": {
     "ids": ["mlaliga2.es", "MLaLiga2.es"],
-    "display-name": "mlaliga2.es"
+    "display-name": ["ES: LA LIGA 2 ᴴᴰ"]
   },
   "M+ LaLiga 3 HD": {
     "ids": ["mlaliga3.es", "MLaLiga3.es"],
-    "display-name": "mlaliga3.es"
+    "display-name": ["ES: M+ LALIGA TV 3 ᵁᴴᴰ"]
   },
   "M+ LaLiga 4 HD": {
     "ids": ["mlaliga4.es", "MLaLiga4.es"],
-    "display-name": "mlaliga4.es"
+    "display-name": ["GO: M+ LALIGA TV 4 ᴿᴬᵂ"]
   },
 
   "M+ Deportes HD": {
     "ids": ["movistardeportes.es", "mdeportes1.es", "MovistarDeportes1.es"],
-    "display-name": "movistardeportes.es"
+    "display-name": ["ES: MOVISTAR DEPORTES ᵁᴴᴰ", "ES: MOVISTAR DEPORTES ʰᵉᵛᶜ"]
   },
   "M+ Deportes 2 HD": {
     "ids": ["MovistarDeportes2.es", "mdeportes2.es", "MovistarDeportes2.es"],
-    "display-name": "MovistarDeportes2.es"
+    "display-name": ["M+ Deportes 2"]
   },
   "M+ Deportes 3": {
     "ids": ["MovistarDeportes3.es", "mdeportes3.es", "MovistarDeportes3.es"],
-    "display-name": "MovistarDeportes3.es"
+    "display-name": ["M+ Deportes 3"]
   },
   "M+ Deportes 4": {
     "ids": ["MovistarDeportes4.es", "mdeportes4.es", "MovistarDeportes4.es"],
-    "display-name": "MovistarDeportes4.es"
+    "display-name": ["ES: MOVISTAR DEPORTES 4 SD (SOLO EVENTOS)"]
   },
   "M+ Deportes 5": {
     "ids": ["MovistarDeportes5.es", "mdeportes5.es", "MovistarDeportes5.es"],
-    "display-name": "MovistarDeportes5.es"
+    "display-name": ["ES: MOVISTAR DEPORTES 5 SD (SOLO EVENTOS)"]
   },
   "M+ Deportes 6": {
     "ids": ["MovistarDeportes6.es", "mdeportes6.es", "MovistarDeportes6.es"],
-    "display-name": "MovistarDeportes6.es"
+    "display-name": ["ES: MOVISTAR DEPORTES 6 SD (SOLO EVENTOS)"]
   },
   "M+ Deportes 7": {
     "ids": ["MovistarDeportes7.es", "mdeportes7.es", "MovistarDeportes7.es"],
-    "display-name": "MovistarDeportes7.es"
+    "display-name": ["ES: MOVISTAR DEPORTES 7 SD (SOLO EVENTOS)"]
   },
 
   "M+ Liga de Campeones HD": {
