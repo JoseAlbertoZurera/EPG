@@ -51,34 +51,58 @@
     "ids": ["mega.es", "Mega.es"],
     "display-name": ["PRIME: MEGA ᴿᴬᵂ", "ES: MEGA ᴴᴰ" ,"PLAYER: DIRECTO MEGA ᴿᴬᵂ"]
   },
+    "TRECE": {
+    "ids": ["13tv.es", "13TV.es"],
+    "display-name": ["ES: TRECE TV ᴴᴰ"]
+  },
   "Ten": {
     "ids": ["ten.es", "Ten.es"],
     "display-name": "ten.es"
   },
-  "TRECE": {
-    "ids": ["13tv.es", "13TV.es"],
-    "display-name": "13tv.es"
-  },
-  "24 Horas": {
-    "ids": ["24horas.es"],
-    "display-name": "24horas.es"
+  "Veo7": {
+    "ids": ["veo7.es", "Veo7.es"],
+    "display-name": ["GO: VEO 7 ᴿᴬᵂ", "ES: VEO7 ᴴᴰ", "ES: VEO7 SD", "ES: VEO7 ᵁᴴᴰ"]
   },
   "Teledeporte": {
     "ids": ["teledeporte.es", "Teledeporte.es"],
     "display-name": "teledeporte.es"
   },
+  "24 Horas": {
+    "ids": ["24horas.es"],
+    "display-name": ["ES: 24H TVE ᴴᴰ", "ES: 24H TVE ᵁᴴᴰ"]
+  },
 
   "Movistar Plus+ HD": {
     "ids": ["movistarplus.es", "Movistarplus.es", "ES: MOVISTAR PLUS+ ᴴᴰ", "840100"],
-    "display-name": "ES: MOVISTAR PLUS+ ᴴᴰ"
-  },
-  "M+ Originales HD": {
-    "ids": ["mplusorginales.es"],
-    "display-name": "mplusorginales.es"
+    "display-name": ["ES: MOVISTAR PLUS+ ᴴᴰ", "ES: MOVISTAR PLUS+ SD", "ES: MOVISTAR PLUS+ ᵁᴴᴰ"]
   },
   "GOL": {
     "ids": ["gol.es", "Gol.es"],
-    "display-name": "gol.es"
+    "display-name": ["ES: GOL PLAY ᴴᴰ", "ES: GOL PLAY SD", "ES: GOL PLAY ᵁᴴᴰ"]
+  },
+  "M+ Originales HD": {
+    "ids": ["mplusorginales.es"],
+    "display-name": ["M+: M.ORIGINALES ᴿᴬᵂ", "ES: MOVISTAR ORIGINALES ᴴᴰ", "ES: MOVISTAR ORIGINALES SD", "ES: MOVISTAR ORIGINALES ᵁᴴᴰ"]
+  },
+  "STAR Channel HD": {
+    "ids": ["fox.es", "FOX.es"],
+    "display-name": ["M+: STAR CHANNEL ᴿᴬᵂ", "GO: STAR CHANNEL ᴴᴰ", "ES: STAR CHANNEL (FOX) ᵁᴴᴰ"]
+  },
+  "AXN HD": {
+    "ids": ["axn.es", "AXN.es"],
+    "display-name": ["ES: AXN ᴴᴰ"]
+  },
+    "Atreseries": {
+    "ids": ["atreseries.es"],
+    "display-name": ["PRIME: ATRESERIES ᴿᴬᵂ", "PLAYER: DIRECTO ATRESERIES ᴿᴬᵂ", "M+: A3SERIES ᴿᴬᵂ", "ES: A3SERIES ᴴᴰ", "ES: A3SERIES SD", "ES: A3SERIES ᵁᴴᴰ"]
+  },
+  "Comedy Central HD": {
+    "ids": ["comedycentral.es", "ComedyCentral.es"],
+    "display-name": ["ES: COMEDY CENTRAL ᴴᴰ"]
+  },
+  "SyFy HD": {
+    "ids": ["syfy.es", "Syfy.es"],
+    "display-name": ["ES: SYFY ᴴᴰ", "ES: SYFY ᵁᴴᴰ", "ES: SYFY ᵁᴴᴰ VOS"]
   },
   "DMAX": {
     "ids": ["dmax.es", "Dmax.es"],
@@ -86,27 +110,23 @@
   },
   "DKISS": {
     "ids": ["dkissalt.es"],
-    "display-name": "dkissalt.es"
+    "display-name": ["GO: DKISS ᴿᴬᵂ", "ES: DKISS ᴴᴰ", "ES: DKISS SD", "ES: DKISS ᵁᴴᴰ"]
   },
-  "Comedy Central HD": {
-    "ids": ["comedycentral.es", "ComedyCentral.es"],
-    "display-name": "comedycentral.es"
+  "HBO Max Avances": {
+    "ids": ["HBO Max Avances"],
+    "display-name": ["GO: MAX AVANCES ᴿᴬᵂ", "ES: Max Avances ᴴᴰ", "ES: Max Avances SD", "ES: Max Avances ᵁᴴᴰ"]
+  },
+  "SELEKT": {
+    "ids": ["SELEKT"],
+    "display-name": ["M+: SELEKT ᴿᴬᵂ", "ES: AMC SELEKT TV ᴴᴰ"]
   },
   "AMC Break": {
     "ids": ["amcbreak.es", "AMCBreak.es"],
-    "display-name": "amcbreak.es"
-  },
-  "AXN HD": {
-    "ids": ["axn.es", "AXN.es"],
-    "display-name": "axn.es"
+    "display-name": ["PRIME: AMC BREAK ᴿᴬᵂ"]
   },
   "Calle 13 HD": {
     "ids": ["calle13.es", "Calle13.es"],
     "display-name": "calle13.es"
-  },
-  "STAR Channel HD": {
-    "ids": ["fox.es", "FOX.es"],
-    "display-name": "fox.es"
   },
 
   "DAZN F1 HD": {
@@ -351,10 +371,6 @@
   "Paramount Network": {
     "ids": ["paramountchannel.es", "ParamountChannel.es"],
     "display-name": "paramountchannel.es"
-  },
-  "SyFy HD": {
-    "ids": ["syfy.es", "Syfy.es"],
-    "display-name": "syfy.es"
   },
   "XTRM": {
     "ids": ["xtrm.es", "Xtrm.es"],
