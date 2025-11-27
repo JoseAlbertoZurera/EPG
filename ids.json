@@ -112,7 +112,7 @@
     "ids": ["dkissalt.es"],
     "display-name": ["GO: DKISS ᴿᴬᵂ", "ES: DKISS ᴴᴰ", "ES: DKISS SD", "ES: DKISS ᵁᴴᴰ"]
   },
-  "HBO SKY SHOW TIME": {
+  "HBO Max Avances": {
     "ids": ["HBO Max Avances"],
     "display-name": ["GO: MAX AVANCES ᴿᴬᵂ", "ES: Max Avances ᴴᴰ", "ES: Max Avances SD", "ES: Max Avances ᵁᴴᴰ"]
   },
@@ -134,7 +134,7 @@
   },
   "BBC Food": {
     "ids": ["BBC Food"],
-    "display-name": ["GO: BBC FOOD ᴿᴬᵂ"]
+    "display-name": ["GO: BBC FOOD ᴿᴬᵂ", "ES: BBC FOOD ᴴᴰ", "ES: BBC FOOD SD", "ES: BBC FOOD ᵁᴴᴰ"]
   },
   "SkyShowtime": {
     "ids": ["SkyShowtime"],
@@ -274,6 +274,23 @@
     "ids": ["mlaliga4.es", "MLaLiga4.es"],
     "display-name": ["GO: M+ LALIGA TV 4 ᴿᴬᵂ"]
   },
+  "LALIGA Inside": {
+    "ids": ["LALIGA Inside"],
+    "display-name": ["ES: LALIGA+ ᴴᴰ (LINEAL)"]
+  },
+
+  "LaLiga TV Hypermotion HD": {
+    "ids": ["mlaligahypermotion.es"],
+    "display-name": ["PRIME: LALIGA HYPERMOTION TV ᴿᴬᵂ", "ES: LALIGA TV HYPERMOTION ᴴᴰ", "ES: LALIGA TV HYPERMOTION SD", "ES: LALIGA TV HYPERMOTION ᵁᴴᴰ"]
+  },
+  "LaLiga TV Hypermotion 2": {
+    "ids": ["mlaligahypermotion2.es"],
+    "display-name": ["PRIME: LALIGA HYPERMOTION TV 2 ᴿᴬᵂ", "ES: LALIGA TV HYPERMOTION 2 ᴴᴰ", "ES: LALIGA TV HYPERMOTION 2 SD", "ES: LALIGA TV HYPERMOTION 2 ᵁᴴᴰ"]
+  },
+  "LaLiga TV Hypermotion 3": {
+    "ids": ["mlaligahypermotion3.es"],
+    "display-name": ["PRIME: LALIGA HYPERMOTION TV 3 ᴿᴬᵂ", "ES: LALIGA TV HYPERMOTION 3 ᴴᴰ", "ES: LALIGA TV HYPERMOTION 3 SD", "ES: LALIGA TV HYPERMOTION 3 ᵁᴴᴰ"]
+  },
 
   "M+ Deportes HD": {
     "ids": ["movistardeportes.es", "mdeportes1.es", "MovistarDeportes1.es"],
@@ -325,17 +342,25 @@
     "display-name": "mligadecampeones5.es"
   },
 
-  "LaLiga TV Hypermotion HD": {
-    "ids": ["mlaligahypermotion.es"],
-    "display-name": "mlaligahypermotion.es"
+  "Caza y Pesca HD": {
+    "ids": ["cazapesca.es", "CazaPesca.es"],
+    "display-name": ["GO: CAZA Y PESCA ᴿᴬᵂ"]
   },
-  "LaLiga TV Hypermotion 2": {
-    "ids": ["mlaligahypermotion2.es"],
-    "display-name": "mlaligahypermotion2.es"
+  "Cazavisión": {
+    "ids": ["Cazavisión"],
+    "display-name": ["ES: CAZAVISION ᴴᴰ", "ES: CAZAVISION SD", "ES: CAZAVISION ᵁᴴᴰ"]
   },
-  "LaLiga TV Hypermotion 3": {
-    "ids": ["mlaligahypermotion3.es"],
-    "display-name": "mlaligahypermotion3.es"
+  "Iberalia TV": {
+    "ids": ["iberaliatv.es", "IberaliaTV.es"],
+    "display-name": ["ES: IBERALIA ᴴᴰ"]
+  },
+  "Iberalia caza": {
+    "ids": ["Iberalia Pesca"],
+    "display-name": ["M+: IBERALIA PESCA ᴿᴬᵂ", "ES: IBERALIA PESCA ᴴᴰ", "ES: IBERALIA PESCA SD", "ES: IBERALIA PESCA ᵁᴴᴰ"]
+  },
+  "Iberalia pesca": {
+    "ids": ["Iberalia Pesca"],
+    "display-name": ["M+: IBERALIA CAZA ᴿᴬᵂ", "ES: IBERALIA CAZA ᴴᴰ", "ES: IBERALIA CAZA SD", "ES: IBERALIA CAZA ᵁᴴᴰ"]
   },
 
   "M+ Documentales HD": {
@@ -365,14 +390,6 @@
   "Odisea": {
     "ids": ["odisea.es", "Odisea.es"],
     "display-name": "odisea.es"
-  },
-  "Iberalia TV": {
-    "ids": ["iberaliatv.es", "IberaliaTV.es"],
-    "display-name": "iberaliatv.es"
-  },
-  "Caza y Pesca HD": {
-    "ids": ["cazapesca.es", "CazaPesca.es"],
-    "display-name": "cazapesca.es"
   },
   "El Toro TV": {
     "ids": ["eltorotv.es"],
