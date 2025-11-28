@@ -323,7 +323,7 @@
 
   "M+ Liga de Campeones HD": {
     "ids": ["mligadecampeones.es", "mligadecampeones1.es"],
-    "display-name": "mligadecampeones.es"
+    "display-name": ["ES: M. LIGA DE CAMPEONES 1 ᵁᴴᴰ", "ES: M. LIGA DE CAMPEONES 1 ʰᵉᵛᶜ", "ES: M. LIGA DE CAMPEONES 1 ᴿᴬᵂ", "ES: M. LIGA DE CAMPEONES 1 ᴴᴰ ⁽ᴮᴷ⁾", "ES: M. LIGA DE CAMPEONES 1 ᴿᴬᵂ ⁽ᴮᴷ⁾", "ES: M. LIGA DE CAMPEONES 1 SD", "ES: M. LIGA DE CAMPEONES 1 ᴸᴼᵂ", "ES: M. LIGA DE CAMPEONES 1 ᴴᴰ"]
   },
   "M+ Liga de Campeones 2 HD": {
     "ids": ["mligadecampeones2.es", "MPlusLigadeCampeones2.es"],
