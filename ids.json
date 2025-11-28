@@ -53,7 +53,7 @@
   },
     "TRECE": {
     "ids": ["13tv.es", "13TV.es"],
-    "display-name": ["ES: TRECE TV ᴴᴰ"]
+    "display-name": ["M+: TRECE ᴿᴬᵂ","ES: TRECE TV ᴴᴰ"]
   },
   "Ten": {
     "ids": ["ten.es", "Ten.es"],
@@ -65,7 +65,7 @@
   },
   "Teledeporte": {
     "ids": ["teledeporte.es", "Teledeporte.es"],
-    "display-name": "teledeporte.es"
+    "display-name": "ES: TELE DEPORTE ᴴᴰ"
   },
   "24 Horas": {
     "ids": ["24horas.es"],
@@ -82,11 +82,11 @@
   },
   "M+ Originales HD": {
     "ids": ["mplusorginales.es"],
-    "display-name": ["M+: M.ORIGINALES ᴿᴬᵂ", "ES: MOVISTAR ORIGINALES ᴴᴰ", "ES: MOVISTAR ORIGINALES SD", "ES: MOVISTAR ORIGINALES ᵁᴴᴰ"]
+    "display-name": ["M+: M.ORIGINALES ᴿᴬᵂ", "ES: MOVISTAR ORIGINALES ᴴᴰ", "ES: MOVISTAR ORIGINALES SD", "ES: MOVISTAR ORIGINALES ᵁᴴᴰ", "VO: #0 ᴿᴬᵂ", "VO: #0 ᴴᴰ"]
   },
   "STAR Channel HD": {
     "ids": ["fox.es", "FOX.es"],
-    "display-name": ["M+: STAR CHANNEL ᴿᴬᵂ", "GO: STAR CHANNEL ᴴᴰ", "ES: STAR CHANNEL (FOX) ᵁᴴᴰ"]
+    "display-name": ["M+: STAR CHANNEL ᴿᴬᵂ", "GO: STAR CHANNEL ᴿᴬᵂ", "ES: STAR CHANNEL (FOX) ᵁᴴᴰ"]
   },
   "AXN HD": {
     "ids": ["axn.es", "AXN.es"],
@@ -94,7 +94,7 @@
   },
   "Atreseries": {
     "ids": ["atreseries.es"],
-    "display-name": ["ES: A TRES SERIES ᴴᴰ", "PRIME: ATRESERIES ᴿᴬᵂ", "PLAYER: DIRECTO ATRESERIES ᴿᴬᵂ", "M+: A3SERIES ᴿᴬᵂ", "ES: A3SERIES ᴴᴰ", "ES: A3SERIES SD", "ES: A3SERIES ᵁᴴᴰ"]
+    "display-name": ["ES: A TRES SERIES ᴴᴰ", "PRIME: ATRESERIES ᴿᴬᵂ", "PLAYER: DIRECTO ATRESERIES ᴿᴬᵂ","GO: A3SERIES ᴿᴬᵂ", "M+: A3SERIES ᴿᴬᵂ", "ES: A3SERIES ᴴᴰ", "ES: A3SERIES SD", "ES: A3SERIES ᵁᴴᴰ"]
   },
   "Comedy Central HD": {
     "ids": ["comedycentral.es", "ComedyCentral.es"],
@@ -207,7 +207,7 @@
   },
   "M+ Vamos 2": {
     "ids": ["vamos2.es", "Vamos2.es"],
-    "display-name": ["ES: #VAMOS 2 ᴴᴰ", "ES: #VAMOS 2 SD", "ES: #VAMOS 2 ᵁᴴᴰ", "ES: #VAMOS 2 ʰᵉᵛᶜ"]
+    "display-name": ["ES: #VAMOS 2 ᴴᴰ", "ES: #VAMOS 2 SD", "ES: #VAMOS 2 ᵁᴴᴰ", "ES: #VAMOS 2 ʰᵉᵛᶜ", "ES: MOVISTAR PLUS +2 ᴴᴰ"]
   },
   "M+ Ellas Vamos HD": {
     "ids": ["mplusellasv.es"],
@@ -417,7 +417,7 @@
   },
   "Discovery": {
     "ids": ["discoverychannel.es", "DiscoveryChannel.es"],
-    "display-name": ["Discovery"]
+    "display-name": ["VO: DISNEY CHANNEL ᴿᴬᵂ", "VO: DISNEY CHANNEL ᴴᴰ"]
   },
   "AMC Crime": {
     "ids": ["amccrime.es", "AMCCrime.es", "crimeinvestigation.es"],
@@ -432,6 +432,10 @@
     "display-name": ["PRIME: �BUEN VIAJE! ᴿᴬᵂ", "M+: BUEN VIAJE ᴿᴬᵂ", "ES: BUENVIAJE ᴴᴰ", "ES: BUENVIAJE SD", "ES: BUENVIAJE ᵁᴴᴰ"]
   },
 
+  "M+ En juego": {
+    "ids": ["M+ En juego"],
+    "display-name": ["GO: M+ DEMI MOORE ᴿᴬᵂ"]
+  },
   "M+ Estrenos HD": {
     "ids": ["movistarestrenos.es", "movistarestrenos2.es", "movistardcine.es", "MovistarCine.es"],
     "display-name": ["M+ Estrenos"]
@@ -464,6 +468,10 @@
     "ids": ["movistarindie.es", "MovistarIndie.es"],
     "display-name": ["GO: M+ INDIE ᴿᴬᵂ", "ES: MOVISTAR INDIE ᴴᴰ", "ES: MOVISTAR INDIE SD", "ES: MOVISTAR INDIE ᵁᴴᴰ"]
   },
+  "Warner TV HD": {
+    "ids": ["Warner TV"],
+    "display-name": ["VO: TNT ᴿᴬᵂ", "VO: TNT ᴴᴰ", "GO: WARNER TV ᴿᴬᵂ", "M+: WARNER TV ᴿᴬᵂ", "ES: WARNER TV SD", "ES: WARNER TV ᵁᴴᴰ"]
+  },
   "AMC HD": {
     "ids": ["amc.es", "AMC.es"],
     "display-name": ["PRIME: AMC ᴿᴬᵂ", "ES: AMC ᴴᴰ"]
@@ -472,9 +480,17 @@
     "ids": ["tcm.es", "TCM.es"],
     "display-name": ["ES: TCM ᴴᴰ"]
   },
-  "Sundande TV": {
+  "Sundance TV": {
     "ids": ["sundance.es", "sundancetv.es", "SundanceTV.es"],
     "display-name": ["PRIME: SUNDANCE TV ᴿᴬᵂ", "ES: SUNDANCE TV ᴴᴰ"]
+  },
+  "DARK": {
+    "ids": ["dark.es", "Dark.es"],
+    "display-name": ["PRIME: DARK ᴿᴬᵂ", "ES: DARK ᴴᴰ", "ES: DARK SD", "ES: DARK ᵁᴴᴰ"]
+  },
+  "AXN Movies HD": {
+    "ids": ["axnmovies.es", "Axnmovies.es"],
+    "display-name": ["GO: AXN MOVIES ᴿᴬᵂ", "M+: AXN MOVIES ᴿᴬᵂ", "ES: AXN MOVIES ᴴᴰ", "ES: AXN MOVIES SD", "ES: AXN MOVIES ᵁᴴᴰ"]
   },
   "Canal Hollywood HD": {
     "ids": ["hollywood.es", "Hollywood.es"],
@@ -487,6 +503,14 @@
   "Somos": {
     "ids": ["somos.es", "Somos.es"],
     "display-name": ["PRIME: SOMOS ᴿᴬᵂ", "ES: SOMOS ᴴᴰ"]
+  },
+  "BOM Cine": {
+    "ids": ["bomcine.es", "BOMCine.es"],
+    "display-name": ["M+: BOM CINE ᴿᴬᵂ"]
+  },
+  "Squirrel TV": {
+    "ids": ["Squirrel TV"],
+    "display-name": ["ES: DISNEY CHANNEL ᴴᴰ"]
   },
 
   "El Toro TV": {
@@ -524,7 +548,7 @@
   },
   "Dreamworks HD": {
     "ids": ["dreamworks.es", "Dreamworks.es"],
-    "display-name": ["GO: DREAM WORKS ᴿᴬᵂ", "ES: DREAMWORKS ᴴᴰ", "ES: DREAMWORKS SD", "ES: DREAMWORKS ᵁᴴᴰ"]
+    "display-name": ["GO: DREAM WORK ᴿᴬᵂ", "ES: DREAMWORKS ᴴᴰ", "ES: DREAMWORKS SD", "ES: DREAMWORKS ᵁᴴᴰ"]
   },
   "Disney Junior": {
     "ids": ["disneyjunior.es", "DisneyJunior.es"],
@@ -537,15 +561,15 @@
 
   "Canal Sur HD": {
     "ids": ["canalsur.es", "Canalsur.es", "1340266"],
-    "display-name": "canalsur.es"
+    "display-name": ["ES: CANAL SUR ᴴᴰ"]
   },
   "Canal Sur Andalucía": {
     "ids": ["canalsurandalucia.es", "CanalAndalucia.es", "1683714"],
-    "display-name": "canalsurandalucia.es"
+    "display-name": ["M+: CANAL SUR ANDALUCIA ᴿᴬᵂ"]
   },
   "Telemadrid": {
     "ids": ["telemadrid.es", "TeleMadrid.es"],
-    "display-name": "telemadrid.es"
+    "display-name": "ES: TELE MADRID ᴴᴰ"
   },
   "La Otra": {
     "ids": ["laotra.es", "LaOtra.es"],
@@ -553,15 +577,19 @@
   },
   "TV3 Catalunya": {
     "ids": ["tv3cat.es", "TV3Catalunya.es"],
-    "display-name": "tv3cat.es"
+    "display-name": ["M+: TV3 ᴿᴬᵂ", "ES: TV3 CAT ᴴᴰ"]
   },
   "ETB1": {
     "ids": ["etb1.es"],
-    "display-name": "etb1.es"
+    "display-name": ["M+: ETB 1 ᴿᴬᵂ", "ES: ETB 1 ᴴᴰ"]
   },
   "ETB2": {
     "ids": ["etb2.es"],
-    "display-name": "etb2.es"
+    "display-name": ["ES: ETB 2 ᴴᴰ"]
+  },
+  "ETB3": {
+    "ids": ["etb3.es"],
+    "display-name": ["M+: ETB 3 ᴿᴬᵂ", "ES: ETB 3 ᴴᴰ"]
   },
   "TVG": {
     "ids": ["TVG"],
@@ -577,11 +605,19 @@
   },
   "Canal Extremadura": {
     "ids": ["canalextremadura.es"],
-    "display-name": "canalextremadura.es"
+    "display-name": ["ES: CANAL EXTREMADURA ᴴᴰ"]
+  },
+  "Canal Extremadura SAT": {
+    "ids": ["canalextremadurasat.es"],
+    "display-name": ["ES: EXTREMADURA SAT ᵁᴴᴰ"]
   },
   "Aragón TV": {
     "ids": ["aragontv.es"],
-    "display-name": "aragontv.es"
+    "display-name": ["ES: ARAGON TV INT ᴴᴰ", "ES: ARAGON TV INT SD"]
+  },
+  "Aragón TV Internacional": {
+    "ids": ["aragontvint.es"],
+    "display-name": ["TY: ARAGÓN TV INT ᴿᴬᵂ"]
   },
   "La 7 CyL": {
     "ids": ["la7.es"],
