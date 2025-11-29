@@ -654,5 +654,54 @@
   "PTV Granada": {
     "ids": ["PTV Granada"],
     "display-name": ["ES: PTV GRANADA ᴴᴰ", "ES: PTV GRANADA SD", "ES: PTV GRANADA ᵁᴴᴰ"]
+  },
+
+  "Clásicos atresplayer": {
+    "ids": ["Clásicos atresplayer"],
+    "display-name": ["PLAYER: DIRECTO 35 AÑOS DE ANTENA 3 ᴿᴬᵂ"]
+  },
+  "Aquí no hay quién viva": {
+    "ids": ["Aquí no hay quién viva"],
+    "display-name": ["PLAYER: DIRECTO AQUÍ NO HAY QUIÉN VIVA ᴿᴬᵂ"]
+  },
+  "ATRESplayer PREMIUM": {
+    "ids": ["ATRESplayer PREMIUM"],
+    "display-name": ["PLAYER: DIRECTO ATRESPLAYER PREMIUM ᴿᴬᵂ"]
+  },
+  "Comedia atresplayer": {
+    "ids": ["Comedia atresplayer"],
+    "display-name": ["PLAYER: DIRECTO COMEDIA ᴿᴬᵂ"]
+  },
+  "El club de la comedia": {
+    "ids": ["El club de la comedia"],
+    "display-name": ["PLAYER: DIRECTO EL CLUB DE LA COMEDIA ᴿᴬᵂ"]
+  },
+  "El Hormiguero": {
+    "ids": ["El Hormiguero"],
+    "display-name": ["PLAYER: DIRECTO EL HORMIGUERO ᴿᴬᵂ"]
+  },
+  "Equipo de investigación": {
+    "ids": ["Equipo de investigación"],
+    "display-name": ["PLAYER: DIRECTO EQUIPO DE INVESTIGACIÓN ᴿᴬᵂ"]
+  },
+  "Flooxer": {
+    "ids": ["Flooxer"],
+    "display-name": ["PLAYER: DIRECTO FLOOXER ᴿᴬᵂ"]
+  },
+  "FoQ": {
+    "ids": ["FoQ"],
+    "display-name": ["PLAYER: DIRECTO FOQ ᴿᴬᵂ"]
+  },
+  "Kidz": {
+    "ids": ["Kidz"],
+    "display-name": ["PLAYER: DIRECTO KIDZ ᴿᴬᵂ"]
+  },
+  "Inquietos atresplayer": {
+    "ids": ["Inquietos atresplayer"],
+    "display-name": ["PLAYER: DIRECTO MENTES INQUIETAS ᴿᴬᵂ"]
+  },
+  "Multicine atresplayer": {
+    "ids": ["Multicine atresplayer"],
+    "display-name": ["PLAYER: DIRECTO MULTICINE ᴿᴬᵂ"]
   }
 }
