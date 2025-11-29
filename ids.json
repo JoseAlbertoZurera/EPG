@@ -164,10 +164,6 @@
     "ids": ["canalcocina.es", "CanalCocina.es"],
     "display-name": ["PRIME: CANAL COCINA ᴿᴬᵂ", "4K: COCINA ᵁᴴᴰ ³⁸⁴⁰ᴾ"]
   },
-  "MTV España": {
-    "ids": ["MTV España"],
-    "display-name": ["GO: MTV ᴿᴬᵂ", "M+: MTV ESPANA ᴿᴬᵂ", "ES: MTV ᴴᴰ", "ES: MTV SD", "ES: MTV ᵁᴴᴰ"]
-  },
 
   "DAZN F1 HD": {
     "ids": ["daznf1.es", "DAZNF1.es", "daznf14k.es"],
@@ -679,6 +675,14 @@
     "ids": ["PTV Granada"],
     "display-name": ["ES: PTV GRANADA ᴴᴰ", "ES: PTV GRANADA SD", "ES: PTV GRANADA ᵁᴴᴰ"]
   },
+  "CMM TV": {
+    "ids": ["CMM TV"],
+    "display-name": ["M+: CMM TV ᴿᴬᵂ", "ES: CMM ᴴᴰ", "ES: CMM SD", "ES: CMM ᵁᴴᴰ"]
+  },
+  "La 7 Murcia": {
+    "ids": ["La 7 Murcia"],
+    "display-name": ["ES: 7RM ᴴᴰ", "ES: 7RM SD", "ES: 7RM ᵁᴴᴰ"]
+  },
 
   "Clásicos atresplayer": {
     "ids": ["Clásicos atresplayer"],
@@ -750,6 +754,18 @@
     "display-name": ["TF: TOP SERIES ᴿᴬᵂ"]
   },
 
+  "MTV España": {
+    "ids": ["MTV España"],
+    "display-name": ["GO: MTV ᴿᴬᵂ", "M+: MTV ESPANA ᴿᴬᵂ", "ES: MTV ᴴᴰ", "ES: MTV SD", "ES: MTV ᵁᴴᴰ"]
+  },
+  "MTV 80s": {
+    "ids": ["MTV 80s"],
+    "display-name": ["GO: MTV 80's ᴿᴬᵂ", "ES: MTV 80's ᴴᴰ"]
+  },
+  "MTV 00s": {
+    "ids": ["MTV 00s"],
+    "display-name": ["GO: MTV 00's ᴿᴬᵂ", "ES: MTV 00's ᴴᴰ"]
+  },
   "Mezzo": {
     "ids": ["Mezzo"],
     "display-name": ["PRIME: MEZZO ᴿᴬᵂ", "GO: MEZZO ᴿᴬᵂ", "ES: MEZZO SD", "ES: MEZZO ᵁᴴᴰ"]
