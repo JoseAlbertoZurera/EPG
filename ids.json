@@ -122,7 +122,7 @@
   },
   "AMC Break": {
     "ids": ["amcbreak.es", "AMCBreak.es"],
-    "display-name": ["PRIME: AMC BREAK ᴿᴬᵂ"]
+    "display-name": ["PRIME: AMC BREAK ᴿᴬᵂ", "VO: BLAZE ᴴᴰ"]
   },
   "BBC Series": {
     "ids": ["BBC Series"],
@@ -635,6 +635,10 @@
     "ids": ["etb3.es"],
     "display-name": ["M+: ETB 3 ᴿᴬᵂ", "ES: ETB 3 ᴴᴰ"]
   },
+  "EITB Basque": {
+    "ids": ["EITB Basque"],
+    "display-name": ["GO: EITB BASQUE ᴿᴬᵂ", "TY: ETB BASQUE ᴿᴬᵂ"]
+  },
   "TVG": {
     "ids": ["TVG"],
     "display-name": ["GO: TVG TV GALICIA ᴿᴬᵂ", "M+: GALICIA TV ᴿᴬᵂ", "ES: TV GALICIA ᴴᴰ"]
@@ -665,7 +669,11 @@
   },
   "La 7 CyL": {
     "ids": ["la7.es"],
-    "display-name": ["GO: LA 7 ᴿᴬᵂ", "M+: LA 7 ᴿᴬᵂ"]
+    "display-name": ["GO: LA 7 ᴿᴬᵂ", "M+: LA 7 ᴿᴬᵂ", "ES: LAS SIETE ᴴᴰ"]
+  },
+  "La 7 Murcia": {
+    "ids": ["La 7 Murcia"],
+    "display-name": ["ES: 7RM ᴴᴰ", "ES: 7RM SD", "ES: 7RM ᵁᴴᴰ"]
   },
   "PTV Córdoba": {
     "ids": ["PTV Córdoba"],
@@ -678,10 +686,6 @@
   "CMM TV": {
     "ids": ["CMM TV"],
     "display-name": ["M+: CMM TV ᴿᴬᵂ", "ES: CMM ᴴᴰ", "ES: CMM SD", "ES: CMM ᵁᴴᴰ"]
-  },
-  "La 7 Murcia": {
-    "ids": ["La 7 Murcia"],
-    "display-name": ["ES: 7RM ᴴᴰ", "ES: 7RM SD", "ES: 7RM ᵁᴴᴰ"]
   },
 
   "Clásicos atresplayer": {
@@ -754,6 +758,68 @@
     "display-name": ["TF: TOP SERIES ᴿᴬᵂ"]
   },
 
+  "Runtime Cine y Series": {
+    "ids": ["Runtime Cine y Series"],
+    "display-name": ["TY: RUNTIME ᴿᴬᵂ", "VO: HBO 3 ᴴᴰ"]
+  },
+  "Runtime Acción": {
+    "ids": ["Runtime Acción"],
+    "display-name": ["TY: RUNTIME ACCIÓN ᴿᴬᵂ"]
+  },
+  "RunTime Clásicos": {
+    "ids": ["RunTime Clásicos"],
+    "display-name": ["TY: RUNTIME CLÁSICOS ᴿᴬᵂ"]
+  },
+  "Runtime Romance": {
+    "ids": ["Runtime Romance"],
+    "display-name": ["TY: RUNTIME ROMANCE ᴿᴬᵂ"]
+  },
+  "Runtime Comedia": {
+    "ids": ["Runtime Comedia"],
+    "display-name": ["TY: RUNTIME COMEDIA ᴿᴬᵂ"]
+  },
+  "Runtime Crimen": {
+    "ids": ["Runtime Crimen"],
+    "display-name": ["TY: RUNTIME CRIMEN ᴿᴬᵂ"]
+  },
+  "Runtime Thriller-Terror": {
+    "ids": ["Runtime Thriller-Terror"],
+    "display-name": ["TY: RUNTIME THRILLER + TERROR ᴿᴬᵂ"]
+  },
+
+  "Acción (Rakuten TV)": {
+    "ids": ["Acción (Rakuten TV)"],
+    "display-name": ["ES: RAKUTEN TV ACCION ᴿᴬᵂ"]
+  },
+  "Cine Español (Rakuten TV)": {
+    "ids": ["Cine Español (Rakuten TV)"],
+    "display-name": ["ES: RAKUTEN TV CINE ESPANOL ᴿᴬᵂ"]
+  },
+  "Todo Crimen (Rakuten TV)": {
+    "ids": ["Todo Crimen (Rakuten TV)"],
+    "display-name": ["ES: RAKUTEN TV CRIME SERIES ᴿᴬᵂ"]
+  },
+  "Dramas (Rakuten TV)": {
+    "ids": ["Dramas (Rakuten TV)"],
+    "display-name": ["ES: RAKUTEN TV DRAMA MOVIES ᴿᴬᵂ"]
+  },
+  "100% Navidad (Rakuten TV)": {
+    "ids": ["100% Navidad (Rakuten TV)"],
+    "display-name": ["ES: RAKUTEN TV FAMILY MOVIES ᴿᴬᵂ"]
+  },
+  "Películas Románticas (Rakuten TV)": {
+    "ids": ["Películas Románticas (Rakuten TV)"],
+    "display-name": ["ES: RAKUTEN TV ROMANCE MOVIES ᴿᴬᵂ"]
+  },
+  "Thrillers (Rakuten TV)": {
+    "ids": ["Thrillers (Rakuten TV)"],
+    "display-name": ["ES: RAKUTEN TV THRILLER MOVIES ᴿᴬᵂ"]
+  },
+  "Pelis Top (Rakuten TV)": {
+    "ids": ["Pelis Top (Rakuten TV)"],
+    "display-name": ["ES: RAKUTEN TV TOP MOVIES ᴿᴬᵂ"]
+  },
+
   "MTV España": {
     "ids": ["MTV España"],
     "display-name": ["GO: MTV ᴿᴬᵂ", "M+: MTV ESPANA ᴿᴬᵂ", "ES: MTV ᴴᴰ", "ES: MTV SD", "ES: MTV ᵁᴴᴰ"]
@@ -764,7 +830,7 @@
   },
   "MTV 00s": {
     "ids": ["MTV 00s"],
-    "display-name": ["GO: MTV 00's ᴿᴬᵂ", "ES: MTV 00's ᴴᴰ"]
+    "display-name": ["GO: MTV 00S ᴿᴬᵂ", "ES: MTV 00's ᴴᴰ"]
   },
   "Mezzo": {
     "ids": ["Mezzo"],
