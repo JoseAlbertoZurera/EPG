@@ -373,6 +373,26 @@
     "ids": ["mligadecampeones13.es", "MPlusLigadeCampeones13.es"],
     "display-name": ["ES: M. LIGA DE CAMPEONES 13 ᴴᴰ ⁽ᴮᴷ⁾", "ES: M. LIGA DE CAMPEONES 13 ᴿᴬᵂ ⁽ᴮᴷ⁾", "ES: M. LIGA DE CAMPEONES 13 ᴴᴰ", "GO: M+ LALIGA DE CAMPEONES 13 ᴿᴬᵂ"]
   },
+  "M+ Liga de Campeones 14": {
+    "ids": ["mligadecampeones14.es", "MPlusLigadeCampeones14.es"],
+    "display-name": ["ES: M. LIGA DE CAMPEONES 14 ᴴᴰ ⁽ᴮᴷ⁾", "ES: M. LIGA DE CAMPEONES 14 ᴿᴬᵂ ⁽ᴮᴷ⁾"]
+  },
+  "M+ Liga de Campeones 15": {
+    "ids": ["mligadecampeones15.es", "MPlusLigadeCampeones15.es"],
+    "display-name": ["ES: M. LIGA DE CAMPEONES 15 ᴴᴰ ⁽ᴮᴷ⁾", "ES: M. LIGA DE CAMPEONES 15 ᴿᴬᵂ ⁽ᴮᴷ⁾"]
+  },
+  "M+ Liga de Campeones 16": {
+    "ids": ["mligadecampeones16.es", "MPlusLigadeCampeones16.es"],
+    "display-name": ["ES: M. LIGA DE CAMPEONES 16 ᴴᴰ ⁽ᴮᴷ⁾", "ES: M. LIGA DE CAMPEONES 16 ᴿᴬᵂ ⁽ᴮᴷ⁾"]
+  },
+  "M+ Liga de Campeones 17": {
+    "ids": ["mligadecampeones17.es", "MPlusLigadeCampeones17.es"],
+    "display-name": ["ES: M. LIGA DE CAMPEONES 17 ᴴᴰ ⁽ᴮᴷ⁾", "ES: M. LIGA DE CAMPEONES 17 ᴿᴬᵂ ⁽ᴮᴷ⁾"]
+  },
+  "M+ Liga de Campeones 18": {
+    "ids": ["mligadecampeones18.es", "MPlusLigadeCampeones18.es"],
+    "display-name": ["ES: M. LIGA DE CAMPEONES 18 ᴴᴰ ⁽ᴮᴷ⁾", "ES: M. LIGA DE CAMPEONES 18 ᴿᴬᵂ ⁽ᴮᴷ⁾"]
+  },
   
   "Caza y Pesca HD": {
     "ids": ["cazapesca.es", "CazaPesca.es"],
@@ -432,6 +452,10 @@
     "display-name": ["PRIME: �BUEN VIAJE! ᴿᴬᵂ", "M+: BUEN VIAJE ᴿᴬᵂ", "ES: BUENVIAJE ᴴᴰ", "ES: BUENVIAJE SD", "ES: BUENVIAJE ᵁᴴᴰ"]
   },
 
+  "M+ Navidad": {
+    "ids": ["M+ Navidad"],
+    "display-name": ["GO: M+ LOS GOYA ᴿᴬᵂ"]
+  },
   "M+ En juego": {
     "ids": ["M+ En juego"],
     "display-name": ["GO: M+ DEMI MOORE ᴿᴬᵂ", "ES: MOVISTAR POPUP 2 ᴴᴰ", "ES: MOVISTAR POPUP 2 SD", "ES: MOVISTAR POPUP 2 ᵁᴴᴰ"]
@@ -703,5 +727,35 @@
   "Multicine atresplayer": {
     "ids": ["Multicine atresplayer"],
     "display-name": ["PLAYER: DIRECTO MULTICINE ᴿᴬᵂ"]
+  },
+
+  "Infinity En la calle": {
+    "ids": ["Infinity En la calle"],
+    "display-name": ["TF: EN LA CALLE ᴿᴬᵂ"]
+  },
+  "Infinity Viajes": {
+    "ids": ["Infinity Viajes"],
+    "display-name": ["TF: VIAJES ᴿᴬᵂ"]
+  },
+  "Infinity+ LQSA": {
+    "ids": ["Infinity+ LQSA"],
+    "display-name": ["TF: LQSA ᴿᴬᵂ"]
+  },
+  "Infinity Comedia": {
+    "ids": ["Infinity Comedia"],
+    "display-name": ["TF: COMEDIA ᴿᴬᵂ"]
+  },
+  "Infinity Top Series": {
+    "ids": ["Infinity Top Series"],
+    "display-name": ["TF: TOP SERIES ᴿᴬᵂ"]
+  },
+
+  "Mezzo": {
+    "ids": ["Mezzo"],
+    "display-name": ["PRIME: MEZZO ᴿᴬᵂ", "GO: MEZZO ᴿᴬᵂ", "ES: MEZZO SD", "ES: MEZZO ᵁᴴᴰ"]
+  },
+  "Mezzo Live HD": {
+    "ids": ["Mezzo Live"],
+    "display-name": ["PRIME: MEZZO LIVE ᴿᴬᵂ", "GO: MEZZO LIVE ᴿᴬᵂ", "ES: MEZZO LIVE SD", "ES: MEZZO LIVE ᵁᴴᴰ"]
   }
 }
