@@ -327,51 +327,51 @@
   },
   "M+ Liga de Campeones 2 HD": {
     "ids": ["mligadecampeones2.es", "MPlusLigadeCampeones2.es"],
-    "display-name": "mligadecampeones2.es"
+    "display-name": ["ES: M. LIGA DE CAMPEONES 2 ᴿᴬᵂ", "ES: M. LIGA DE CAMPEONES 2 ᴴᴰ ⁽ᴮᴷ⁾", "ES: M. LIGA DE CAMPEONES 2 ᴿᴬᵂ ⁽ᴮᴷ⁾", "ES: M. LIGA DE CAMPEONES 2 SD", "ES: M. LIGA DE CAMPEONES 2 ᴸᴼᵂ", "ES: M. LIGA DE CAMPEONES 2 ᴴᴰ"]
   },
   "M+ Liga de Campeones 3 HD": {
     "ids": ["mligadecampeones3.es", "MPlusLigadeCampeones3.es"],
-    "display-name": "mligadecampeones3.es"
+    "display-name": ["ES: M. LIGA DE CAMPEONES 3 ᴿᴬᵂ", "ES: M. LIGA DE CAMPEONES 3 ᴴᴰ ⁽ᴮᴷ⁾", "ES: M. LIGA DE CAMPEONES 3 ᴿᴬᵂ ⁽ᴮᴷ⁾", "ES: M. LIGA DE CAMPEONES 3 ᴴᴰ", "VO: M.LIGA CAMPEONES 3 ᴴᴰ"]
   },
   "M+ Liga de Campeones 4": {
     "ids": ["mligadecampeones4.es", "MPlusLigadeCampeones4.es"],
-    "display-name": "mligadecampeones4.es"
+    "display-name": ["ES: M. LIGA DE CAMPEONES 4 ᴿᴬᵂ", "ES: M. LIGA DE CAMPEONES 4 ᴴᴰ ⁽ᴮᴷ⁾", "ES: M. LIGA DE CAMPEONES 4 ᴿᴬᵂ ⁽ᴮᴷ⁾", "ES: M. LIGA DE CAMPEONES 4 ᴴᴰ"]
   },
   "M+ Liga de Campeones 5": {
     "ids": ["mligadecampeones5.es", "MPlusLigadeCampeones5.es"],
-    "display-name": "mligadecampeones5.es"
+    "display-name": ["ES: M. LIGA DE CAMPEONES 5 ᴿᴬᵂ", "ES: M. LIGA DE CAMPEONES 5 ᴴᴰ ⁽ᴮᴷ⁾", "ES: M. LIGA DE CAMPEONES 5 ᴿᴬᵂ ⁽ᴮᴷ⁾", "ES: M. LIGA DE CAMPEONES 5 ᴴᴰ", "GO: M+ LALIGA DE CAMPEONES 5 ᴿᴬᵂ", "VO: M.LIGA CAMPEONES 5 ᴴᴰ"]
   },
   "M+ Liga de Campeones 6": {
     "ids": ["mligadecampeones6.es", "MPlusLigadeCampeones6.es"],
-    "display-name": "mligadecampeones6.es"
+    "display-name": ["ES: M. LIGA DE CAMPEONES 6 ᴴᴰ ⁽ᴮᴷ⁾", "ES: M. LIGA DE CAMPEONES 6 ᴿᴬᵂ ⁽ᴮᴷ⁾", "ES: M. LIGA DE CAMPEONES 6 ᴴᴰ", "GO: M+ LALIGA DE CAMPEONES 6 ᴿᴬᵂ", "VO: M.LIGA CAMPEONES 6 ᴴᴰ"]
   },
   "M+ Liga de Campeones 7": {
     "ids": ["mligadecampeones7.es", "MPlusLigadeCampeones7.es"],
-    "display-name": "mligadecampeones7.es"
+    "display-name": ["ES: M. LIGA DE CAMPEONES 7 ᴴᴰ ⁽ᴮᴷ⁾", "ES: M. LIGA DE CAMPEONES 7 ᴿᴬᵂ ⁽ᴮᴷ⁾", "ES: M. LIGA DE CAMPEONES 7 ᴴᴰ", "GO: M+ LALIGA DE CAMPEONES 7 ᴿᴬᵂ", "VO: M.LIGA CAMPEONES 7 ᴴᴰ"]
   },
   "M+ Liga de Campeones 8": {
     "ids": ["mligadecampeones8.es", "MPlusLigadeCampeones8.es"],
-    "display-name": "mligadecampeones8.es"
+    "display-name": ["ES: M. LIGA DE CAMPEONES 8 ᴴᴰ ⁽ᴮᴷ⁾", "ES: M. LIGA DE CAMPEONES 8 ᴿᴬᵂ ⁽ᴮᴷ⁾", "ES: M. LIGA DE CAMPEONES 8 ᴴᴰ", "GO: M+ LALIGA DE CAMPEONES 8 ᴿᴬᵂ", "VO: M.LIGA CAMPEONES 8 ᴴᴰ"]
   },
   "M+ Liga de Campeones 9": {
     "ids": ["mligadecampeones9.es", "MPlusLigadeCampeones9.es"],
-    "display-name": "mligadecampeones9.es"
+    "display-name": ["ES: M. LIGA DE CAMPEONES 9 ᴴᴰ ⁽ᴮᴷ⁾", "ES: M. LIGA DE CAMPEONES 9 ᴿᴬᵂ ⁽ᴮᴷ⁾", "ES: M. LIGA DE CAMPEONES 9 ᴴᴰ", "GO: M+ LALIGA DE CAMPEONES 9 ᴿᴬᵂ"]
   },
   "M+ Liga de Campeones 10": {
     "ids": ["mligadecampeones10.es", "MPlusLigadeCampeones10.es"],
-    "display-name": "mligadecampeones10.es"
+    "display-name": ["ES: M. LIGA DE CAMPEONES 10 ᴴᴰ ⁽ᴮᴷ⁾", "ES: M. LIGA DE CAMPEONES 10 ᴿᴬᵂ ⁽ᴮᴷ⁾", "ES: M. LIGA DE CAMPEONES 10 ᴴᴰ", "GO: M+ LALIGA DE CAMPEONES 10 ᴿᴬᵂ"]
   },
   "M+ Liga de Campeones 11": {
     "ids": ["mligadecampeones11.es", "MPlusLigadeCampeones11.es"],
-    "display-name": "mligadecampeones11.es"
+    "display-name": ["ES: M. LIGA DE CAMPEONES 11 ᴴᴰ ⁽ᴮᴷ⁾", "ES: M. LIGA DE CAMPEONES 11 ᴿᴬᵂ ⁽ᴮᴷ⁾", "ES: M. LIGA DE CAMPEONES 11 ᴴᴰ", "GO: M+ LALIGA DE CAMPEONES 11 ᴿᴬᵂ"]
   },
   "M+ Liga de Campeones 12": {
     "ids": ["mligadecampeones12.es", "MPlusLigadeCampeones12.es"],
-    "display-name": "mligadecampeones12.es"
+    "display-name": ["ES: M. LIGA DE CAMPEONES 12 ᴴᴰ ⁽ᴮᴷ⁾", "ES: M. LIGA DE CAMPEONES 12 ᴿᴬᵂ ⁽ᴮᴷ⁾", "ES: M. LIGA DE CAMPEONES 12 ᴴᴰ", "GO: M+ LALIGA DE CAMPEONES 12 ᴿᴬᵂ"]
   },
   "M+ Liga de Campeones 13": {
     "ids": ["mligadecampeones13.es", "MPlusLigadeCampeones13.es"],
-    "display-name": "mligadecampeones13.es"
+    "display-name": ["ES: M. LIGA DE CAMPEONES 13 ᴴᴰ ⁽ᴮᴷ⁾", "ES: M. LIGA DE CAMPEONES 13 ᴿᴬᵂ ⁽ᴮᴷ⁾", "ES: M. LIGA DE CAMPEONES 13 ᴴᴰ", "GO: M+ LALIGA DE CAMPEONES 13 ᴿᴬᵂ"]
   },
   
   "Caza y Pesca HD": {
@@ -434,7 +434,7 @@
 
   "M+ En juego": {
     "ids": ["M+ En juego"],
-    "display-name": ["GO: M+ DEMI MOORE ᴿᴬᵂ"]
+    "display-name": ["GO: M+ DEMI MOORE ᴿᴬᵂ", "ES: MOVISTAR POPUP 2 ᴴᴰ", "ES: MOVISTAR POPUP 2 SD", "ES: MOVISTAR POPUP 2 ᵁᴴᴰ"]
   },
   "M+ Estrenos HD": {
     "ids": ["movistarestrenos.es", "movistarestrenos2.es", "movistardcine.es", "MovistarCine.es"],
@@ -482,7 +482,7 @@
   },
   "Sundance TV": {
     "ids": ["sundance.es", "sundancetv.es", "SundanceTV.es"],
-    "display-name": ["PRIME: SUNDANCE TV ᴿᴬᵂ", "ES: SUNDANCE TV ᴴᴰ"]
+    "display-name": ["PRIME: SUNDANCE TV ᴿᴬᵂ", "ES: SUNDANCE TV ᴴᴰ", "ES: SUNDANCE TV SD"]
   },
   "DARK": {
     "ids": ["dark.es", "Dark.es"],
@@ -524,6 +524,14 @@
   "El Toro TV": {
     "ids": ["eltorotv.es"],
     "display-name": ["ES: ELTORO TV ᴴᴰ", "ES: EL TORO TV ᴴᴰ"]
+  },
+  "Torolé TV": {
+    "ids": ["Torolé TV"],
+    "display-name": ["ES: TOROLE ᴴᴰ", "ES: TOROLE SD", "ES: TOROLE ᵁᴴᴰ"]
+  },
+  "Onetoro": {
+    "ids": ["onetoro.es"],
+    "display-name": ["ES: ONETORO ᴴᴰ", "ES: ONETORO SD", "ES: ONETORO ᵁᴴᴰ"]
   },
   "Negocios TV": {
     "ids": ["negociostv.es"],
