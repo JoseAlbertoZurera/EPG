@@ -229,6 +229,10 @@
     "ids": ["Motorvision"],
     "display-name": ["TY: MOTORVISION TV ᴿᴬᵂ"]
   },
+  "Garage TV": {
+    "ids": ["garagetv.es"],
+    "display-name": ["Garage TV"]
+  },
   "Real Madrid TV": {
     "ids": ["realmadridtv.es", "RealMadridTV.es"],
     "display-name": ["ES: REAL MADRID TV ᴴᴰ"]
@@ -236,6 +240,14 @@
   "Red Bull TV": {
     "ids": ["Red Bull TV"],
     "display-name": ["PRIME: RED BULL TV ᴿᴬᵂ", "TY: RED BULL TV ᴿᴬᵂ"]
+  },
+  "Betis TV": {
+    "ids": ["Betis TV"],
+    "display-name": ["ES: BETIS TV ᴴᴰ"]
+  },
+  "Betevé": {
+    "ids": ["Betevé"],
+    "display-name": ["ES: BETEVÉ ᴴᴰ"]
   },
 
   "DAZN LaLiga HD": {
@@ -490,7 +502,7 @@
   },
   "Warner TV HD": {
     "ids": ["Warner TV"],
-    "display-name": ["VO: TNT ᴿᴬᵂ", "VO: TNT ᴴᴰ", "GO: WARNER TV ᴿᴬᵂ", "M+: WARNER TV ᴿᴬᵂ", "ES: WARNER TV SD", "ES: WARNER TV ᵁᴴᴰ"]
+    "display-name": ["VO: TNT ᴿᴬᵂ", "VO: TNT ᴴᴰ", "GO: WARNER TV ᴿᴬᵂ", "M+: WARNER TV ᴿᴬᵂ", "ES: WARNER TV SD", "ES: WARNER TV ᴴᴰ", "ES: WARNER TV ᵁᴴᴰ"]
   },
   "AMC HD": {
     "ids": ["amc.es", "AMC.es"],
@@ -565,7 +577,7 @@
     "ids": ["CGTN Español"],
     "display-name": ["TY: CGTN ESPAÑOL ᴿᴬᵂ", "GO: CGTN ESPAÑOL ᴿᴬᵂ"]
   },
-
+  
   "Nickelodeon HD": {
     "ids": ["nickelodeon.es", "Nickelodeon.es"],
     "display-name": ["ES: NICKELODEON ᴴᴰ"]
@@ -673,7 +685,7 @@
   },
   "La 7 Murcia": {
     "ids": ["La 7 Murcia"],
-    "display-name": ["ES: 7RM ᴴᴰ", "ES: 7RM SD", "ES: 7RM ᵁᴴᴰ"]
+    "display-name": ["GO: 7 TV REGIÓN MURCIA ᴿᴬᵂ", "ES: 7RM ᴴᴰ", "ES: 7RM SD", "ES: 7RM ᵁᴴᴰ"]
   },
   "PTV Córdoba": {
     "ids": ["PTV Córdoba"],
@@ -795,8 +807,8 @@
     "ids": ["Cine Español (Rakuten TV)"],
     "display-name": ["ES: RAKUTEN TV CINE ESPANOL ᴿᴬᵂ"]
   },
-  "Todo Crimen (Rakuten TV)": {
-    "ids": ["Todo Crimen (Rakuten TV)"],
+  "Crimen (Rakuten TV)": {
+    "ids": ["Crimen (Rakuten TV)"],
     "display-name": ["ES: RAKUTEN TV CRIME SERIES ᴿᴬᵂ"]
   },
   "Dramas (Rakuten TV)": {
@@ -839,5 +851,42 @@
   "Mezzo Live HD": {
     "ids": ["Mezzo Live"],
     "display-name": ["PRIME: MEZZO LIVE ᴿᴬᵂ", "GO: MEZZO LIVE ᴿᴬᵂ", "ES: MEZZO LIVE SD", "ES: MEZZO LIVE ᵁᴴᴰ"]
+  },
+  "Classica HD": {
+    "ids": ["classica.es"],
+    "display-name": ["Classica"]
+  },
+
+  "NFL Network": {
+    "ids": ["NFL Network"],
+    "display-name": ["PRIME: NFL NETWORK ᴿᴬᵂ"]
+  },
+  "CNN International Europe": {
+    "ids": ["CNN International Europe"],
+    "display-name": ["PRIME: CNN ᴿᴬᵂ", "GO: CNN INT ᴿᴬᵂ"]
+  },
+  "1+1 International": {
+    "ids": ["1+1 International"],
+    "display-name": ["GO: 1+1 INTERNACIONAL ᴿᴬᵂ"]
+  },
+  "BBC World News Europe HD": {
+    "ids": ["BBC World News Europe"],
+    "display-name": ["GO: BBC WORLD ᴿᴬᵂ"]
+  },
+  "Bloomberg TV Europe": {
+    "ids": ["BloombergEn.ae"],
+    "display-name": ["GO: BLOOMBERG ᴿᴬᵂ"]
+  },
+  "CNBC Europe HD": {
+    "ids": ["CNBC Europe"],
+    "display-name": ["GO: CNBC ᴿᴬᵂ"]
+  },
+  "EuroNews": {
+    "ids": ["EuroNews"],
+    "display-name": ["PRIME: EURONEWS ᴿᴬᵂ", "TY: EURONEWS ᴿᴬᵂ", "GO: EURO NEWS ᴿᴬᵂ"]
+  },
+  "FR | FRANCE 24": {
+    "ids": ["FR | FRANCE 24"],
+    "display-name": ["GO: FRANCE24 (FR) ᴿᴬᵂ", "ES: FRANCE 24 ES ᵁᴴᴰ"]
   }
 }
