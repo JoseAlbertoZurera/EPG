@@ -122,7 +122,7 @@
   },
   "AMC Break": {
     "ids": ["amcbreak.es", "AMCBreak.es"],
-    "display-name": ["PRIME: AMC BREAK ᴿᴬᵂ", "VO: BLAZE ᴴᴰ"]
+    "display-name": ["PRIME: AMC BREAK ᴿᴬᵂ", "VO: BLAZE ᴴᴰ", "ES: BLAZE ᴴᴰ"]
   },
   "BBC Series": {
     "ids": ["BBC Series"],
@@ -249,6 +249,14 @@
     "ids": ["Betevé"],
     "display-name": ["ES: BETEVÉ ᴴᴰ"]
   },
+  "Fight Time": {
+    "ids": ["Fight Time"],
+    "display-name": ["GO: FIGHT TIME ᴿᴬᵂ", "M+: FIGHT TIME ᴿᴬᵂ"]
+  },
+  "Nautical Channel": {
+    "ids": ["Nautical Channel"],
+    "display-name": ["M+: NAUTICA ᴿᴬᵂ"]
+  },
 
   "DAZN LaLiga HD": {
     "ids": ["daznlaliga.es", "DaznLaLiga.es"],
@@ -289,15 +297,15 @@
 
   "LaLiga TV Hypermotion HD": {
     "ids": ["mlaligahypermotion.es"],
-    "display-name": ["PRIME: LALIGA HYPERMOTION TV ᴿᴬᵂ", "ES: LALIGA TV HYPERMOTION ᴴᴰ", "ES: LALIGA TV HYPERMOTION SD", "ES: LALIGA TV HYPERMOTION ᵁᴴᴰ"]
+    "display-name": ["PRIME: LALIGA HYPERMOTION TV ᴿᴬᵂ", "ES: LALIGA TV HYPERMOTION ᴴᴰ", "ES: LALIGA TV HYPERMOTION SD", "ES: LALIGA TV HYPERMOTION ᵁᴴᴰ", "GO: LIGA SMARTBANK 1 ᴿᴬᵂ"]
   },
   "LaLiga TV Hypermotion 2": {
     "ids": ["mlaligahypermotion2.es"],
-    "display-name": ["PRIME: LALIGA HYPERMOTION TV 2 ᴿᴬᵂ", "ES: LALIGA TV HYPERMOTION 2 ᴴᴰ", "ES: LALIGA TV HYPERMOTION 2 SD", "ES: LALIGA TV HYPERMOTION 2 ᵁᴴᴰ"]
+    "display-name": ["PRIME: LALIGA HYPERMOTION TV 2 ᴿᴬᵂ", "ES: LALIGA TV HYPERMOTION 2 ᴴᴰ", "ES: LALIGA TV HYPERMOTION 2 SD", "ES: LALIGA TV HYPERMOTION 2 ᵁᴴᴰ", "GO: LIGA SMARTBANK 2 ᴿᴬᵂ"]
   },
   "LaLiga TV Hypermotion 3": {
     "ids": ["mlaligahypermotion3.es"],
-    "display-name": ["PRIME: LALIGA HYPERMOTION TV 3 ᴿᴬᵂ", "ES: LALIGA TV HYPERMOTION 3 ᴴᴰ", "ES: LALIGA TV HYPERMOTION 3 SD", "ES: LALIGA TV HYPERMOTION 3 ᵁᴴᴰ"]
+    "display-name": ["PRIME: LALIGA HYPERMOTION TV 3 ᴿᴬᵂ", "ES: LALIGA TV HYPERMOTION 3 ᴴᴰ", "ES: LALIGA TV HYPERMOTION 3 SD", "ES: LALIGA TV HYPERMOTION 3 ᵁᴴᴰ", "GO: LIGA SMARTBANK 3 ᴿᴬᵂ"]
   },
 
   "M+ Deportes HD": {
@@ -401,6 +409,23 @@
     "ids": ["mligadecampeones18.es", "MPlusLigadeCampeones18.es"],
     "display-name": ["ES: M. LIGA DE CAMPEONES 18 ᴴᴰ ⁽ᴮᴷ⁾", "ES: M. LIGA DE CAMPEONES 18 ᴿᴬᵂ ⁽ᴮᴷ⁾"]
   },
+
+  "ESPN": {
+    "ids": ["espn.co"],
+    "display-name": ["ESPN"]
+  },
+  "ESPN 2": {
+    "ids": ["espn2.co"],
+    "display-name": ["ESPN 2"]
+  },
+  "ESPN 3": {
+    "ids": ["espn3.co"],
+    "display-name": ["ESPN 3"]
+  },
+  "ESPN 4": {
+    "ids": ["espn4.co"],
+    "display-name": ["ESPN 4"]
+  },
   
   "Caza y Pesca HD": {
     "ids": ["cazapesca.es", "CazaPesca.es"],
@@ -466,7 +491,7 @@
   },
   "M+ En juego": {
     "ids": ["M+ En juego"],
-    "display-name": ["GO: M+ DEMI MOORE ᴿᴬᵂ", "ES: MOVISTAR POPUP 2 ᴴᴰ", "ES: MOVISTAR POPUP 2 SD", "ES: MOVISTAR POPUP 2 ᵁᴴᴰ"]
+    "display-name": ["GO: M+ DEMI MOORE ᴿᴬᵂ", "ES: MOVISTAR EN JUEGO ᴴᴰ", "ES: MOVISTAR EN JUEGO SD", "ES: MOVISTAR EN JUEGO ᵁᴴᴰ"]
   },
   "M+ Estrenos HD": {
     "ids": ["movistarestrenos.es", "movistarestrenos2.es", "movistardcine.es", "MovistarCine.es"],
@@ -552,9 +577,17 @@
     "ids": ["Cines Verdi TV"],
     "display-name": ["TY: CINES VERDI TV ᴿᴬᵂ"]
   },
+  "Canal FlixOlé 1": {
+    "ids": ["Canal FlixOlé 1"],
+    "display-name": ["ES: CANAL FLIXOLé 1 ᴴᴰ", "ES: CANAL FLIXOLé 1 SD", "ES: CANAL FLIXOLé 1 ᵁᴴᴰ"]
+  },
+  "Canal FlixOlé 2": {
+    "ids": ["Canal FlixOlé 2"],
+    "display-name": ["ES: CANAL FLIXOLé 2 ᴴᴰ", "ES: CANAL FLIXOLé 2 SD", "ES: CANAL FLIXOLé 2 ᵁᴴᴰ"]
+  },
 
   "El Toro TV": {
-    "ids": ["eltorotv.es"],
+    "ids": ["eltorotv.es", "toros.es"],
     "display-name": ["ES: ELTORO TV ᴴᴰ", "ES: EL TORO TV ᴴᴰ"]
   },
   "Torolé TV": {
@@ -576,6 +609,14 @@
   "CGTN Español": {
     "ids": ["CGTN Español"],
     "display-name": ["TY: CGTN ESPAÑOL ᴿᴬᵂ", "GO: CGTN ESPAÑOL ᴿᴬᵂ"]
+  },
+  "Vivir con gatos": {
+    "ids": ["Vivir con gatos"],
+    "display-name": ["TY: VIVIR CON GATOS ᴿᴬᵂ"]
+  },
+  "Vivir con perros": {
+    "ids": ["Vivir con gatos"],
+    "display-name": ["TY: VIVIR CON PERROS ᴿᴬᵂ"]
   },
   
   "Nickelodeon HD": {
@@ -698,6 +739,10 @@
   "CMM TV": {
     "ids": ["CMM TV"],
     "display-name": ["M+: CMM TV ᴿᴬᵂ", "ES: CMM ᴴᴰ", "ES: CMM SD", "ES: CMM ᵁᴴᴰ"]
+  },
+  "Cubavisión Internacional HD": {
+    "ids": ["Cubavisión Internacional HD"],
+    "display-name": ["ES: CUBAVISION SD"]
   },
 
   "Clásicos atresplayer": {
@@ -855,6 +900,14 @@
   "Classica HD": {
     "ids": ["classica.es"],
     "display-name": ["Classica"]
+  },
+  "HIT TV": {
+    "ids": ["HIT TV"],
+    "display-name": ["M+: HIT TV  ᴿᴬᵂ"]
+  },
+  "Sol Música": {
+    "ids": ["Sol Música"],
+    "display-name": ["M+: SOL MUSICA ᴿᴬᵂ"]
   },
 
   "NFL Network": {
