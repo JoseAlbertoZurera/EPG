@@ -308,6 +308,19 @@
     "display-name": ["PRIME: LALIGA HYPERMOTION TV 3 ᴿᴬᵂ", "ES: LALIGA TV HYPERMOTION 3 ᴴᴰ", "ES: LALIGA TV HYPERMOTION 3 SD", "ES: LALIGA TV HYPERMOTION 3 ᵁᴴᴰ", "GO: LIGA SMARTBANK 3 ᴿᴬᵂ"]
   },
 
+  "DAZN Baloncesto": {
+    "ids": ["DAZN Baloncesto"],
+    "display-name": ["ES: DAZN BALONCESTO 1 ᴿᴬᵂ"]
+  },
+  "DAZN Baloncesto 2": {
+    "ids": ["DAZN Baloncesto 2"],
+    "display-name": ["ES: DAZN BALONCESTO 2 ᴿᴬᵂ"]
+  },
+  "DAZN Baloncesto 3": {
+    "ids": ["DAZN Baloncesto 3"],
+    "display-name": ["ES: DAZN BALONCESTO 3 ᴿᴬᵂ"]
+  },
+
   "M+ Deportes HD": {
     "ids": ["movistardeportes.es", "mdeportes1.es", "MovistarDeportes1.es"],
     "display-name": ["ES: MOVISTAR DEPORTES ᵁᴴᴰ", "ES: MOVISTAR DEPORTES ʰᵉᵛᶜ"]
@@ -423,7 +436,7 @@
     "display-name": ["ESPN 3"]
   },
   "ESPN 4": {
-    "ids": ["espn4.co"],
+    "ids": ["ESPN4.co"],
     "display-name": ["ESPN 4"]
   },
   
@@ -615,7 +628,7 @@
     "display-name": ["TY: VIVIR CON GATOS ᴿᴬᵂ"]
   },
   "Vivir con perros": {
-    "ids": ["Vivir con gatos"],
+    "ids": ["Vivir con perros"],
     "display-name": ["TY: VIVIR CON PERROS ᴿᴬᵂ"]
   },
   
