@@ -288,7 +288,11 @@
   },
   "M+ LaLiga 4": {
     "ids": ["mlaliga4.es", "MLaLiga4.es"],
-    "display-name": ["GO: M+ LALIGA TV 4 ᴿᴬᵂ"]
+    "display-name": ["GO: M+ LALIGA TV 4 ᴿᴬᵂ", "M+: M. LALIGA 4 ᴿᴬᵂ", "M+: M. LALIGA 4 ᴴᴰ", "M+: M. LALIGA 4 SD"]
+  },
+  "M+ LaLiga 5": {
+    "ids": ["mlaliga5.es", "MLaLiga5.es"],
+    "display-name": ["M+: M. LALIGA 5 ᴿᴬᵂ", "M+: M. LALIGA 5 ᴴᴰ", "M+: M. LALIGA 5 SD"]
   },
   "LALIGA Inside": {
     "ids": ["LALIGA Inside"],
@@ -507,8 +511,8 @@
     "display-name": ["GO: M+ DEMI MOORE ᴿᴬᵂ", "ES: MOVISTAR EN JUEGO ᴴᴰ", "ES: MOVISTAR EN JUEGO SD", "ES: MOVISTAR EN JUEGO ᵁᴴᴰ"]
   },
   "M+ Estrenos HD": {
-    "ids": ["movistarestrenos.es", "movistarestrenos2.es", "movistardcine.es", "MovistarCine.es"],
-    "display-name": ["M+ Estrenos"]
+    "ids": ["movistarestrenos.es", "movistarestrenos2.es", "MovistarCine.es"],
+    "display-name": ["M+: M.CINE ᴿᴬᵂ", "M+: M.CINE ᴴᴰ"]
   },
   "M+ Acción HD": {
     "ids": ["movistaraccion.es", "MovistarAccion.es"],
@@ -524,7 +528,7 @@
   },
   "M+ Cine Español": {
     "ids": ["MovistarCineEspanol.es"],
-    "display-name": ["M+ Cine Español"]
+    "display-name": ["M+: M.CINE Ñ ᴿᴬᵂ", "GO: M+ CINE ESPANOL ᴿᴬᵂ"]
   },
   "M+ Clásicos HD": {
     "ids": ["movistarclasicos.es", "MovistarClasicos.es"],
