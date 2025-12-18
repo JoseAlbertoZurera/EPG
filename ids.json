@@ -260,7 +260,7 @@
 
   "DAZN LaLiga HD": {
     "ids": ["daznlaliga.es", "DaznLaLiga.es"],
-    "display-name": ["ES: DAZN LA LIGA ᴴᴰ", "ES: DAZN LA LIGA SD", "ES: DAZN LA LIGA ᵁᴴᴰ", "ES: DAZN LA LIGA ʰᵉᵛᶜ", "VO: MOVISTAR ORANGE ᴴᴰ"]
+    "display-name": ["ES: DAZN LA LIGA ᴴᴰ", "ES: DAZN LA LIGA SD", "ES: DAZN LA LIGA ᵁᴴᴰ", "ES: DAZN LA LIGA ʰᵉᵛᶜ", "VO: MOVISTAR ORANGE ᴴᴰ", "GO: DAZN LA LIGA 1 ᴿᴬᵂ"]
   },
   "DAZN LaLiga 2 HD": {
     "ids": ["daznlaliga2.es", "DaznLaLiga2.es"],
@@ -408,23 +408,27 @@
   },
   "M+ Liga de Campeones 14": {
     "ids": ["mligadecampeones14.es", "MPlusLigadeCampeones14.es"],
-    "display-name": ["ES: M. LIGA DE CAMPEONES 14 ᴴᴰ ⁽ᴮᴷ⁾", "ES: M. LIGA DE CAMPEONES 14 ᴿᴬᵂ ⁽ᴮᴷ⁾"]
+    "display-name": ["ES: M. LIGA DE CAMPEONES 14 ᴴᴰ ⁽ᴮᴷ⁾", "ES: M. LIGA DE CAMPEONES 14 ᴿᴬᵂ ⁽ᴮᴷ⁾", "ES: M. LIGA DE CAMPEONES 14 ᴴᴰ"]
   },
   "M+ Liga de Campeones 15": {
     "ids": ["mligadecampeones15.es", "MPlusLigadeCampeones15.es"],
-    "display-name": ["ES: M. LIGA DE CAMPEONES 15 ᴴᴰ ⁽ᴮᴷ⁾", "ES: M. LIGA DE CAMPEONES 15 ᴿᴬᵂ ⁽ᴮᴷ⁾"]
+    "display-name": ["ES: M. LIGA DE CAMPEONES 15 ᴴᴰ ⁽ᴮᴷ⁾", "ES: M. LIGA DE CAMPEONES 15 ᴿᴬᵂ ⁽ᴮᴷ⁾", "ES: M. LIGA DE CAMPEONES 15 ᴴᴰ"]
   },
   "M+ Liga de Campeones 16": {
     "ids": ["mligadecampeones16.es", "MPlusLigadeCampeones16.es"],
-    "display-name": ["ES: M. LIGA DE CAMPEONES 16 ᴴᴰ ⁽ᴮᴷ⁾", "ES: M. LIGA DE CAMPEONES 16 ᴿᴬᵂ ⁽ᴮᴷ⁾"]
+    "display-name": ["ES: M. LIGA DE CAMPEONES 16 ᴴᴰ ⁽ᴮᴷ⁾", "ES: M. LIGA DE CAMPEONES 16 ᴿᴬᵂ ⁽ᴮᴷ⁾", "ES: M. LIGA DE CAMPEONES 16 ᴴᴰ"]
   },
   "M+ Liga de Campeones 17": {
     "ids": ["mligadecampeones17.es", "MPlusLigadeCampeones17.es"],
-    "display-name": ["ES: M. LIGA DE CAMPEONES 17 ᴴᴰ ⁽ᴮᴷ⁾", "ES: M. LIGA DE CAMPEONES 17 ᴿᴬᵂ ⁽ᴮᴷ⁾"]
+    "display-name": ["ES: M. LIGA DE CAMPEONES 17 ᴴᴰ ⁽ᴮᴷ⁾", "ES: M. LIGA DE CAMPEONES 17 ᴿᴬᵂ ⁽ᴮᴷ⁾", "ES: M. LIGA DE CAMPEONES 17 ᴴᴰ"]
   },
   "M+ Liga de Campeones 18": {
     "ids": ["mligadecampeones18.es", "MPlusLigadeCampeones18.es"],
-    "display-name": ["ES: M. LIGA DE CAMPEONES 18 ᴴᴰ ⁽ᴮᴷ⁾", "ES: M. LIGA DE CAMPEONES 18 ᴿᴬᵂ ⁽ᴮᴷ⁾"]
+    "display-name": ["ES: M. LIGA DE CAMPEONES 18 ᴴᴰ ⁽ᴮᴷ⁾", "ES: M. LIGA DE CAMPEONES 18 ᴿᴬᵂ ⁽ᴮᴷ⁾", "ES: M. LIGA DE CAMPEONES 18 ᴴᴰ"]
+  },
+  "M+ Liga de Campeones 19": {
+    "ids": ["mligadecampeones19.es", "MPlusLigadeCampeones19.es"],
+    "display-name": ["ES: M. LIGA DE CAMPEONES 19 ᴴᴰ ⁽ᴮᴷ⁾", "ES: M. LIGA DE CAMPEONES 19 ᴿᴬᵂ ⁽ᴮᴷ⁾", "ES: M. LIGA DE CAMPEONES 19 ᴴᴰ"]
   },
 
   "ESPN": {
