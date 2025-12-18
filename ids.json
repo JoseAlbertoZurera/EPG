@@ -74,7 +74,7 @@
 
   "Movistar Plus+ HD": {
     "ids": ["movistarplus.es", "Movistarplus.es", "ES: MOVISTAR PLUS+ ᴴᴰ", "840100"],
-    "display-name": ["ES: MOVISTAR PLUS+ ᴴᴰ", "ES: MOVISTAR PLUS+ SD", "ES: MOVISTAR PLUS+ ᵁᴴᴰ"]
+    "display-name": ["ES: MOVISTAR PLUS+ ᴴᴰ", "ES: MOVISTAR PLUS+ SD", "ES: MOVISTAR PLUS+ ᵁᴴᴰ", "GO: MOVISTAR PLUS+ 2 ᴿᴬᵂ"]
   },
   "GOL": {
     "ids": ["gol.es", "Gol.es"],
@@ -195,7 +195,7 @@
   },
   "Primera Federación": {
     "ids": ["Primera Federación"],
-    "display-name": ["ES: 1° FEDERACION ᴴᴰ", "ES: 1° FEDERACION SD", "ES: 1° FEDERACION ᴿᴬᵂ (MOVISTAR+)", "ES: 1° FEDERACION ᴿᴬᵂ (LALIGA+)", "GO: M+ COPA DEL REY ᴿᴬᵂ"]
+    "display-name": ["ES: 1° FEDERACION ᴴᴰ", "ES: 1° FEDERACION SD", "ES: 1° FEDERACION ᴿᴬᵂ (MOVISTAR+)", "ES: 1° FEDERACION ᴿᴬᵂ (LALIGA+)", "GO: M+ COPA DEL REY ᴿᴬᵂ", "ES: COPA DEL REY SD (BK1)", "ES: COPA DEL REY HD (BK1)", "ES: COPA DEL REY 4K (BK1)"]
   },
   "M+ Vamos HD": {
     "ids": ["vamos.es", "Vamos.es"],
@@ -431,21 +431,17 @@
     "display-name": ["ES: M. LIGA DE CAMPEONES 19 ᴴᴰ ⁽ᴮᴷ⁾", "ES: M. LIGA DE CAMPEONES 19 ᴿᴬᵂ ⁽ᴮᴷ⁾", "ES: M. LIGA DE CAMPEONES 19 ᴴᴰ"]
   },
 
-  "ESPN": {
-    "ids": ["espn.co"],
-    "display-name": ["ESPN"]
+  "FOX SPORTS": {
+    "ids": ["FOX SPORTS"],
+    "display-name": ["GO: FOX SPORTS 1"]
   },
-  "ESPN 2": {
-    "ids": ["espn2.co"],
-    "display-name": ["ESPN 2"]
+  "FOX SPORTS 2": {
+    "ids": ["FOX SPORTS 2"],
+    "display-name": ["GO: FOX SPORTS 2"]
   },
-  "ESPN 3": {
-    "ids": ["espn3.co"],
-    "display-name": ["ESPN 3"]
-  },
-  "ESPN 4": {
-    "ids": ["ESPN4.co"],
-    "display-name": ["ESPN 4"]
+  "FOX SPORTS 3": {
+    "ids": ["FOX SPORTS 3"],
+    "display-name": ["GO: FOX SPORTS 3"]
   },
   
   "Caza y Pesca HD": {
@@ -697,6 +693,10 @@
     "ids": ["Esport3.es"],
     "display-name": ["Esport 3"]
   },
+  "À Punt": {
+    "ids": ["À Punt"],
+    "display-name": ["GO: À PUNT ᴿᴬᵂ", "M+: A PUNT ᴿᴬᵂ"]
+  },
   "ETB1": {
     "ids": ["etb1.es"],
     "display-name": ["M+: ETB 1 ᴿᴬᵂ", "ES: ETB 1 ᴴᴰ"]
@@ -761,9 +761,17 @@
     "ids": ["CMM TV"],
     "display-name": ["M+: CMM TV ᴿᴬᵂ", "ES: CMM ᴴᴰ", "ES: CMM SD", "ES: CMM ᵁᴴᴰ"]
   },
-  "Cubavisión Internacional HD": {
-    "ids": ["Cubavisión Internacional HD"],
-    "display-name": ["ES: CUBAVISION SD"]
+  "IB3 TV Illes Balears": {
+    "ids": ["IB3 TV Illes Balears"],
+    "display-name": ["GO: IB 3 ᴿᴬᵂ", "ES: IB3 GLOBAL ᴴᴰ"]
+  },
+  "Navarra TV": {
+    "ids": ["Navarra TV"],
+    "display-name": ["GO: NAVARRA TV ᴿᴬᵂ"]
+  },
+  "TV Canaria": {
+    "ids": ["tvcanaria.es"],
+    "display-name": ["ES: TV CANARIA ᴴᴰ"]
   },
 
   "Clásicos atresplayer": {
@@ -945,7 +953,7 @@
   },
   "BBC World News Europe HD": {
     "ids": ["BBC World News Europe"],
-    "display-name": ["GO: BBC WORLD ᴿᴬᵂ"]
+    "display-name": ["GO: BBC WORLD ᴿᴬᵂ", "ES: BBC NEWS ᴴᴰ"]
   },
   "Bloomberg TV Europe": {
     "ids": ["BloombergEn.ae"],
@@ -959,8 +967,20 @@
     "ids": ["EuroNews"],
     "display-name": ["PRIME: EURONEWS ᴿᴬᵂ", "TY: EURONEWS ᴿᴬᵂ", "GO: EURO NEWS ᴿᴬᵂ"]
   },
+  "Cubavisión Internacional HD": {
+    "ids": ["Cubavisión Internacional HD"],
+    "display-name": ["ES: CUBAVISION SD"]
+  },
   "FR | FRANCE 24": {
     "ids": ["FR | FRANCE 24"],
     "display-name": ["GO: FRANCE24 (FR) ᴿᴬᵂ", "ES: FRANCE 24 ES ᵁᴴᴰ"]
+  },
+  "TV5 Monde Europe HD": {
+    "ids": ["TV5 Monde Europe HD"],
+    "display-name": ["GO: TV5 MONDE ᴿᴬᵂ"]
+  },
+  "Al Jazeera English HD": {
+    "ids": ["Al Jazeera English HD"],
+    "display-name": ["GO: AL JAZEERA ENGLISH"]
   }
 }
