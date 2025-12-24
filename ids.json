@@ -164,6 +164,10 @@
     "ids": ["canalcocina.es", "CanalCocina.es"],
     "display-name": ["PRIME: CANAL COCINA ᴿᴬᵂ", "4K: COCINA ᵁᴴᴰ ³⁸⁴⁰ᴾ"]
   },
+  "Escapa TV": {
+    "ids": ["Escapa TV"],
+    "display-name": ["ES: ESCAPA TV ᴴᴰ"]
+  },
 
   "DAZN F1 HD": {
     "ids": ["daznf1.es", "DAZNF1.es", "daznf14k.es"],
@@ -268,7 +272,7 @@
   },
   "M+ LaLiga HDR": {
     "ids": ["mlaligauhd.es"],
-    "display-name": ["ES: MOVISTAR LALIGA ᵁᴴᴰ ³⁸⁴⁰ᴾ"]
+    "display-name": ["ES: MOVISTAR LALIGA ᵁᴴᴰ ³⁸⁴⁰ᴾ", "4K: M+ LALIGA TV ᵁᴴᴰ ³⁸⁴⁰ᴾ"]
   },
   "M+ LaLiga 2 HDR": {
     "ids": ["mlaligauhd2.es"],
@@ -506,8 +510,8 @@
     "ids": ["M+ Navidad"],
     "display-name": ["GO: M+ LOS GOYA ᴿᴬᵂ"]
   },
-  "M+ En juego": {
-    "ids": ["M+ En juego"],
+  "M+ BBC Earth": {
+    "ids": ["M+ BBC Earth"],
     "display-name": ["GO: M+ DEMI MOORE ᴿᴬᵂ", "ES: MOVISTAR EN JUEGO ᴴᴰ", "ES: MOVISTAR EN JUEGO SD", "ES: MOVISTAR EN JUEGO ᵁᴴᴰ"]
   },
   "M+ Estrenos HD": {
