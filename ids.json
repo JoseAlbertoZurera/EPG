@@ -168,6 +168,10 @@
     "ids": ["Escapa TV"],
     "display-name": ["ES: ESCAPA TV ᴴᴰ"]
   },
+  "Canal de las Estrellas": {
+    "ids": ["Canal de las Estrellas"],
+    "display-name": ["M+: CANAL ESTRELLAS ᴿᴬᵂ"]
+  },
 
   "DAZN F1 HD": {
     "ids": ["daznf1.es", "DAZNF1.es", "daznf14k.es"],
@@ -260,6 +264,10 @@
   "Nautical Channel": {
     "ids": ["Nautical Channel"],
     "display-name": ["M+: NAUTICA ᴿᴬᵂ"]
+  },
+  "Moto ADV": {
+    "ids": ["Moto ADV"],
+    "display-name": ["M+: MOTO ADV ᴿᴬᵂ"]
   },
 
   "DAZN LaLiga HD": {
@@ -674,12 +682,20 @@
     "display-name": ["ES: CANAL SUR ᴴᴰ"]
   },
   "Canal Sur Andalucía": {
-    "ids": ["canalsurandalucia.es", "CanalAndalucia.es", "1683714"],
+    "ids": ["canalsurandalucia.es", "CanalAndalucia.es"],
+    "display-name": ["Canal Sur Andalucía"]
+  },
+  "Andalucía TV": {
+    "ids": ["Andalucía TV"],
     "display-name": ["M+: CANAL SUR ANDALUCIA ᴿᴬᵂ"]
   },
   "Telemadrid": {
     "ids": ["telemadrid.es", "TeleMadrid.es"],
     "display-name": "ES: TELE MADRID ᴴᴰ"
+  },
+  "Telemadrid Internacional": {
+    "ids": ["Telemadrid Internacional"],
+    "display-name": "ES: TELE MADRID INTERNACIONAL ᴴᴰ"
   },
   "La Otra": {
     "ids": ["laotra.es", "LaOtra.es"],
@@ -692,6 +708,10 @@
   "TV3 Catalunya": {
     "ids": ["tv3cat.es", "TV3Catalunya.es"],
     "display-name": ["M+: TV3 ᴿᴬᵂ", "ES: TV3 CAT ᴴᴰ"]
+  },
+  "3CatInfo": {
+    "ids": ["3CatInfo"],
+    "display-name": ["M+: 3 24 ᴿᴬᵂ"]
   },
   "Esport 3": {
     "ids": ["Esport3.es"],
@@ -776,6 +796,22 @@
   "TV Canaria": {
     "ids": ["tvcanaria.es"],
     "display-name": ["ES: TV CANARIA ᴴᴰ"]
+  },
+  "TPA7 Asturias": {
+    "ids": ["TPA7 Asturias"],
+    "display-name": ["M+: TPA 7 ᴿᴬᵂ", "ES: TPA 7 ᴴᴰ"]
+  },
+  "TPA8 Asturias": {
+    "ids": ["TPA8 Asturias"],
+    "display-name": ["M+: TPA 8 ᴿᴬᵂ", "ES: TPA 8 ᴴᴰ"]
+  },
+  "Star TVE HD": {
+    "ids": ["Star TVE HD"],
+    "display-name": ["ES: TVE INT ᴴᴰ"]
+  },
+  "El 9 TV": {
+    "ids": ["El 9 TV"],
+    "display-name": ["M+: EL 9 ᴿᴬᵂ"]
   },
 
   "Clásicos atresplayer": {
