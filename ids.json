@@ -514,12 +514,12 @@
     "display-name": ["PRIME: �BUEN VIAJE! ᴿᴬᵂ", "M+: BUEN VIAJE ᴿᴬᵂ", "ES: BUENVIAJE ᴴᴰ", "ES: BUENVIAJE SD", "ES: BUENVIAJE ᵁᴴᴰ"]
   },
 
-  "M+ Navidad": {
-    "ids": ["M+ Navidad"],
+  "M+ Tierra Media": {
+    "ids": ["M+ Tierra Media"],
     "display-name": ["GO: M+ LOS GOYA ᴿᴬᵂ"]
   },
-  "M+ BBC Earth": {
-    "ids": ["M+ BBC Earth"],
+  "M+ Cine bélico": {
+    "ids": ["M+ Cine bélico"],
     "display-name": ["GO: M+ DEMI MOORE ᴿᴬᵂ", "ES: MOVISTAR EN JUEGO ᴴᴰ", "ES: MOVISTAR EN JUEGO SD", "ES: MOVISTAR EN JUEGO ᵁᴴᴰ"]
   },
   "M+ Estrenos HD": {
