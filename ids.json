@@ -514,8 +514,8 @@
     "display-name": ["PRIME: �BUEN VIAJE! ᴿᴬᵂ", "M+: BUEN VIAJE ᴿᴬᵂ", "ES: BUENVIAJE ᴴᴰ", "ES: BUENVIAJE SD", "ES: BUENVIAJE ᵁᴴᴰ"]
   },
 
-  "M+ Tierra Media": {
-    "ids": ["M+ Tierra Media"],
+  "M+ Los Goya": {
+    "ids": ["M+ Los Goya"],
     "display-name": ["GO: M+ LOS GOYA ᴿᴬᵂ"]
   },
   "M+ Cine bélico": {
@@ -613,6 +613,10 @@
   "Canal FlixOlé 2": {
     "ids": ["Canal FlixOlé 2"],
     "display-name": ["ES: CANAL FLIXOLé 2 ᴴᴰ", "ES: CANAL FLIXOLé 2 SD", "ES: CANAL FLIXOLé 2 ᵁᴴᴰ"]
+  },
+  "acontra+": {
+    "ids": ["acontra+"],
+    "display-name": ["PRIME: ACONTRA+ CINE ᴿᴬ"]
   },
 
   "El Toro TV": {
