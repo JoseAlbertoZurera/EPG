@@ -86,7 +86,7 @@
   },
   "STAR Channel HD": {
     "ids": ["fox.es", "FOX.es"],
-    "display-name": ["M+: STAR CHANNEL ᴿᴬᵂ", "GO: STAR CHANNEL ᴿᴬᵂ", "ES: STAR CHANNEL (FOX) ᵁᴴᴰ"]
+    "display-name": ["GO: STAR CHANNEL ᴿᴬᵂ", "ES: STAR CHANNEL (FOX) ᵁᴴᴰ"]
   },
   "AXN HD": {
     "ids": ["axn.es", "AXN.es"],
@@ -140,7 +140,7 @@
     "ids": ["SkyShowtime"],
     "display-name": ["GO: SKY SHOWTIME 1 ᴿᴬᵂ", "ES: SKY SHOW TIME ᴴᴰ", "ES: SKY SHOW TIME ᵁᴴᴰ"]
   },
-  "Paramount Network": {
+  "Squirrel 2": {
     "ids": ["paramountchannel.es", "ParamountChannel.es"],
     "display-name": ["GO: PARAMOUNT NETWORK ᴿᴬᵂ"]
   },
@@ -156,9 +156,9 @@
     "ids": ["VinTV"],
     "display-name": ["PRIME: VINTV ᴿᴬᵂ", "ES: VIN TV ᴴᴰ", "ES: VIN TV SD", "ES: VIN TV ᵁᴴᴰ", "M+: EN FAMILIA ᴿᴬᵂ"]
   },
-  "Decasa": {
+  "AMC Living": {
     "ids": ["canaldecasa.es", "CanalDecasa.es"],
-    "display-name": ["PRIME: DECASA ᴿᴬᵂ", "VO: DECASA ᴴᴰ", "4K: DECASA ᵁᴴᴰ ³⁸⁴⁰ᴾ", "4K: CANAL DECASA ᵁᴴᴰ ³⁸⁴⁰ᴾ"]
+    "display-name": ["PRIME: DECASA ᴿᴬᵂ", "VO: DECASA ᴴᴰ", "4K: DECASA ᵁᴴᴰ ³⁸⁴⁰ᴾ", "4K: CANAL DECASA ᵁᴴᴰ ³⁸⁴⁰ᴾ", "4K: DECASA ᵉˢ ᵁᴴᴰ ³⁸⁴⁰ᴾ"]
   },
   "Canal Cocina": {
     "ids": ["canalcocina.es", "CanalCocina.es"],
@@ -213,7 +213,7 @@
     "ids": ["vamos2.es", "Vamos2.es"],
     "display-name": ["ES: #VAMOS 2 ᴴᴰ", "ES: #VAMOS SD", "ES: #VAMOS 2 ᵁᴴᴰ", "ES: #VAMOS 2 ʰᵉᵛᶜ", "ES: MOVISTAR PLUS +2 ᴴᴰ"]
   },
-  "M+ Ellas Vamos HD": {
+  "M+ Vamos 3": {
     "ids": ["mplusellasv.es"],
     "display-name": ["ES: ELLAS #V ᴴᴰ", "ES: ELLAS #V SD", "ES: ELLAS #V ᵁᴴᴰ"]
   },
@@ -499,7 +499,7 @@
   },
   "Discovery": {
     "ids": ["discoverychannel.es", "DiscoveryChannel.es"],
-    "display-name": ["VO: DISNEY CHANNEL ᴿᴬᵂ", "VO: DISNEY CHANNEL ᴴᴰ"]
+    "display-name": []
   },
   "AMC Crime": {
     "ids": ["amccrime.es", "AMCCrime.es", "crimeinvestigation.es"],
@@ -509,17 +509,17 @@
     "ids": ["odisea.es", "Odisea.es"],
     "display-name": ["PRIME: ODISEA ᴿᴬᵂ", "ES: ODISEA ᴴᴰ", "4K: ODISEA ᵁᴴᴰ ³⁸⁴⁰ᴾ", "4K: ODISEA ᵉˢ ᵁᴴᴰ ³⁸⁴⁰ᴾ"]
   },
-  "BuenViaje": {
-    "ids": ["BuenViaje"],
-    "display-name": ["PRIME: �BUEN VIAJE! ᴿᴬᵂ", "M+: BUEN VIAJE ᴿᴬᵂ", "ES: BUENVIAJE ᴴᴰ", "ES: BUENVIAJE SD", "ES: BUENVIAJE ᵁᴴᴰ"]
+  "AMC Western": {
+    "ids": ["AMC Western"],
+    "display-name": ["PRIME: �AMC WESTRN ᴿᴬᵂ", "M+: BUEN VIAJE ᴿᴬᵂ", "ES: BUENVIAJE ᴴᴰ", "ES: BUENVIAJE SD", "ES: BUENVIAJE ᵁᴴᴰ"]
   },
 
   "M+ Los Goya": {
     "ids": ["M+ Los Goya"],
     "display-name": ["GO: M+ LOS GOYA ᴿᴬᵂ"]
   },
-  "M+ Cine bélico": {
-    "ids": ["M+ Cine bélico"],
+  "M+ Oscars": {
+    "ids": ["M+ Oscars"],
     "display-name": ["GO: M+ DEMI MOORE ᴿᴬᵂ", "ES: MOVISTAR EN JUEGO ᴴᴰ", "ES: MOVISTAR EN JUEGO SD", "ES: MOVISTAR EN JUEGO ᵁᴴᴰ"]
   },
   "M+ Estrenos HD": {
@@ -811,7 +811,7 @@
   },
   "Star TVE HD": {
     "ids": ["Star TVE HD"],
-    "display-name": ["ES: TVE INT ᴴᴰ"]
+    "display-name": ["ES: TVE INT ᴴᴰ", "M+: STAR CHANNEL ᴿᴬᵂ"]
   },
   "El 9 TV": {
     "ids": ["El 9 TV"],
