@@ -817,6 +817,10 @@
     "ids": ["El 9 TV"],
     "display-name": ["M+: EL 9 ᴿᴬᵂ"]
   },
+  "Onda Algeciras TV": {
+    "ids": ["Onda Algeciras TV"],
+    "display-name": ["TY: ONDA ALGECIRAS ᴿᴬᵂ"]
+  },
 
   "Clásicos atresplayer": {
     "ids": ["Clásicos atresplayer"],
@@ -949,6 +953,10 @@
     "ids": ["Pelis Top (Rakuten TV)"],
     "display-name": ["ES: RAKUTEN TV TOP MOVIES ᴿᴬᵂ"]
   },
+  "MyTime Movie Network (Rakuten TV)": {
+    "ids": ["MyTime Movie Network (Rakuten TV)"],
+    "display-name": ["VO: ALQUILER 2 ᴿᴬᵂ"]
+  },
 
   "MTV España": {
     "ids": ["MTV España"],
@@ -985,6 +993,10 @@
   "TRACE Latina": {
     "ids": ["TRACE Latina"],
     "display-name": ["M+: TRACE LATINA ᴿᴬᵂ"]
+  },
+  "Flamenco Auditorio": {
+    "ids": ["Flamenco Auditorio"],
+    "display-name": ["ES: FLAMENCO AUDITORIO ᴴᴰ"]
   },
 
   "NFL Network": {
