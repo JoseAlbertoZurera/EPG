@@ -141,8 +141,8 @@
     "display-name": ["GO: SKY SHOWTIME 1 ᴿᴬᵂ", "ES: SKY SHOW TIME ᴴᴰ", "ES: SKY SHOW TIME ᵁᴴᴰ"]
   },
   "Squirrel 2": {
-    "ids": ["paramountchannel.es", "ParamountChannel.es"],
-    "display-name": ["GO: PARAMOUNT NETWORK ᴿᴬᵂ"]
+    "ids": ["ParamountChannel.es"],
+    "display-name": ["GO: PARAMOUNT NETWORK ᴿᴬᵂ", "M+: PARAMOUNT ᴿᴬᵂ"]
   },
   "Cosmo HD": {
     "ids": ["cosmo.es", "Cosmo.es"],
@@ -219,11 +219,11 @@
   },
   "M+ Golf HD": {
     "ids": ["movistargolf.es", "MovistarGolf.es"],
-    "display-name": "M+ Golf"
+    "display-name": ["M+: M.GOLF ᴿᴬᵂ"]
   },
   "M+ Golf 2 HD": {
-    "ids": ["movistargolf2.es", "MovistarGolf2.es"],
-    "display-name": ["ES: MOVISTAR GOLF 2 SD"]
+    "ids": ["MovistarGolf2.es"],
+    "display-name": ["GO: M+ MOVISTAR GOLF 2 ᴿᴬᵂ", "ES: MOVISTAR GOLF 2 SD"]
   },
   "UBEAT": {
     "ids": ["UBEAT"],
@@ -787,7 +787,7 @@
   },
   "CMM TV": {
     "ids": ["CMM TV"],
-    "display-name": ["M+: CMM TV ᴿᴬᵂ", "ES: CMM ᴴᴰ", "ES: CMM SD", "ES: CMM ᵁᴴᴰ"]
+    "display-name": ["GO: CASTILLA LA MANCHA TV ᴿᴬᵂ", "M+: CMM TV ᴿᴬᵂ", "ES: CMM ᴴᴰ", "ES: CMM SD", "ES: CMM ᵁᴴᴰ"]
   },
   "IB3 TV Illes Balears": {
     "ids": ["IB3 TV Illes Balears"],
@@ -981,6 +981,10 @@
   "Sol Música": {
     "ids": ["Sol Música"],
     "display-name": ["M+: SOL MUSICA ᴿᴬᵂ"]
+  },
+  "TRACE Latina": {
+    "ids": ["TRACE Latina"],
+    "display-name": ["M+: TRACE LATINA ᴿᴬᵂ"]
   },
 
   "NFL Network": {
