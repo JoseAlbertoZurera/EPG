@@ -177,6 +177,10 @@
     "ids": ["daznf1.es", "DAZNF1.es", "daznf14k.es"],
     "display-name": ["ES: DAZNT F1 ᴴᴰ"]
   },
+  "DAZN MotoGP": {
+    "ids": ["DAZN MotoGP"],
+    "display-name": ["ES: DAZN MOTOGP SD", "ES: DAZN MOTOGP ᵁᴴᴰ", "ES: DAZN MOTOGP ᵁᴴᴰ"]
+  },
   "DAZN 1 HD": {
     "ids": ["dazn1.es", "DAZN1.es"],
     "display-name": "dazn1.es"
