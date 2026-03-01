@@ -179,7 +179,7 @@
   },
   "DAZN MotoGP": {
     "ids": ["DAZN MotoGP"],
-    "display-name": ["ES: DAZN MOTOGP SD", "ES: DAZN MOTOGP ᵁᴴᴰ", "ES: DAZN MOTOGP ᵁᴴᴰ"]
+    "display-name": ["ES: DAZN MOTOGP SD", "ES: DAZN MOTOGP ᴴᴰ", "ES: DAZN MOTOGP ᵁᴴᴰ"]
   },
   "DAZN 1 HD": {
     "ids": ["dazn1.es", "DAZN1.es"],
@@ -284,11 +284,11 @@
   },
   "M+ LaLiga HDR": {
     "ids": ["mlaligauhd.es"],
-    "display-name": ["ES: MOVISTAR LALIGA ᵁᴴᴰ ³⁸⁴⁰ᴾ", "4K: M+ LALIGA TV ᵁᴴᴰ ³⁸⁴⁰ᴾ"]
+    "display-name": ["ES: MOVISTAR LALIGA ᵁᴴᴰ ³⁸⁴⁰ᴾ"]
   },
   "M+ LaLiga 2 HDR": {
     "ids": ["mlaligauhd2.es"],
-    "display-name": ["GO: M+ LALIGA TV 2 ᴴᴰᴿ ³⁸⁴⁰ᴾ", "ES: MOVISTAR  LALIGA 2 ᵁᴴᴰ ³⁸⁴⁰ᴾ"]
+    "display-name": ["GO: M+ LALIGA TV 2 ᴴᴰᴿ ³⁸⁴⁰ᴾ"]
   },
   "M+ LaLiga HD": {
     "ids": ["mlaliga.es", "MLaLiga.es", "mlaliga1.es"],
