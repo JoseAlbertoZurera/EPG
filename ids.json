@@ -142,7 +142,7 @@
   },
   "Squirrel 2": {
     "ids": ["ParamountChannel.es"],
-    "display-name": ["GO: PARAMOUNT NETWORK ᴿᴬᵂ", "M+: PARAMOUNT ᴿᴬᵂ"]
+    "display-name": ["GO: PARAMOUNT NETWORK ᴿᴬᵂ", "VO: PARAMOUNT ᴴᴰ", "M+: PARAMOUNT ᴿᴬᵂ"]
   },
   "Cosmo HD": {
     "ids": ["cosmo.es", "Cosmo.es"],
@@ -495,7 +495,7 @@
   },
   "BBC History": {
     "ids": ["bbchistory.es"],
-    "display-name": ["ES: BBC HISTORY ᴴᴰ", "ES: BBC HISTORY SD", "ES: BBC HISTORY ᵁᴴᴰ"]
+    "display-name": ["ES: BBC HISTORY ᴴᴰ", "ES: BBC HISTORY SD", "ES: BBC HISTORY ᵁᴴᴰ", "VO: HBO 2 ᴴᴰ"]
   },
   "Historia": {
     "ids": ["historia.es", "Historia.es"],
@@ -506,7 +506,7 @@
     "display-name": []
   },
   "AMC Crime": {
-    "ids": ["amccrime.es", "AMCCrime.es", "crimeinvestigation.es"],
+    "ids": ["amccrime.es", "AMCCrime.es"],
     "display-name": ["PRIME: AMC CRIME ᴿᴬᵂ", "M+: AMC CRIME ᴿᴬᵂ", "VO: AMC CRIME ᴴᴰ", "VO: AMC CRIME ᴿᴬᵂ"]
   },
   "Odisea": {
@@ -518,8 +518,8 @@
     "display-name": ["PRIME: �AMC WESTRN ᴿᴬᵂ", "M+: BUEN VIAJE ᴿᴬᵂ", "ES: BUENVIAJE ᴴᴰ", "ES: BUENVIAJE SD", "ES: BUENVIAJE ᵁᴴᴰ"]
   },
 
-  "M+ Los Goya": {
-    "ids": ["M+ Los Goya"],
+  "M+ Los 2000": {
+    "ids": ["M+ Los 2000"],
     "display-name": ["GO: M+ LOS GOYA ᴿᴬᵂ"]
   },
   "M+ Oscars": {
@@ -923,6 +923,10 @@
   "Runtime Thriller-Terror": {
     "ids": ["Runtime Thriller-Terror"],
     "display-name": ["TY: RUNTIME THRILLER + TERROR ᴿᴬᵂ"]
+  },
+  "RunTime Familia": {
+    "ids": ["RunTime Familia"],
+    "display-name": ["VO: HBO 2 ᴴᴰ"]
   },
 
   "Acción (Rakuten TV)": {
