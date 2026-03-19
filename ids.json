@@ -237,6 +237,10 @@
     "ids": ["DBike"],
     "display-name": ["ES: DBIKE ᴴᴰ", "ES: DBIKE SD", "ES: DBIKE ᵁᴴᴰ"]
   },
+  "DE | Rally TV": {
+    "ids": ["DE | Rally TV"],
+    "display-name": ["ES: RALLY TV"]
+  },
   "Motorvision": {
     "ids": ["Motorvision"],
     "display-name": ["TY: MOTORVISION TV ᴿᴬᵂ"]
@@ -279,8 +283,8 @@
     "display-name": ["ES: DAZN LA LIGA ᴴᴰ", "ES: DAZN LA LIGA SD", "ES: DAZN LA LIGA ᵁᴴᴰ", "ES: DAZN LA LIGA ʰᵉᵛᶜ", "VO: MOVISTAR ORANGE ᴴᴰ", "GO: DAZN LA LIGA 1 ᴿᴬᵂ"]
   },
   "DAZN LaLiga 2 HD": {
-    "ids": ["daznlaliga2.es", "DaznLaLiga2.es"],
-    "display-name": ["OR: DAZN LA LIGA 2 ᴿᴬᵂ", "ES: DAZN LA LIGA 2 ᴴᴰ", "ES: DAZN LA LIGA 2 SD", "ES: DAZN LA LIGA 2 ᵁᴴᴰ"]
+    "ids": ["DaznLaLiga2.es"],
+    "display-name": ["OR: DAZN LA LIGA 2 ᴿᴬᵂ", "VO: DAZN LALIGA 2 ᴿᴬᵂ", "VO: DAZN LALIGA 2 ᴴᴰ", "M+: DAZN LA LIGA 2 ᴿᴬᵂ", "ES: DAZN LA LIGA 2 ᴴᴰ", "ES: DAZN LA LIGA 2 SD", "ES: DAZN LA LIGA 2 ᵁᴴᴰ"]
   },
   "M+ LaLiga HDR": {
     "ids": ["mlaligauhd.es"],
@@ -1039,7 +1043,7 @@
     "ids": ["Cubavisión Internacional HD"],
     "display-name": ["ES: CUBAVISION SD"]
   },
-  "FR | FRANCE 24": {
+  "France 24 (en Francais)": {
     "ids": ["FR | FRANCE 24"],
     "display-name": ["GO: FRANCE24 (FR) ᴿᴬᵂ", "ES: FRANCE 24 ES ᵁᴴᴰ"]
   },
