@@ -86,7 +86,7 @@
   },
   "STAR Channel HD": {
     "ids": ["fox.es", "FOX.es"],
-    "display-name": ["GO: STAR CHANNEL ᴿᴬᵂ", "ES: STAR CHANNEL (FOX) ᵁᴴᴰ"]
+    "display-name": ["GO: STAR CHANNEL ᴿᴬᵂ", "ES: STAR CHANNEL (FOX) ᵁᴴᴰ", "M+: STAR CHANNEL ᴿᴬᵂ"]
   },
   "AXN HD": {
     "ids": ["axn.es", "AXN.es"],
@@ -233,13 +233,17 @@
     "ids": ["UBEAT"],
     "display-name": ["GO: UBEAT ᴿᴬᵂ", "ES: U-BEAT ᵁᴴᴰ"]
   },
+  "Unbeaten": {
+    "ids": ["Unbeaten"],
+    "display-name": ["ES: UNBEATEN SD", "ES: UNBEATEN ᴴᴰ", "ES: UNBEATEN ᴿᴬᵂ"]
+  },
   "DBike": {
     "ids": ["DBike"],
     "display-name": ["ES: DBIKE ᴴᴰ", "ES: DBIKE SD", "ES: DBIKE ᵁᴴᴰ"]
   },
   "DE | Rally TV": {
     "ids": ["DE | Rally TV"],
-    "display-name": ["ES: RALLY TV"]
+    "display-name": ["ES: RALLY TV ᵁᴴᴰ"]
   },
   "Motorvision": {
     "ids": ["Motorvision"],
@@ -255,7 +259,7 @@
   },
   "Red Bull TV": {
     "ids": ["Red Bull TV"],
-    "display-name": ["PRIME: RED BULL TV ᴿᴬᵂ", "TY: RED BULL TV ᴿᴬᵂ"]
+    "display-name": ["PRIME: RED BULL TV ᴿᴬᵂ", "TY: RED BULL TV ᴿᴬᵂ", "ES: RED BULL TV SD", "ES: RED BULL TV ᴴᴰ", "ES: RED BULL TV ᴿᴬᵂ"]
   },
   "Betis TV": {
     "ids": ["Betis TV"],
@@ -526,8 +530,8 @@
     "ids": ["M+ Los 2000"],
     "display-name": ["GO: M+ LOS GOYA ᴿᴬᵂ"]
   },
-  "M+ Oscars": {
-    "ids": ["M+ Oscars"],
+  "M+ Top comedia española": {
+    "ids": ["M+ Top comedia española"],
     "display-name": ["GO: M+ DEMI MOORE ᴿᴬᵂ", "ES: MOVISTAR EN JUEGO ᴴᴰ", "ES: MOVISTAR EN JUEGO SD", "ES: MOVISTAR EN JUEGO ᵁᴴᴰ"]
   },
   "M+ Estrenos HD": {
@@ -819,7 +823,7 @@
   },
   "Star TVE HD": {
     "ids": ["Star TVE HD"],
-    "display-name": ["ES: TVE INT ᴴᴰ", "M+: STAR CHANNEL ᴿᴬᵂ"]
+    "display-name": ["ES: TVE INT ᴴᴰ"]
   },
   "El 9 TV": {
     "ids": ["El 9 TV"],
@@ -1013,7 +1017,7 @@
 
   "NFL Network": {
     "ids": ["NFL Network"],
-    "display-name": ["PRIME: NFL NETWORK ᴿᴬᵂ"]
+    "display-name": ["PRIME: NFL NETWORK ᴿᴬᵂ", "ES: NFL NETWORK: LIVE 24/7 COVERAGE SD", "ES: NFL NETWORK: LIVE 24/7 COVERAGE ᴴᴰ", "ES: NFL NETWORK: LIVE 24/7 COVERAGE ᴿᴬᵂ"]
   },
   "CNN International Europe": {
     "ids": ["CNN International Europe"],
