@@ -530,8 +530,8 @@
     "ids": ["M+ Los 2000"],
     "display-name": ["GO: M+ LOS GOYA ᴿᴬᵂ"]
   },
-  "M+ Top comedia española": {
-    "ids": ["M+ Top comedia española"],
+  "M+ Top Comedia Española": {
+    "ids": ["M+ Top Comedia Española"],
     "display-name": ["GO: M+ DEMI MOORE ᴿᴬᵂ", "ES: MOVISTAR EN JUEGO ᴴᴰ", "ES: MOVISTAR EN JUEGO SD", "ES: MOVISTAR EN JUEGO ᵁᴴᴰ"]
   },
   "M+ Estrenos HD": {
@@ -684,7 +684,7 @@
     "ids": ["dreamworks.es", "Dreamworks.es"],
     "display-name": ["GO: DREAM WORK ᴿᴬᵂ", "ES: DREAMWORKS ᴴᴰ", "ES: DREAMWORKS SD", "ES: DREAMWORKS ᵁᴴᴰ"]
   },
-  "Disney Junior": {
+  "Disney Channel": {
     "ids": ["disneyjunior.es", "DisneyJunior.es"],
     "display-name": "Disney Junior"
   },
