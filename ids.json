@@ -32,7 +32,7 @@
     "display-name": ["PRIME: NOVA ᴿᴬᵂ", "PLAYER: DIRECTO NOVA ᴿᴬᵂ"]
   },
   "Factoría de Ficción": {
-    "ids": ["fdf.es"],
+    "ids": ["fdf.es", "FactoriadeFiccion.es"],
     "display-name": ["PRIME: FDF ᴿᴬᵂ", "TF: FACTOR A DE FICCIN  ᴿᴬᵂ", "M+: FDF ᴿᴬᵂ", "ES: FDF ᴴᴰ", "ES: FDF SD", "ES: FDF ᵁᴴᴰ"]
   },
   "Divinity": {
@@ -44,7 +44,7 @@
     "display-name": ["PRIME: E.ENERGY ᴿᴬᵂ", "TF: ENERGY ᴿᴬᵂ", "ES: ENERGY ᴴᴰ"]
   },
   "Be Mad": {
-    "ids": ["bemad.es"],
+    "ids": ["bemad.es", "BeMad.es"],
     "display-name": ["PRIME: BE MAD ᴿᴬᵂ", "TF: BEDMAD ᴿᴬᵂ", "ES: BE MAD ᴴᴰ", "ES: BEMAD ᴴᴰ", "ES: BEMAD SD", "ES: BEMAD ᵁᴴᴰ"]
   },
   "Mega": {
@@ -61,7 +61,7 @@
   },
   "Veo7": {
     "ids": ["veo7.es", "Veo7.es"],
-    "display-name": ["GO: VEO 7 ᴿᴬᵂ", "ES: VEO7 ᴴᴰ", "ES: VEO7 SD", "ES: VEO7 ᵁᴴᴰ"]
+    "display-name": ["GO: VEO 7 ᴿᴬᵂ", "ES: VEO7 ᴴᴰ", "ES: VEO7 SD", "ES: VEO7 ᵁᴴᴰ", "TV: VEO7 ᴿᴬᵂ"]
   },
   "Teledeporte": {
     "ids": ["teledeporte.es", "Teledeporte.es"],
@@ -77,7 +77,7 @@
     "display-name": ["ES: MOVISTAR PLUS+ ᴴᴰ", "ES: MOVISTAR PLUS+ SD", "ES: MOVISTAR PLUS+ ᵁᴴᴰ", "GO: MOVISTAR PLUS+ 2 ᴿᴬᵂ"]
   },
   "GOL": {
-    "ids": ["gol.es", "Gol.es"],
+    "ids": ["gol.es", "Gol.es", "GolPlay.es"],
     "display-name": ["ES: GOL PLAY ᴴᴰ", "ES: GOL PLAY SD", "ES: GOL PLAY ᵁᴴᴰ"]
   },
   "M+ Originales HD": {
@@ -85,7 +85,7 @@
     "display-name": ["M+: M.ORIGINALES ᴿᴬᵂ", "ES: MOVISTAR ORIGINALES ᴴᴰ", "ES: MOVISTAR ORIGINALES SD", "ES: MOVISTAR ORIGINALES ᵁᴴᴰ", "VO: #0 ᴿᴬᵂ", "VO: #0 ᴴᴰ"]
   },
   "STAR Channel HD": {
-    "ids": ["fox.es", "FOX.es"],
+    "ids": ["fox.es", "FOX.es", "StarChannel.es"],
     "display-name": ["GO: STAR CHANNEL ᴿᴬᵂ", "ES: STAR CHANNEL (FOX) ᵁᴴᴰ", "M+: STAR CHANNEL ᴿᴬᵂ"]
   },
   "AXN HD": {
@@ -109,11 +109,11 @@
     "display-name": "dmax.es"
   },
   "DKISS": {
-    "ids": ["dkissalt.es"],
+    "ids": ["dkiss.es", "dkissalt.es"],
     "display-name": ["GO: DKISS ᴿᴬᵂ", "ES: DKISS ᴴᴰ", "ES: DKISS SD", "ES: DKISS ᵁᴴᴰ"]
   },
   "HBO Max Avances": {
-    "ids": ["HBO Max Avances"],
+    "ids": ["MaxAvances.es"],
     "display-name": ["GO: MAX AVANCES ᴿᴬᵂ", "ES: Max Avances ᴴᴰ", "ES: Max Avances SD", "ES: Max Avances ᵁᴴᴰ"]
   },
   "SELEKT": {
@@ -129,20 +129,20 @@
     "display-name": ["ES: BBC SERIES ᴴᴰ", "ES: BBC SERIES SD", "ES: BBC SERIES ᵁᴴᴰ"]
   },
   "BBC Top Gear": {
-    "ids": ["BBC Top Gear"],
+    "ids": ["BBCTopGear.es"],
     "display-name": ["GO: BBC TOP GEAR ᴿᴬᵂ"]
   },
   "BBC Food": {
-    "ids": ["BBC Food"],
+    "ids": ["BBCFood.es"],
     "display-name": ["GO: BBC FOOD ᴿᴬᵂ", "ES: BBC FOOD ᴴᴰ", "ES: BBC FOOD SD", "ES: BBC FOOD ᵁᴴᴰ"]
   },
   "SkyShowtime": {
     "ids": ["SkyShowtime"],
-    "display-name": ["GO: SKY SHOWTIME 1 ᴿᴬᵂ", "ES: SKY SHOW TIME ᴴᴰ", "ES: SKY SHOW TIME ᵁᴴᴰ"]
+    "display-name": ["GO: SKY SHOWTIME 1 ᴿᴬᵂ", "ES: SKY SHOW TIME ᴴᴰ", "ES: SKY SHOW TIME ᵁᴴᴰ", "TV: SKY SHOWTIME 1 ᴿᴬᵂ"]
   },
   "Squirrel 2": {
     "ids": ["ParamountChannel.es"],
-    "display-name": ["GO: PARAMOUNT NETWORK ᴿᴬᵂ", "VO: PARAMOUNT ᴴᴰ", "M+: PARAMOUNT ᴿᴬᵂ"]
+    "display-name": ["GO: PARAMOUNT NETWORK ᴿᴬᵂ", "VO: PARAMOUNT ᴴᴰ", "M+: PARAMOUNT ᴿᴬᵂ", "ES: MOVISTAR SQUIRREL TV SD"]
   },
   "Cosmo HD": {
     "ids": ["cosmo.es", "Cosmo.es"],
@@ -207,7 +207,7 @@
   },
   "Primera Federación": {
     "ids": ["Primera Federación"],
-    "display-name": ["ES: 1° FEDERACION ᴴᴰ", "ES: 1° FEDERACION SD", "ES: 1° FEDERACION ᴿᴬᵂ (MOVISTAR+)", "ES: 1° FEDERACION ᴿᴬᵂ (LALIGA+)", "GO: M+ COPA DEL REY ᴿᴬᵂ", "ES: COPA DEL REY SD (BK1)", "ES: COPA DEL REY HD (BK1)", "ES: COPA DEL REY 4K (BK1)"]
+    "display-name": ["ES: 1° FEDERACION ᴴᴰ", "ES: 1° FEDERACION SD", "ES: 1° FEDERACION ᴿᴬᵂ (MOVISTAR+)", "ES: 1° FEDERACION ᴿᴬᵂ (LALIGA+)", "GO: M+ COPA DEL REY ᴿᴬᵂ", "ES: COPA DEL REY SD (BK1)", "ES: COPA DEL REY HD (BK1)", "ES: COPA DEL REY 4K (BK1)", "TV: M+ COPA DEL REY ᴿᴬᵂ"]
   },
   "M+ Vamos HD": {
     "ids": ["vamos.es", "Vamos.es"],
@@ -226,11 +226,11 @@
     "display-name": ["M+: M.GOLF ᴿᴬᵂ"]
   },
   "M+ Golf 2 HD": {
-    "ids": ["MovistarGolf2.es"],
+    "ids": ["movistargolf2.es", "MovistarGolf2.es"],
     "display-name": ["GO: M+ MOVISTAR GOLF 2 ᴿᴬᵂ", "ES: MOVISTAR GOLF 2 SD"]
   },
   "UBEAT": {
-    "ids": ["UBEAT"],
+    "ids": ["Ubeat.es"],
     "display-name": ["GO: UBEAT ᴿᴬᵂ", "ES: U-BEAT ᵁᴴᴰ"]
   },
   "Unbeaten": {
@@ -287,7 +287,7 @@
     "display-name": ["ES: DAZN LA LIGA ᴴᴰ", "ES: DAZN LA LIGA SD", "ES: DAZN LA LIGA ᵁᴴᴰ", "ES: DAZN LA LIGA ʰᵉᵛᶜ", "VO: MOVISTAR ORANGE ᴴᴰ", "GO: DAZN LA LIGA 1 ᴿᴬᵂ"]
   },
   "DAZN LaLiga 2 HD": {
-    "ids": ["DaznLaLiga2.es"],
+    "ids": ["daznlaliga2.es", "DaznLaLiga2.es"],
     "display-name": ["OR: DAZN LA LIGA 2 ᴿᴬᵂ", "VO: DAZN LALIGA 2 ᴿᴬᵂ", "VO: DAZN LALIGA 2 ᴴᴰ", "M+: DAZN LA LIGA 2 ᴿᴬᵂ", "ES: DAZN LA LIGA 2 ᴴᴰ", "ES: DAZN LA LIGA 2 SD", "ES: DAZN LA LIGA 2 ᵁᴴᴰ"]
   },
   "M+ LaLiga HDR": {
@@ -311,7 +311,7 @@
     "display-name": ["ES: M+ LALIGA TV 3 ᵁᴴᴰ"]
   },
   "M+ LaLiga 4": {
-    "ids": ["mlaliga4.es", "MLaLiga4.es"],
+    "ids": ["mlaliga4.es", "MLaLiga4.es", "MPlusLaligaTV4.es"],
     "display-name": ["GO: M+ LALIGA TV 4 ᴿᴬᵂ", "M+: M. LALIGA 4 ᴿᴬᵂ", "M+: M. LALIGA 4 ᴴᴰ", "M+: M. LALIGA 4 SD"]
   },
   "M+ LaLiga 5": {
@@ -502,7 +502,7 @@
     "display-name": ["VO: NAT GEO WILD ᴿᴬᵂ", "VO: NAT GEO WILD ᴴᴰ"]
   },
   "BBC History": {
-    "ids": ["bbchistory.es"],
+    "ids": ["bbchistory.es", "BBCHistory.es"],
     "display-name": ["ES: BBC HISTORY ᴴᴰ", "ES: BBC HISTORY SD", "ES: BBC HISTORY ᵁᴴᴰ", "VO: HBO 2 ᴴᴰ"]
   },
   "Historia": {
@@ -528,47 +528,47 @@
 
   "M+ Los 2000": {
     "ids": ["M+ Los 2000"],
-    "display-name": ["GO: M+ LOS GOYA ᴿᴬᵂ"]
+    "display-name": ["GO: M+ LOS GOYA ᴿᴬᵂ", "TV: M+ LOS GOYA ᴿᴬᵂ"]
   },
   "M+ Top Comedia Española": {
     "ids": ["M+ Top Comedia Española"],
-    "display-name": ["GO: M+ DEMI MOORE ᴿᴬᵂ", "ES: MOVISTAR EN JUEGO ᴴᴰ", "ES: MOVISTAR EN JUEGO SD", "ES: MOVISTAR EN JUEGO ᵁᴴᴰ"]
+    "display-name": ["GO: M+ DEMI MOORE ᴿᴬᵂ", "TV: M+E: DEMI MOORE ᴿᴬᵂ", "ES: MOVISTAR EN JUEGO ᴴᴰ", "ES: MOVISTAR EN JUEGO SD", "ES: MOVISTAR EN JUEGO ᵁᴴᴰ"]
   },
   "M+ Estrenos HD": {
     "ids": ["movistarestrenos.es", "movistarestrenos2.es", "MovistarCine.es"],
     "display-name": ["M+: M.CINE ᴿᴬᵂ", "M+: M.CINE ᴴᴰ"]
   },
   "M+ Acción HD": {
-    "ids": ["movistaraccion.es", "MovistarAccion.es"],
+    "ids": ["movistaraccion.es", "MovistarAccion.es", "MPlusAccion.es"],
     "display-name": ["VO: M.ACCI©N ᴿᴬᵂ", "VO: M.ACCI©N ᴴᴰ"]
   },
   "M+ Comedia HD": {
-    "ids": ["movistarcomedia.es", "MovistarComedia.es"],
+    "ids": ["movistarcomedia.es", "MovistarComedia.es", "MPlusComedia.es"],
     "display-name": ["M+ Comedia"]
   },
   "M+ Drama HD": {
-    "ids": ["moviestardrama.es", "MovistarDrama.es"],
+    "ids": ["moviestardrama.es", "MovistarDrama.es", "MPlusDrama.es"],
     "display-name": ["M+ Drama"]
   },
   "M+ Cine Español": {
-    "ids": ["MovistarCineEspanol.es"],
+    "ids": ["MovistarCineEspanol.es", "MPlusCineEspanol.es"],
     "display-name": ["M+: M.CINE Ñ ᴿᴬᵂ", "GO: M+ CINE ESPANOL ᴿᴬᵂ"]
   },
   "M+ Clásicos HD": {
     "ids": ["movistarclasicos.es", "MovistarClasicos.es"],
-    "display-name": ["M+ Clásicos"]
+    "display-name": ["TV: M+ CLÁSICOS ᴿᴬᵂ"]
   },
   "M+ Hits HD": {
-    "ids": ["movistarseries.es", "MovistarSeries.es", "MovistarSeries1.es"],
+    "ids": ["movistarseries.es", "MovistarSeries.es", "MovistarSeries1.es", "MPlusHits.es"],
     "display-name": ["GO: M+ HITS ᴿᴬᵂ", "M+: M.HITS ᴿᴬᵂ"]
   },
   "M+ Indie HD": {
-    "ids": ["movistarindie.es", "MovistarIndie.es"],
+    "ids": ["movistarindie.es", "MovistarIndie.es", "mplusindie.es"],
     "display-name": ["GO: M+ INDIE ᴿᴬᵂ", "ES: MOVISTAR INDIE ᴴᴰ", "ES: MOVISTAR INDIE SD", "ES: MOVISTAR INDIE ᵁᴴᴰ"]
   },
   "Warner TV HD": {
     "ids": ["Warner TV"],
-    "display-name": ["VO: TNT ᴿᴬᵂ", "VO: TNT ᴴᴰ", "GO: WARNER TV ᴿᴬᵂ", "M+: WARNER TV ᴿᴬᵂ", "ES: WARNER TV SD", "ES: WARNER TV ᴴᴰ", "ES: WARNER TV ᵁᴴᴰ"]
+    "display-name": ["VO: TNT ᴿᴬᵂ", "VO: TNT ᴴᴰ", "GO: WARNER TV ᴿᴬᵂ", "M+: WARNER TV ᴿᴬᵂ", "ES: WARNER TV SD", "ES: WARNER TV ᴴᴰ", "ES: WARNER TV ᵁᴴᴰ", "TV: WARNER TV ᴿᴬᵂ"]
   },
   "AMC HD": {
     "ids": ["amc.es", "AMC.es"],
@@ -587,7 +587,7 @@
     "display-name": ["PRIME: DARK ᴿᴬᵂ", "ES: DARK ᴴᴰ", "ES: DARK SD", "ES: DARK ᵁᴴᴰ"]
   },
   "AXN Movies HD": {
-    "ids": ["axnmovies.es", "Axnmovies.es"],
+    "ids": ["axnmovies.es", "Axnmovies.es", "AXNMovies.es"],
     "display-name": ["GO: AXN MOVIES ᴿᴬᵂ", "M+: AXN MOVIES ᴿᴬᵂ", "ES: AXN MOVIES ᴴᴰ", "ES: AXN MOVIES SD", "ES: AXN MOVIES ᵁᴴᴰ"]
   },
   "Canal Hollywood HD": {
@@ -644,7 +644,7 @@
     "display-name": ["ES: ONETORO ᴴᴰ", "ES: ONETORO SD", "ES: ONETORO ᵁᴴᴰ"]
   },
   "Negocios TV": {
-    "ids": ["negociostv.es"],
+    "ids": ["negociostv.es", "NegociosTV.es"],
     "display-name": ["PRIME: NEGOCIOS TV ᴿᴬᵂ", "GO: NEGOCIOS TV ᴿᴬᵂ", "M+: NEGOCIOS TV ᴿᴬᵂ", "ES: NEGOCIOS TV ᴴᴰ"]
   },
   "Deutsche W": {
@@ -652,7 +652,7 @@
     "display-name": ["TY: DW EN ESPAÑOL ᴿᴬᵂ", "ES: DW EN ESPAÑOL ᵁᴴᴰ"]
   },
   "CGTN Español": {
-    "ids": ["CGTN Español"],
+    "ids": ["CGTNEspanol.es"],
     "display-name": ["TY: CGTN ESPAÑOL ᴿᴬᵂ", "GO: CGTN ESPAÑOL ᴿᴬᵂ"]
   },
   "Vivir con gatos": {
@@ -706,19 +706,19 @@
     "display-name": ["M+: CANAL SUR ANDALUCIA ᴿᴬᵂ"]
   },
   "Telemadrid": {
-    "ids": ["telemadrid.es", "TeleMadrid.es"],
+    "ids": ["telemadrid.es", "TeleMadrid.es", "Telemadrid.es"],
     "display-name": "ES: TELE MADRID ᴴᴰ"
   },
   "Telemadrid Internacional": {
     "ids": ["Telemadrid Internacional"],
-    "display-name": "ES: TELE MADRID INTERNACIONAL ᴴᴰ"
+    "display-name": ["ES: TELE MADRID INTERNACIONAL ᴴᴰ", "TV: TELEMADRID INT. ᴿᴬᵂ"]
   },
   "La Otra": {
     "ids": ["laotra.es", "LaOtra.es"],
     "display-name": ["ES: LA OTRA ᴴᴰ"]
   },
   "TV3": {
-    "ids": ["tv3.es"],
+    "ids": ["tv3.es", "TV3.es"],
     "display-name": ["GO: TV3 ᴿᴬᵂ"]
   },
   "TV3 Catalunya": {
@@ -734,35 +734,35 @@
     "display-name": ["Esport 3"]
   },
   "À Punt": {
-    "ids": ["À Punt"],
+    "ids": ["APunt.es"],
     "display-name": ["GO: À PUNT ᴿᴬᵂ", "M+: A PUNT ᴿᴬᵂ"]
   },
-  "ETB1": {
+  "etb1": {
     "ids": ["etb1.es"],
     "display-name": ["M+: ETB 1 ᴿᴬᵂ", "ES: ETB 1 ᴴᴰ"]
   },
-  "ETB2": {
+  "etb2": {
     "ids": ["etb2.es"],
     "display-name": ["ES: ETB 2 ᴴᴰ"]
   },
-  "ETB3": {
+  "etb1ON": {
     "ids": ["etb3.es"],
     "display-name": ["M+: ETB 3 ᴿᴬᵂ", "ES: ETB 3 ᴴᴰ"]
   },
-  "EITB Basque": {
-    "ids": ["EITB Basque"],
+  "etb2ON": {
+    "ids": ["eitbbasque.es"],
     "display-name": ["GO: EITB BASQUE ᴿᴬᵂ", "TY: ETB BASQUE ᴿᴬᵂ"]
   },
   "TVG": {
     "ids": ["TVG"],
-    "display-name": ["GO: TVG TV GALICIA ᴿᴬᵂ", "M+: GALICIA TV ᴿᴬᵂ", "ES: TV GALICIA ᴴᴰ"]
+    "display-name": ["GO: TVG TV GALICIA ᴿᴬᵂ", "M+: GALICIA TV ᴿᴬᵂ", "ES: TV GALICIA ᴴᴰ", "TV: TVG -TV GALICIA ᴿᴬᵂ"]
   },
   "TVG2": {
     "ids": ["tvgalicia.es"],
     "display-name": ["ES: TVG 2 ᴴᴰ"]
   },
   "TVG Europa HD": {
-    "ids": ["TVG Europa"],
+    "ids": ["TVGEuropa.es"],
     "display-name": ["GO: TVG EUROPA ᴿᴬᵂ"]
   },
   "Canal Extremadura": {
@@ -782,11 +782,11 @@
     "display-name": ["TY: ARAGÓN TV INT ᴿᴬᵂ"]
   },
   "La 7 CyL": {
-    "ids": ["la7.es"],
+    "ids": ["la7.es", "La7.es"],
     "display-name": ["GO: LA 7 ᴿᴬᵂ", "M+: LA 7 ᴿᴬᵂ", "ES: LAS SIETE ᴴᴰ"]
   },
   "La 7 Murcia": {
-    "ids": ["La 7 Murcia"],
+    "ids": ["7TVRegionMurcia.es"],
     "display-name": ["GO: 7 TV REGIÓN MURCIA ᴿᴬᵂ", "ES: 7RM ᴴᴰ", "ES: 7RM SD", "ES: 7RM ᵁᴴᴰ"]
   },
   "PTV Córdoba": {
@@ -798,15 +798,15 @@
     "display-name": ["ES: PTV GRANADA ᴴᴰ", "ES: PTV GRANADA SD", "ES: PTV GRANADA ᵁᴴᴰ"]
   },
   "CMM TV": {
-    "ids": ["CMM TV"],
+    "ids": ["CastillalaManchaTV.es"],
     "display-name": ["GO: CASTILLA LA MANCHA TV ᴿᴬᵂ", "M+: CMM TV ᴿᴬᵂ", "ES: CMM ᴴᴰ", "ES: CMM SD", "ES: CMM ᵁᴴᴰ"]
   },
   "IB3 TV Illes Balears": {
-    "ids": ["IB3 TV Illes Balears"],
+    "ids": ["IB3.es"],
     "display-name": ["GO: IB 3 ᴿᴬᵂ", "ES: IB3 GLOBAL ᴴᴰ"]
   },
   "Navarra TV": {
-    "ids": ["Navarra TV"],
+    "ids": ["NavarraTV.es"],
     "display-name": ["GO: NAVARRA TV ᴿᴬᵂ"]
   },
   "TV Canaria": {
@@ -975,7 +975,7 @@
   },
 
   "MTV España": {
-    "ids": ["MTV España"],
+    "ids": ["mtv.es", "MTV.es"],
     "display-name": ["GO: MTV ᴿᴬᵂ", "M+: MTV ESPANA ᴿᴬᵂ", "ES: MTV ᴴᴰ", "ES: MTV SD", "ES: MTV ᵁᴴᴰ"]
   },
   "MTV 80s": {
@@ -987,11 +987,11 @@
     "display-name": ["GO: MTV 00S ᴿᴬᵂ", "ES: MTV 00's ᴴᴰ"]
   },
   "Mezzo": {
-    "ids": ["Mezzo"],
+    "ids": ["mezzo.es"],
     "display-name": ["PRIME: MEZZO ᴿᴬᵂ", "GO: MEZZO ᴿᴬᵂ", "ES: MEZZO SD", "ES: MEZZO ᵁᴴᴰ"]
   },
   "Mezzo Live HD": {
-    "ids": ["Mezzo Live"],
+    "ids": ["mezzolivehd.es"],
     "display-name": ["PRIME: MEZZO LIVE ᴿᴬᵂ", "GO: MEZZO LIVE ᴿᴬᵂ", "ES: MEZZO LIVE SD", "ES: MEZZO LIVE ᵁᴴᴰ"]
   },
   "Classica HD": {
@@ -1020,27 +1020,27 @@
     "display-name": ["PRIME: NFL NETWORK ᴿᴬᵂ", "ES: NFL NETWORK: LIVE 24/7 COVERAGE SD", "ES: NFL NETWORK: LIVE 24/7 COVERAGE ᴴᴰ", "ES: NFL NETWORK: LIVE 24/7 COVERAGE ᴿᴬᵂ"]
   },
   "CNN International Europe": {
-    "ids": ["CNN International Europe"],
+    "ids": ["CNNInt.es"],
     "display-name": ["PRIME: CNN ᴿᴬᵂ", "GO: CNN INT ᴿᴬᵂ"]
   },
   "1+1 International": {
     "ids": ["1+1 International"],
-    "display-name": ["GO: 1+1 INTERNACIONAL ᴿᴬᵂ"]
+    "display-name": ["GO: 1+1 INTERNACIONAL ᴿᴬᵂ", "TV: 1+1 INTERNACIONAL ᴿᴬᵂ"]
   },
   "BBC World News Europe HD": {
-    "ids": ["BBC World News Europe"],
+    "ids": ["BBCWorld.es"],
     "display-name": ["GO: BBC WORLD ᴿᴬᵂ", "ES: BBC NEWS ᴴᴰ"]
   },
   "Bloomberg TV Europe": {
-    "ids": ["BloombergEn.ae"],
+    "ids": ["Bloomberg.es", "BloombergEn.ae"],
     "display-name": ["GO: BLOOMBERG ᴿᴬᵂ"]
   },
   "CNBC Europe HD": {
     "ids": ["CNBC Europe"],
-    "display-name": ["GO: CNBC ᴿᴬᵂ"]
+    "display-name": ["GO: CNBC ᴿᴬᵂ", "TV: CNBC ᴿᴬᵂ"]
   },
   "EuroNews": {
-    "ids": ["EuroNews"],
+    "ids": ["Euronews.es"],
     "display-name": ["PRIME: EURONEWS ᴿᴬᵂ", "TY: EURONEWS ᴿᴬᵂ", "GO: EURO NEWS ᴿᴬᵂ"]
   },
   "Cubavisión Internacional HD": {
@@ -1049,14 +1049,14 @@
   },
   "France 24 (en Francais)": {
     "ids": ["FR | FRANCE 24"],
-    "display-name": ["GO: FRANCE24 (FR) ᴿᴬᵂ", "ES: FRANCE 24 ES ᵁᴴᴰ"]
+    "display-name": ["GO: FRANCE24 (FR) ᴿᴬᵂ", "ES: FRANCE 24 ES ᵁᴴᴰ", "TV: FRANCE24 (FR) ᴿᴬᵂ"]
   },
   "TV5 Monde Europe HD": {
-    "ids": ["TV5 Monde Europe HD"],
+    "ids": ["TV5Monde.es"],
     "display-name": ["GO: TV5 MONDE ᴿᴬᵂ"]
   },
   "Al Jazeera English HD": {
     "ids": ["Al Jazeera English HD"],
-    "display-name": ["GO: AL JAZEERA ENGLISH"]
+    "display-name": ["GO: AL JAZEERA ENGLISH", "TV: AL JAZEERA ENGLISH ᴿᴬᵂ"]
   }
 }
