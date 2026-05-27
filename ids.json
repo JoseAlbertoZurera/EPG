@@ -311,18 +311,18 @@
     "display-name": ["ES: DAZN LA LIGA 5 ᴴᴰ", "ES: DAZN LA LIGA 5 SD", "ES: DAZN LA LIGA 5 ᵁᴴᴰ"]
   },
   "M+ LaLiga HDR": {
-    "ids": ["mlaligauhd.es", "MPlusLaligaTV2.es"],
+    "ids": ["mlaligauhd.es"],
     "display-name": ["ES: MOVISTAR LALIGA ᵁᴴᴰ ³⁸⁴⁰ᴾ"]
   },
   "M+ LaLiga 2 HDR": {
-    "ids": ["mlaligauhd2.es"],
+    "ids": ["mlaligauhd2.es", "MPlusLaligaTV2.es"],
     "display-name": ["GO: M+ LALIGA TV 2 ᴴᴰᴿ ³⁸⁴⁰ᴾ"]
   },
   "M+ LaLiga HD": {
     "ids": ["mlaliga.es", "MLaLiga.es", "mlaliga1.es"],
     "display-name": ["ES: LA LIGA 1 ᴴᴰ"]
   },
-  "M+ LaLiga 2 HD": {
+  "M+ Fanzone": {
     "ids": ["mlaliga2.es", "MLaLiga2.es"],
     "display-name": ["ES: LA LIGA 2 ᴴᴰ"]
   },
@@ -554,12 +554,12 @@
     "display-name": ["PRIME: �AMC WESTRN ᴿᴬᵂ", "M+: BUEN VIAJE ᴿᴬᵂ", "ES: BUENVIAJE ᴴᴰ", "ES: BUENVIAJE SD", "ES: BUENVIAJE ᵁᴴᴰ"]
   },
 
-  "M+ Los 2000": {
-    "ids": ["M+ Los 2000"],
+  "M+ Vacaciones": {
+    "ids": ["M+ Vacaciones"],
     "display-name": ["GO: M+ LOS GOYA ᴿᴬᵂ", "TV: M+ LOS GOYA ᴿᴬᵂ"]
   },
-  "M+ Top Comedia Española": {
-    "ids": ["M+ Top Comedia Española"],
+  "M+ Orgullo": {
+    "ids": ["M+ Orgullo"],
     "display-name": ["GO: M+ DEMI MOORE ᴿᴬᵂ", "TV: M+E: DEMI MOORE ᴿᴬᵂ", "ES: MOVISTAR EN JUEGO ᴴᴰ", "ES: MOVISTAR EN JUEGO SD", "ES: MOVISTAR EN JUEGO ᵁᴴᴰ"]
   },
   "M+ Estrenos HD": {
