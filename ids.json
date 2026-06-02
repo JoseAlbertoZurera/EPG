@@ -290,19 +290,19 @@
     "display-name": ["M+: MOTO ADV ᴿᴬᵂ"]
   },
 
-  "DAZN LaLiga HD": {
+  "DAZN Mundial HD": {
     "ids": ["daznlaliga.es", "DaznLaLiga.es"],
     "display-name": ["ES: DAZN LA LIGA ᴴᴰ", "ES: DAZN LA LIGA SD", "ES: DAZN LA LIGA ᵁᴴᴰ", "ES: DAZN LA LIGA ʰᵉᵛᶜ", "VO: MOVISTAR ORANGE ᴴᴰ", "GO: DAZN LA LIGA 1 ᴿᴬᵂ"]
   },
-  "DAZN LaLiga 2 HD": {
+  "DAZN Mundial 2 HD": {
     "ids": ["daznlaliga2.es", "DaznLaLiga2.es"],
     "display-name": ["OR: DAZN LA LIGA 2 ᴿᴬᵂ", "VO: DAZN LALIGA 2 ᴿᴬᵂ", "VO: DAZN LALIGA 2 ᴴᴰ", "M+: DAZN LA LIGA 2 ᴿᴬᵂ", "ES: DAZN LA LIGA 2 ᴴᴰ", "ES: DAZN LA LIGA 2 SD", "ES: DAZN LA LIGA 2 ᵁᴴᴰ"]
   },
-  "DAZN LaLiga 3": {
+  "DAZN Mundial 3": {
     "ids": ["daznlaliga3.es", "DaznLaLiga3.es"],
     "display-name": ["ES: DAZN LA LIGA 3 ᴴᴰ", "ES: DAZN LA LIGA 3 SD", "ES: DAZN LA LIGA 3 ᵁᴴᴰ"]
   },
-  "DAZN LaLiga 4": {
+  "DAZN Mundial 4": {
     "ids": ["daznlaliga4.es", "DaznLaLiga4.es"],
     "display-name": ["ES: DAZN LA LIGA 4 ᴴᴰ", "ES: DAZN LA LIGA 4 SD", "ES: DAZN LA LIGA 4 ᵁᴴᴰ"]
   },
@@ -328,7 +328,7 @@
   },
   "M+ LaLiga 3 HD": {
     "ids": ["mlaliga3.es", "MLaLiga3.es"],
-    "display-name": ["ES: M+ LALIGA TV 3 ᵁᴴᴰ"]
+    "display-name": ["ES: M+ LALIGA TV 3 ᴿᴬᵂ"]
   },
   "M+ LaLiga 4": {
     "ids": ["mlaliga4.es", "MLaLiga4.es", "MPlusLaligaTV4.es"],
@@ -396,6 +396,10 @@
   "M+ Deportes 7": {
     "ids": ["MovistarDeportes7.es", "mdeportes7.es", "MovistarDeportes7.es"],
     "display-name": ["ES: MOVISTAR DEPORTES 7 SD (SOLO EVENTOS)"]
+  },
+  "M+ Deportes 8": {
+    "ids": ["MovistarDeportes8.es", "mdeportes8.es", "MovistarDeportes8.es"],
+    "display-name": ["TV: M+ DEPORTES 8 ᴿᴬᵂ"]
   },
 
   "M+ Liga de Campeones HDR": {
