@@ -292,19 +292,19 @@
 
   "DAZN Mundial HD": {
     "ids": ["daznlaliga.es", "DaznLaLiga.es"],
-    "display-name": ["ES: DAZN LA LIGA ᴴᴰ / MUNDIAL", "ES: DAZN LA LIGA SD / MUNDIAL", "ES: DAZN LA LIGA ᵁᴴᴰ / MUNDIAL", "ES: DAZN LA LIGA ʰᵉᵛᶜ / MUNDIAL", "VO: MOVISTAR ORANGE ᴴᴰ", "GO: DAZN LA LIGA 1 ᴿᴬᵂ"]
+    "display-name": ["ES: DAZN LA LIGA ᴴᴰ", "ES: DAZN LA LIGA SD", "ES: DAZN LA LIGA ᵁᴴᴰ", "ES: DAZN LA LIGA ʰᵉᵛᶜ", "VO: MOVISTAR ORANGE ᴴᴰ", "GO: DAZN LA LIGA 1 ᴿᴬᵂ", "WC: DAZN MUNDIAL ᴴᴰ", "WC: DAZN MUNDIAL SD", "WC: DAZN MUNDIAL ʰᵉᵛᶜ", "WC: DAZN MUNDIAL ᴿᴬᵂ (ORANGE)", "WC: DAZN MUNDIAL ᴿᴬᵂ  RAW", "WC: DAZN MUNDIAL ᴿᴬᵂ  RAW", "WC: DAZN MUNDIAL ᴿᴬᵂ  [OPCION 2]"]
   },
   "DAZN Mundial 2 HD": {
     "ids": ["daznlaliga2.es", "DaznLaLiga2.es"],
-    "display-name": ["OR: DAZN LA LIGA 2 ᴿᴬᵂ", "VO: DAZN LALIGA 2 ᴿᴬᵂ", "VO: DAZN LALIGA 2 ᴴᴰ", "M+: DAZN LA LIGA 2 ᴿᴬᵂ", "ES: DAZN LA LIGA 2 ᴴᴰ / MUNDIAL", "ES: DAZN LA LIGA 2 SD / MUNDIAL", "ES: DAZN LA LIGA 2 ᵁᴴᴰ / MUNDIAL"]
+    "display-name": ["OR: DAZN LA LIGA 2 ᴿᴬᵂ", "VO: DAZN LALIGA 2 ᴿᴬᵂ", "VO: DAZN LALIGA 2 ᴴᴰ", "M+: DAZN LA LIGA 2 ᴿᴬᵂ", "ES: DAZN LA LIGA 2 ᴴᴰ", "ES: DAZN LA LIGA 2 SD", "ES: DAZN LA LIGA 2 ᵁᴴᴰ", "WC: DAZN MUNDIAL 2 ᴴᴰ", "WC: DAZN MUNDIAL 2 SD", "WC: DAZN MUNDIAL 2 ᴿᴬᵂ (ORANGE)", "WC: DAZN MUNDIAL 2 ᴿᴬᵂ"]
   },
   "DAZN Mundial 3": {
     "ids": ["daznlaliga3.es", "DaznLaLiga3.es"],
-    "display-name": ["ES: DAZN LA LIGA 3 ᴴᴰ / MUNDIAL", "ES: DAZN LA LIGA 3 SD / MUNDIAL", "ES: DAZN LA LIGA 3 ᵁᴴᴰ / MUNDIAL"]
+    "display-name": ["ES: DAZN LA LIGA 3 ᴴᴰ", "ES: DAZN LA LIGA 3 SD", "ES: DAZN LA LIGA 3 ᵁᴴᴰ", "WC: DAZN MUNDIAL 3 ᴴᴰ", "WC: DAZN MUNDIAL 3 SD", "WC: DAZN MUNDIAL 3 ᴿᴬᵂ (ORANGE)", "WC: DAZN MUNDIAL 3 ᴿᴬᵂ"]
   },
   "DAZN Mundial 4": {
     "ids": ["daznlaliga4.es", "DaznLaLiga4.es"],
-    "display-name": ["ES: DAZN LA LIGA 4 ᴴᴰ / MUNDIAL", "ES: DAZN LA LIGA 4 SD / MUNDIAL", "ES: DAZN LA LIGA 4 ᵁᴴᴰ / MUNDIAL"]
+    "display-name": ["ES: DAZN LA LIGA 4 ᴴᴰ", "ES: DAZN LA LIGA 4 SD", "ES: DAZN LA LIGA 4 ᵁᴴᴰ", "WC: DAZN MUNDIAL 4 ᴴᴰ", "WC: DAZN MUNDIAL 4 SD", "WC: DAZN MUNDIAL 4 ᴿᴬᵂ (ORANGE)", "WC: DAZN MUNDIAL 4 ᴿᴬᵂ"]
   },
   "DAZN LaLiga 5": {
     "ids": ["daznlaliga5.es", "DaznLaLiga5.es"],
