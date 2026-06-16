@@ -72,7 +72,7 @@
     "display-name": ["ES: 24H TVE ᴴᴰ", "ES: 24H TVE ᵁᴴᴰ", "DIGI: 24H ᴿᴬᵂ"]
   },
 
-  "Movistar Plus+ HD": {
+  "Movistar Plus HD": {
     "ids": ["movistarplus.es", "Movistarplus.es", "ES: MOVISTAR PLUS+ ᴴᴰ", "840100"],
     "display-name": ["ES: MOVISTAR PLUS+ ᴴᴰ", "ES: MOVISTAR PLUS+ SD", "ES: MOVISTAR PLUS+ ᵁᴴᴰ", "GO: MOVISTAR PLUS+ 2 ᴿᴬᵂ"]
   },
@@ -237,7 +237,7 @@
     "ids": ["Ubeat.es"],
     "display-name": ["GO: UBEAT ᴿᴬᵂ", "ES: U-BEAT ᵁᴴᴰ"]
   },
-  "Unbeaten": {
+  "Unbeaten (DAZN)": {
     "ids": ["Unbeaten"],
     "display-name": ["ES: UNBEATEN SD", "ES: UNBEATEN ᴴᴰ", "ES: UNBEATEN ᴿᴬᵂ"]
   },
@@ -989,13 +989,17 @@
     "ids": ["Dramas (Rakuten TV)"],
     "display-name": ["ES: RAKUTEN TV DRAMA MOVIES ᴿᴬᵂ"]
   },
-  "100% Navidad (Rakuten TV)": {
-    "ids": ["100% Navidad (Rakuten TV)"],
+  "En Familia (Rakuten TV)": {
+    "ids": ["En Familia (Rakuten TV)"],
     "display-name": ["ES: RAKUTEN TV FAMILY MOVIES ᴿᴬᵂ"]
   },
   "Películas Románticas (Rakuten TV)": {
     "ids": ["Películas Románticas (Rakuten TV)"],
     "display-name": ["ES: RAKUTEN TV ROMANCE MOVIES ᴿᴬᵂ"]
+  },
+  "Sci-Fi (Rakuten TV)": {
+    "ids": ["Sci-Fi (Rakuten TV)"],
+    "display-name": ["ES: RAKUTEN TV SCI-FI MOVIES ᴿᴬᵂ"]
   },
   "Thrillers (Rakuten TV)": {
     "ids": ["Thrillers (Rakuten TV)"],
@@ -1051,7 +1055,7 @@
     "display-name": ["ES: FLAMENCO AUDITORIO ᴴᴰ"]
   },
 
-  "NFL Network": {
+  "NFL Network (DAZN)": {
     "ids": ["NFL Network"],
     "display-name": ["PRIME: NFL NETWORK ᴿᴬᵂ", "ES: NFL NETWORK: LIVE 24/7 COVERAGE SD", "ES: NFL NETWORK: LIVE 24/7 COVERAGE ᴴᴰ", "ES: NFL NETWORK: LIVE 24/7 COVERAGE ᴿᴬᵂ"]
   },
