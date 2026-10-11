@@ -76,7 +76,7 @@
     "ids": ["movistarplus.es", "Movistarplus.es", "ES: MOVISTAR PLUS+ ᴴᴰ", "840100"],
     "display-name": ["ES: MOVISTAR PLUS+ ᴴᴰ", "ES: MOVISTAR PLUS+ SD", "ES: MOVISTAR PLUS+ ᵁᴴᴰ", "GO: MOVISTAR PLUS+ 2 ᴿᴬᵂ"]
   },
-  "GOL": {
+  "Replay": {
     "ids": ["gol.es", "Gol.es", "GolPlay.es"],
     "display-name": ["ES: GOL PLAY ᴴᴰ", "ES: GOL PLAY SD", "ES: GOL PLAY ᵁᴴᴰ", "DIGI: GOL PLAY ᴿᴬᵂ"]
   },
@@ -114,7 +114,7 @@
   },
   "HBO Max Avances": {
     "ids": ["MaxAvances.es"],
-    "display-name": ["GO: MAX AVANCES ᴿᴬᵂ", "ES: Max Avances ᴴᴰ", "ES: Max Avances SD", "ES: Max Avances ᵁᴴᴰ"]
+    "display-name": ["GO: MAX AVANCES ᴿᴬᵂ", "ES: Max Avances ᴴᴰ", "ES: Max Avances SD", "ES: Max Avances ᵁᴴᴰ", "ES: HBO Max Avances ᴴᴰ", "ES: HBO Max Avances SD", "ES: HBO Max Avances ᵁᴴᴰ"]
   },
   "AMC+ Connect": {
     "ids": ["AMC+ Connect"],
@@ -170,7 +170,7 @@
   },
   "Escapa TV": {
     "ids": ["Escapa TV"],
-    "display-name": ["ES: ESCAPA TV ᴴᴰ", "DIGI: ESCAPA TV ᴿᴬᵂ"]
+    "display-name": ["ES: ESCAPA TV ᴴᴰ", "ES: ESCAPA TV SD",  "ES: ESCAPA TV ᵁᴴᴰ"]
   },
   "Canal de las Estrellas": {
     "ids": ["Canal de las Estrellas"],
@@ -183,7 +183,7 @@
   },
   "DAZN MotoGP": {
     "ids": ["DAZN MotoGP"],
-    "display-name": ["ES: DAZN MOTOGP SD", "ES: DAZN MOTOGP ᴴᴰ", "ES: DAZN MOTOGP ᵁᴴᴰ"]
+    "display-name": ["ES: DAZN MOTOGP SD", "ES: DAZN MOTOGP ᴴᴰ", "ES: DAZN MOTOGP ᵁᴴᴰ", "ES: DAZN MOTOGP ᴴᴰ ⁽ᴮᴷ⁾"]
   },
   "DAZN 1 HD": {
     "ids": ["dazn1.es", "DAZN1.es"],
@@ -233,9 +233,9 @@
     "ids": ["movistargolf2.es", "MovistarGolf2.es"],
     "display-name": ["GO: M+ MOVISTAR GOLF 2 ᴿᴬᵂ", "ES: MOVISTAR GOLF 2 SD"]
   },
-  "UBEAT": {
-    "ids": ["Ubeat.es"],
-    "display-name": ["GO: UBEAT ᴿᴬᵂ", "ES: U-BEAT ᵁᴴᴰ"]
+  "RekTV": {
+    "ids": ["RekTV.es"],
+    "display-name": ["ES: REKTV ᴴᴰ", "ES: REKTV SD", "ES: REKTV ᵁᴴᴰ"]
   },
   "Unbeaten (DAZN)": {
     "ids": ["Unbeaten"],
@@ -247,7 +247,7 @@
   },
   "Surf Channel": {
     "ids": ["Surf Channel"],
-    "display-name": ["DIGI: SURF CHANNEL ᴿᴬᵂ"]
+    "display-name": ["ES: SURF CHANNEL ᴴᴰ", "ES: SURF CHANNEL SD", "ES: SURF CHANNEL ᵁᴴᴰ"]
   },
   "DE | Rally TV": {
     "ids": ["DE | Rally TV"],
@@ -287,7 +287,7 @@
   },
   "Moto ADV": {
     "ids": ["Moto ADV"],
-    "display-name": ["M+: MOTO ADV ᴿᴬᵂ"]
+    "display-name": ["M+: MOTO ADV ᴿᴬᵂ", "ES: MOTO ADV ᴴᴰ", "ES: MOTO ADV SD", "ES: MOTO ADV ᵁᴴᴰ"]
   },
 
   "DAZN LaLiga HD": {
@@ -345,28 +345,48 @@
 
   "LaLiga TV Hypermotion HD": {
     "ids": ["mlaligahypermotion.es"],
-    "display-name": ["PRIME: LALIGA HYPERMOTION TV ᴿᴬᵂ", "ES: LALIGA TV HYPERMOTION ᴴᴰ", "ES: LALIGA TV HYPERMOTION SD", "ES: LALIGA TV HYPERMOTION ᵁᴴᴰ", "GO: LIGA SMARTBANK 1 ᴿᴬᵂ", "DIGI: LALIGATV HYPERMOTION ᴿᴬᵂ"]
+    "display-name": ["PRIME: LALIGA HYPERMOTION TV ᴿᴬᵂ", "ES: LALIGA TV HYPERMOTION ᴴᴰ", "ES: LALIGA TV HYPERMOTION SD", "ES: LALIGA TV HYPERMOTION ᵁᴴᴰ", "ES: LALIGA TV HYPERMOTION ᴿᴬᵂ", "GO: LIGA SMARTBANK 1 ᴿᴬᵂ"]
   },
   "LaLiga TV Hypermotion 2": {
     "ids": ["mlaligahypermotion2.es"],
-    "display-name": ["PRIME: LALIGA HYPERMOTION TV 2 ᴿᴬᵂ", "ES: LALIGA TV HYPERMOTION 2 ᴴᴰ", "ES: LALIGA TV HYPERMOTION 2 SD", "ES: LALIGA TV HYPERMOTION 2 ᵁᴴᴰ", "GO: LIGA SMARTBANK 2 ᴿᴬᵂ", "DIGI: LALIGATV 2 HYPERMOTION ᴿᴬᵂ"]
+    "display-name": ["PRIME: LALIGA HYPERMOTION TV 2 ᴿᴬᵂ", "ES: LALIGA TV HYPERMOTION 2 ᴴᴰ", "ES: LALIGA TV HYPERMOTION 2 SD", "ES: LALIGA TV HYPERMOTION 2 ᵁᴴᴰ", "GO: LIGA SMARTBANK 2 ᴿᴬᵂ"]
   },
   "LaLiga TV Hypermotion 3": {
     "ids": ["mlaligahypermotion3.es"],
-    "display-name": ["PRIME: LALIGA HYPERMOTION TV 3 ᴿᴬᵂ", "ES: LALIGA TV HYPERMOTION 3 ᴴᴰ", "ES: LALIGA TV HYPERMOTION 3 SD", "ES: LALIGA TV HYPERMOTION 3 ᵁᴴᴰ", "GO: LIGA SMARTBANK 3 ᴿᴬᵂ", "DIGI: LALIGATV 3 HYPERMOTION ᴿᴬᵂ"]
+    "display-name": ["PRIME: LALIGA HYPERMOTION TV 3 ᴿᴬᵂ", "ES: LALIGA TV HYPERMOTION 3 ᴴᴰ", "ES: LALIGA TV HYPERMOTION 3 SD", "ES: LALIGA TV HYPERMOTION 3 ᵁᴴᴰ", "GO: LIGA SMARTBANK 3 ᴿᴬᵂ"]
   },
 
   "DAZN Baloncesto": {
     "ids": ["DAZN Baloncesto"],
-    "display-name": ["ES: DAZN BALONCESTO 1 ᴿᴬᵂ"]
+    "display-name": ["ES: DAZN BALONCESTO ᴿᴬᵂ", "ES: DAZN BALONCESTO ᴴᴰ", "ES: DAZN BALONCESTO SD"]
   },
   "DAZN Baloncesto 2": {
     "ids": ["DAZN Baloncesto 2"],
-    "display-name": ["ES: DAZN BALONCESTO 2 ᴿᴬᵂ"]
+    "display-name": ["ES: DAZN BALONCESTO 2 ᴿᴬᵂ", "ES: DAZN BALONCESTO 2 ᴴᴰ", "ES: DAZN BALONCESTO 2 SD"]
   },
   "DAZN Baloncesto 3": {
     "ids": ["DAZN Baloncesto 3"],
-    "display-name": ["ES: DAZN BALONCESTO 3 ᴿᴬᵂ"]
+    "display-name": ["ES: DAZN BALONCESTO 3 ᴿᴬᵂ", "ES: DAZN BALONCESTO 3 ᴴᴰ", "ES: DAZN BALONCESTO 3 SD"]
+  },
+  "M+ Baloncesto": {
+    "ids": ["M+ Baloncesto"],
+    "display-name": ["ES: M+ BALONCESTO ᴿᴬᵂ", "ES: M+ BALONCESTO ᴴᴰ", "ES: M+ BALONCESTO SD"]
+  },
+  "M+ Baloncesto 2": {
+    "ids": ["M+ Baloncesto 2"],
+    "display-name": ["ES: M+ BALONCESTO 2 ᴿᴬᵂ", "ES: M+ BALONCESTO 2 ᴴᴰ", "ES: M+ BALONCESTO 2 SD"]
+  },
+  "M+ Baloncesto 3": {
+    "ids": ["M+ Baloncesto 3"],
+    "display-name": ["ES: M+ BALONCESTO 3 ᴿᴬᵂ", "ES: M+ BALONCESTO 3 ᴴᴰ", "ES: M+ BALONCESTO 3 SD"]
+  },
+  "M+ Baloncesto 4": {
+    "ids": ["M+ Baloncesto 4"],
+    "display-name": ["ES: M+ BALONCESTO 4 ᴿᴬᵂ", "ES: M+ BALONCESTO 4 ᴴᴰ", "ES: M+ BALONCESTO 4 SD"]
+  },
+  "M+ Baloncesto 5": {
+    "ids": ["M+ Baloncesto 5"],
+    "display-name": ["ES: M+ BALONCESTO 5 ᴿᴬᵂ", "ES: M+ BALONCESTO 5 ᴴᴰ", "ES: M+ BALONCESTO 5 SD"]
   },
 
   "M+ Deportes HD": {
@@ -558,13 +578,13 @@
     "display-name": ["PRIME: �AMC WESTRN ᴿᴬᵂ", "M+: BUEN VIAJE ᴿᴬᵂ", "ES: BUENVIAJE ᴴᴰ", "ES: BUENVIAJE SD", "ES: BUENVIAJE ᵁᴴᴰ"]
   },
 
-  "M+ Vacaciones": {
-    "ids": ["M+ Vacaciones"],
-    "display-name": ["GO: M+ LOS GOYA ᴿᴬᵂ", "TV: M+ LOS GOYA ᴿᴬᵂ"]
+  "M+ Terror": {
+    "ids": ["M+ Terror"],
+    "display-name": ["GO: M+ LOS GOYA ᴿᴬᵂ", "TV: M+ LOS GOYA ᴿᴬᵂ", "ES: MOVISTAR TERROR ᴴᴰ", "ES: MOVISTAR TERROR SD", "ES: MOVISTAR TERROR ᵁᴴᴰ"]
   },
-  "M+ Orgullo": {
-    "ids": ["M+ Orgullo"],
-    "display-name": ["GO: M+ DEMI MOORE ᴿᴬᵂ", "TV: M+E: DEMI MOORE ᴿᴬᵂ", "ES: MOVISTAR EN JUEGO ᴴᴰ", "ES: MOVISTAR EN JUEGO SD", "ES: MOVISTAR EN JUEGO ᵁᴴᴰ"]
+  "M+ Romance": {
+    "ids": ["M+ Romance"],
+    "display-name": ["GO: M+ DEMI MOORE ᴿᴬᵂ", "TV: M+E: DEMI MOORE ᴿᴬᵂ", "ES: MOVISTAR EN JUEGO ᴴᴰ", "ES: MOVISTAR EN JUEGO SD", "ES: MOVISTAR EN JUEGO ᵁᴴᴰ", "ES: MOVISTAR ROMANCE ᴴᴰ", "ES: MOVISTAR ROMANCE SD", "ES: MOVISTAR ROMANCE ᵁᴴᴰ"]
   },
   "M+ Estrenos HD": {
     "ids": ["movistarestrenos.es", "movistarestrenos2.es", "MovistarCine.es"],
@@ -833,6 +853,14 @@
     "ids": ["PTV Granada"],
     "display-name": ["ES: PTV GRANADA ᴴᴰ", "ES: PTV GRANADA SD", "ES: PTV GRANADA ᵁᴴᴰ"]
   },
+  "PTV Sevilla": {
+    "ids": ["PTV Sevilla"],
+    "display-name": ["ES: PTV Sevilla ᴴᴰ", "ES: PTV Sevilla SD", "ES: PTV Sevilla ᵁᴴᴰ"]
+  },
+  "PTV Málaga": {
+    "ids": ["PTV Málaga"],
+    "display-name": ["ES: PTV Málaga ᴴᴰ", "ES: PTV Málaga SD", "ES: PTV Málaga ᵁᴴᴰ"]
+  },
   "CMM TV": {
     "ids": ["CastillalaManchaTV.es"],
     "display-name": ["GO: CASTILLA LA MANCHA TV ᴿᴬᵂ", "M+: CMM TV ᴿᴬᵂ", "ES: CMM ᴴᴰ", "ES: CMM SD", "ES: CMM ᵁᴴᴰ"]
@@ -973,8 +1001,8 @@
     "display-name": ["VO: HBO 4 ᴴᴰ"]
   },
 
-  "Acción (Rakuten TV)": {
-    "ids": ["Acción (Rakuten TV)"],
+  "Películas de Acción (Rakuten TV)": {
+    "ids": ["Películas de Acción (Rakuten TV)"],
     "display-name": ["ES: RAKUTEN TV ACCION ᴿᴬᵂ"]
   },
   "Cine Español (Rakuten TV)": {
@@ -985,8 +1013,8 @@
     "ids": ["Crimen (Rakuten TV)"],
     "display-name": ["ES: RAKUTEN TV CRIME SERIES ᴿᴬᵂ"]
   },
-  "Dramas (Rakuten TV)": {
-    "ids": ["Dramas (Rakuten TV)"],
+  "Películas de Drama (Rakuten TV)": {
+    "ids": ["Películas de Drama (Rakuten TV)"],
     "display-name": ["ES: RAKUTEN TV DRAMA MOVIES ᴿᴬᵂ"]
   },
   "En Familia (Rakuten TV)": {
